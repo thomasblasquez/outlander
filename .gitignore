@@ -3,5 +3,7 @@
 # Allow
 !mods/Outlander Additional Files/*
 mods/Outlander Additional Files/distantland/statics/static_meshes
-!Stock Game Folder/mcpatch/installed*/*
+!Stock Game Folder/
 !downloads/*.metadata
+!mods/*/meta.ini
+!profiles/*
