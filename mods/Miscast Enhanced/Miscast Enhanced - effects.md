@@ -1,0 +1,148 @@
+# Miscast Enhanced: Effects
+
+This documents contains a list of supported magic effects and what their miscasts will do. The majority of these miscasts will apply to all actors, not just the player.
+
+## Schools of Magic
+
+These miscasts will be used if the magic effect does not have a special miscast available.
+
+**Destruction**:
+
+## Magic Effects
+
+If a miscast is marked as [inverse], this means the cast type of the original spell effect will be reversed in the miscast. So for example, the inverse of "on-self" is "on-target". The inverse of "on-target" and "on-touch" is "on-self". Miscasts will always have duration, areas, and magnitudes that are randomized numbers smaller than the source magic effect.
+
+- Absorb Attribute -> [inverse] Damage Attribute
+- Absorb Health -> [inverse] Damage Health
+- Absorb Fatigue -> [inverse] Damage Fatigue
+- Absorb Magicka -> [inverse] Damage Magicka
+- Absorb Skill -> [inverse] Damage Skill
+- Almsivi Intervention -> Teleport to random location. WARNING: Truly random.
+- Blind -> [inverse] Blind
+- Bound Battle Axe -> Bound Item + Damage Health
+- Bound Boots -> Bound Item + Damage Health
+- Bound Cuirass -> Bound Item + Damage Health
+- Bound Dagger -> Bound Item + Damage Health
+- Bound Gloves -> Bound Item + Damage Health
+- Bound Helm -> Bound Item + Damage Health
+- Bound Longbow -> Bound Item + Damage Health
+- Bound Longsword -> Bound Item + Damage Health
+- Bound Mace -> Bound Item + Damage Health
+- Bound Shield -> Bound Item + Damage Health
+- Bound Spear -> Bound Item + Damage Health
+- Burder -> Feather
+- Call Bear -> Summons creature and it attacks the caster.
+- Call Wolf -> Summons creature and it attacks the caster.
+- Calm Creature -> Frenzy Creature
+- Calm Humanoid -> Frenzy Humanoid
+- Chameleon -> Chameleon is applied to nearby actors.
+- Charm -> Lowers disposition of NPCs near the caster.
+- Command Creature -> Frenzy Creature
+- Command Humanoid -> Frenzy Humanoid
+- Cure Blight Disease -> Weaknesss to Blight Disease for 30 - 60 seconds.
+- Cure Common Disease -> Weaknesss to Common Disease for 30 - 60 seconds.
+- Cure Corprus Disease -> Weaknesss to Corprus Disease for 30 - 60 seconds.
+- Cure Paralyzation -> [inverse] Paralyze
+- Cure Poison -> Weaknesss to Poison for 30 - 60 seconds.
+- Damage Attribute -> Restore Attribute
+- Damage Health -> Restore Health
+- Damage Fatigue -> Restore Fatigue
+- Damage Magicka -> Restore Magicka
+- Damage Skill -> Restore Skill
+- Demoralize Creature -> Frenzy Creature
+- Demoralize Humanoid -> Frenzy Humanoid
+- Detect Animal -> Nearby animals are alerted to the caster's prescence and may attack.
+- Detect Enchantment -> No effect
+- Detect Key -> No effect
+- Disintegrate Armor -> [inverse] Disintegrate Armor
+- Disintegrate Weapon -> [inverse] Disintegrate Weapon
+- Dispel -> Dispel is applied to nearby actors.
+- Divine Intervention -> Teleport to random location. WARNING: Truly random.
+- Drain Attribute -> Restore Attribute
+- Drain Health -> Restore Health
+- Drain Fatigue -> Restore Fatigue
+- Drain Magicka -> Restore Magicka
+- Drain Skill -> Restore Skill
+- Feather -> Burden
+- Fire -> [inverse] Fire
+- Fire Shield -> [inverse] Fire Shield
+- Fortify Attack -> Hit chance is temporarily decreased for caster.
+- Fortify Attribute -> Damage Attribute
+- Fortify Health -> Damage Health
+- Fortify Fatigue -> Damage Fatigue
+- Fortify Magicka -> Damage Magicka
+- Fortify Maximum Magicka -> Damage Magicka
+- Fortify Skill -> Damage Skill
+- Frenzy Creature -> Calm Creature
+- Frenzy Humanoid -> Calm Humanoid
+- Frost -> [inverse] Frost
+- Frost Shield -> [inverse] Frost Shield
+- Invisibility -> Nearby actors turn invisible.
+- Jump -> Player is unable to jump. Does not affect NPCs.
+- Levitation -> Player floats upwards like a balloon. Does not affect NPCs.
+- Light -> Nearby actors gain Light.
+- Lightning Shield -> [inverse] Lightning Shield
+- Lock -> Lock level of target is increased.
+- Mark -> Recall
+- Night Eye -> Blind
+- Open -> Lock level of target is increased.
+- Paralyze -> [inverse] Paralyze
+- Poison -> [inverse] Poison
+- Rally Creature -> Demoralize Creature
+- Rally Humanoid -> Demoralize Humanoid
+- Recall -> Player is teleported to a random location.
+- Reflect -> [inverse] Reflect
+- Resist Blight Disease -> Weakness To Blight Disease
+- Resist Common Disease -> Weakness To Common Disease
+- Resist Fire -> Weakness To Fire
+- Resist Frost -> Weakness To Frost
+- Resist Magicka -> Weakness To Magicka
+- Resist Normal Weapons -> Weakness To Normal Weapons
+- Resist Paralysis -> Paralyze
+- Resist Poison -> Weakness To Poison
+- Resist Shock -> Weakness To Shock
+- Restore Attribute -> Damage Attribute
+- Restore Health -> Damage Health
+- Restore Fatigue -> Damage Fatigue
+- Restore Magicka -> Damage Magicka
+- Restore Maximum Magicka -> Damage Magicka
+- Restore Skill -> Damage Skill
+- Sanctuary -> Reduces caster's chance of hit chance.
+- Shield -> Nearby actors gain Shield.
+- Shock -> [inverse] Shock
+- Silence -> [inverse] Silence
+- Slowfall -> Falling velocity is accelerated. Can be fatal. Does not affect NPCs.
+- Soultrap -> Destroys a random soul gem in the player's inventory.
+- Sound -> [inverse] Sound
+- Spell Absorption -> [inverse] Spell Absorption
+- Summon Ancestral Ghost -> Summons the creature to attack the caster.
+- Summon Bonelord -> Summons the creature to attack the caster.
+- Summon Bonewalker -> Summons the creature to attack the caster.
+- Summon Bonewolf -> Summons the creature to attack the caster.
+- Summon Centurion Sphere -> Summons the creature to attack the caster.
+- Summon Clannfear -> Summons the creature to attack the caster.
+- Summon Daedroth -> Summons the creature to attack the caster.
+- Summon Dremora -> Summons the creature to attack the caster.
+- Summon Fabricant -> Summons the creature to attack the caster.
+- Summon Flame Atronach -> Summons the creature to attack the caster.
+- Summon Frost Atronach -> Summons the creature to attack the caster.
+- Summon Golden Saint -> Summons the creature to attack the caster.
+- Summon Greater Bonewalker -> Summons the creature to attack the caster.
+- Summon Hunger -> Summons the creature to attack the caster.
+- Summon Scamp -> Summons the creature to attack the caster.
+- Summon Skeletal Minion -> Summons the creature to attack the caster.
+- Summon Storm Atronach -> Summons the creature to attack the caster.
+- Summon Winged Twilight -> Summons the creature to attack the caster.
+- Swift Swim -> Caster swim speed is reduced.
+- Telekinesis -> Caster is unable to pickup or interact with objects.
+- Turn Undead -> Frenzy Creature
+- Waterbreathing -> Caster is unable to breath air. Does not affect NPCs.
+- Waterwalking -> Caster is unable to float in water and swims along the water floor like it is normal ground. Does not affect NPCs.
+- Weakness to Blight Disease -> Resist Blight Disease
+- Weakness to Common Disease -> Resist Common Disease
+- Weakness to Fire -> Resist Fire
+- Weakness to Frost -> Resist Frost
+- Weakness to Magicka -> Resist Magicka
+- Weakness to Normal Weapons -> Resist Normal Weapons
+- Weakness to Poison -> Resist Poison
+- Weakness to Shock -> Resist Shock

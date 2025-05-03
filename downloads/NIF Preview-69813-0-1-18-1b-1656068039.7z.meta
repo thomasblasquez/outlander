@@ -1,0 +1,19 @@
+[General]
+gameName=SkyrimSE
+modID=69813
+fileID=293627
+url=
+name=NIF Preview
+description=Compatible with Mod Organizer 2.4.3-2.4.4.\n<br /><br />This is currently a beta release and is expected to have some bugs.
+modName=NIF Preview (3D Model Viewer) for Mod Organizer
+version=0.1.8.0b
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=4
+category=39
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=false
+uninstalled=false
+paused=false
+removed=false

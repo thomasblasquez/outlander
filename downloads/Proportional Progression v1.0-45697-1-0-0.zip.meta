@@ -1,0 +1,19 @@
+[General]
+gameName=Morrowind
+modID=45697
+fileID=1000010296
+url=
+name=Proportional Progression v1.0
+description=Initial release.
+modName=Proportional Progression
+version=1.0.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=4
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=false

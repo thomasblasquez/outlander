@@ -1,0 +1,109 @@
+# Files
+*.zip
+*.html
+*.lua*
+*.esp
+*.pas
+*.cnt
+*.hlp
+*.ess
+*.esm
+*.bsa
+*.exe
+*.dll
+*.7z
+*.dds
+*.nif*
+*.rar
+*.kf
+*.wav
+*.mp3*
+*.tga
+*.bik
+*.bmp
+*.toml
+*.fx
+*.psd
+*.pk
+*.tex
+*.fnt
+*.jpg
+*.jpeg
+*.png
+*.log
+*.yaml
+*.ovr
+# Strings
+*read*me*.*
+*.omwaddon
+*.omwscripts
+*.pdn
+*.bak
+*.backup
+*.jar
+*.omwfx
+*.xls
+*.py*
+*.dat*
+*.ods
+*.db
+
+# Specific
+dump_running_process.bat
+
+# Folders
+**/MWSE/*
+/dlls/*
+/explorer++/*
+/licenses/*
+/logs/*
+/plugins/*
+/crashDumps/*
+/loot/*
+/NCC/*
+/overwrite/*
+/platforms/*
+/pythoncore/*
+/QtQml/*
+/QtQuick.2/*
+/resources/*
+/styles/*
+/stylesheets/*
+/translations/*
+/tutorials/*
+/webcache/*
+/mods/ReadMes and Docs
+mods/MWSE Dynamic Object Replacer/MWSE/
+/Stock Game Folder/tes3cmd/*
+
+# Allow
+!mods/Outlander Additional Files/*
+mods/Ashfall - A Camping Survival and Needs Mod/MWSE/mods/mer/ashfall/metadata.json
+/Stock Game Folder/mge3
+Stock Game Folder/mcpatch/installed
+/Stock Game Folder/mcpatch
+*.out
+*.frag
+*.prog
+*.vert
+*.qss
+/Stock Game Folder/.tools
+Stock Game Folder/Journal.htm
+*.ico
+Stock Game Folder/morrowind.ini.old
+*.xml
+Stock Game Folder/Warnings.txt
+Stock Game Folder/MWSE-Update.exe.tmp
+Stock Game Folder/CSSE_MiniDump.dmp
+Stock Game Folder/ChargenScenarioClutter.txt
+Stock Game Folder/chargenScenariosLocations.txt
+Stock Game Folder/ProgramFlow.txt
+Stock Game Folder/Newtonsoft.Json.dll.tmp
+*.txt
+*.dxvk-cache
+mods/Ultimate Creeper Party House/textures/az/desktop.ini
+mods/VSBR Vanilla style body replacer/Textures/hg/desktop.ini
+mods/VSBR Vanilla style body replacer/Textures/desktop.ini
+mods/VSBR Vanilla style body replacer/Textures/hg/vsbr/desktop.ini
+nxmhandler.ini
+mods/Outlander Additional Files/distantland/statics/static_meshes
