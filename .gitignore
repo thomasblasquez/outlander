@@ -73,14 +73,14 @@ dump_running_process.bat
 /tutorials/*
 /webcache/*
 /mods/ReadMes and Docs
-mods/MWSE Dynamic Object Replacer/MWSE/
 /Stock Game Folder/tes3cmd/*
+/mods/**/*.txt
 
 # Allow
 !mods/Outlander Additional Files/*
 mods/Ashfall - A Camping Survival and Needs Mod/MWSE/mods/mer/ashfall/metadata.json
 /Stock Game Folder/mge3
-Stock Game Folder/mcpatch/installed
+!Stock Game Folder/mcpatch/installed
 /Stock Game Folder/mcpatch
 *.out
 *.frag
@@ -99,11 +99,12 @@ Stock Game Folder/ChargenScenarioClutter.txt
 Stock Game Folder/chargenScenariosLocations.txt
 Stock Game Folder/ProgramFlow.txt
 Stock Game Folder/Newtonsoft.Json.dll.tmp
-*.txt
 *.dxvk-cache
 mods/Ultimate Creeper Party House/textures/az/desktop.ini
 mods/VSBR Vanilla style body replacer/Textures/hg/desktop.ini
 mods/VSBR Vanilla style body replacer/Textures/desktop.ini
 mods/VSBR Vanilla style body replacer/Textures/hg/vsbr/desktop.ini
 nxmhandler.ini
+Files/distantland/statics/static_meshes
 mods/Outlander Additional Files/distantland/statics/static_meshes
+mods/MWSE Dynamic Object Replacer/MWSE/
