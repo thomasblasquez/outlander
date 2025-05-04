@@ -9,17 +9,18 @@
       ],
       "game": "morrowind",
       "tags": [
-          "testing"
+          "Survival",
+          "SFW"
       ],
       "nsfw": false,
-      "image_contains_title": false,
+      "image_contains_title": true,
       "force_down": false,
       "links": {
           "$type": "Links, Wabbajack.Lib",
-          "image": "https://raw.githubusercontent.com/thomasblasquez/outlander/refs/heads/main/Stock%20Game%20Folder/OutlanderBanner.png",
+          "image": "https://raw.githubusercontent.com/thomasblasquez/outlander/main/Stock%20Game%20Folder/OutlanderBanner.png",
           "readme": "https://github.com/thomasblasquez/outlander",
-          "download": "https://raw.githubusercontent.com/thomasblasquez/outlander/main/Outlander%20PREVIEW.wabbajack",
-          "machineURL": "outlander/Outlander Preview",
+          "download": "https://authored-files.wabbajack.org/Outlander%20PREVIEW.wabbajack_8045bd0f-4fff-4ca7-8b68-2a0da1116fad",
+          "machineURL": "OutlanderPreview",
           "discordURL": "https://www.discord.gg/9fhSPjnwHh"
       },
       "download_metadata": {
@@ -43,20 +44,18 @@
       ],
       "game": "morrowind",
       "tags": [
-          "survival",
-          "immersive",
-          "roleplay",
-          "graphics"
+          "Survival",
+          "SFW"
       ],
       "nsfw": false,
-      "image_contains_title": false,
+      "image_contains_title": true,
       "force_down": false,
       "links": {
           "$type": "Links, Wabbajack.Lib",
-          "image": "https://raw.githubusercontent.com/thomasblasquez/outlander/refs/heads/main/Stock%20Game%20Folder/OutlanderBanner.png",
+          "image": "https://raw.githubusercontent.com/thomasblasquez/outlander/main/Stock%20Game%20Folder/OutlanderBanner.png",
           "readme": "https://github.com/thomasblasquez/outlander",
-          "download": "https://github.com/thomasblasquez/outlander/releases/download/v3.4.0/Outlander.wabbajack",
-          "machineURL": "outlander/Outlander",
+          "download": "https://authored-files.wabbajack.org/Outlander.wabbajack_1eeeffcb-a994-448f-be32-ee5e5ed6a1c3",
+          "machineURL": "Outlander",
           "discordURL": "https://www.discord.gg/9fhSPjnwHh"
       },
       "download_metadata": {
