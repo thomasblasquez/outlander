@@ -11,7 +11,7 @@
   "MaxVerificationTime": "00:01:00",
   "ModListName": "Outlander",
   "ModListAuthor": "codering",
-  "ModListDescription": "A description",
+  "ModListDescription": "Outlander is focused on immersing yourself into the island of Vvardenfell and mainland Morrowind with enhanced gameplay, improved graphics, and new mechanics for roleplaying and survival. Includes some of the best mods the community has to offer. Outlander is a spiritual successor to my old list You Are Just an N'wah.",
   "ModListReadme": "https://github.com/thomasblasquez/outlander",
   "ModListWebsite": "https://github.com/thomasblasquez/outlander",
   "ModlistVersion": "0.0.1.0",
@@ -27,13 +27,10 @@
     "Stock Game Folder\\lua51.dll",
     "Stock Game Folder\\CSSE.dll",
     "Stock Game Folder\\MWSE.dll",
-    "Stock Game Folder\\mcpatch",
+    "Stock Game Folder\\mcpatch\\installed",
     "mods\\Outlander Additional Files",
-    "Stock Game Folder\\Data Files\\tes3cmd.exe",
     "Stock Game Folder\\Data Files\\meshes\\mwse",
     "Stock Game Folder\\Data Files\\textures\\mwse",
-    "Stock Game Folder\\csse.toml",
-    "mods\\Ashfall Bushcrafting for Realistic Repair\\meshes\\codering\\stone_grindstone.nif"
   ],
   "Ignore": [
     "Stock Game Folder\\.tools",
@@ -48,6 +45,7 @@
     "mods\\Outlander Perks",
     "mods\\Outlander Perks - Armorer",
     "Stock Game Folder\\Data Files\\tes3map.exe"
+    "Stock Game Folder\\csse.toml",
   ],
   "AlwaysEnabled": [],
   "Version": "4.0.0",
