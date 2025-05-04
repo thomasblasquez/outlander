@@ -1,0 +1,31 @@
+[
+    {
+      "$type": "ModListMetadata, Wabbajack.Lib",
+      "title": "Outlander PREVIEW",
+      "description": "Best thing since sliced bread",
+      "author": "<any name you want to show up in the UI>",
+      "maintainers": [
+        "github/<your github name>"
+      ],
+      "game": "skyrimspecialedition",
+      "tags": [
+        "testing",
+        "<any tags you want in the UI, each in its own string"
+      ],
+      "nsfw": false,
+      "image_contains_title": false,
+      "force_down": false,
+      "links": {
+        "$type": "Links, Wabbajack.Lib",
+        "image": "<link to an image to show in the UI>",
+        "readme": "<link to your readme for your modlist>",
+        "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+        "machineURL": "machineURL",
+        "discordURL": "<your discord link here>"
+      },
+      "download_metadata": {"Hash":"gf7M3QD3rw0=","Size":399221577,"NumberOfArchives":7653,"SizeOfArchives":17044015411,"NumberOfInstalledFiles":114721,"SizeOfInstalledFiles":33977695368,"TotalSize":51021710779},
+      "version": "4.0"
+    }
+  ]
+  
+  
