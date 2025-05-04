@@ -1,0 +1,21 @@
+{
+  "soulgemTooltips":true,
+  "uniqueTooltips":true,
+  "miscTooltips":true,
+  "questTooltips":true,
+  "lightTooltips":true,
+  "weaponTooltips":true,
+  "clothingTooltips":true,
+  "menuOnly":true,
+  "armorTooltips":true,
+  "blocked":[],
+  "toolTooltips":true,
+  "ingredientFlavor":false,
+  "tamrielicLore":false,
+  "keyTooltips":true,
+  "bookTooltips":true,
+  "artifactTooltips":true,
+  "scrollTooltips":true,
+  "potionTooltips":true,
+  "ingredientTooltips":true
+}

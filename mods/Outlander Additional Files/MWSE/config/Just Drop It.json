@@ -1,0 +1,10 @@
+{
+  "blacklist":[],
+  "debug":false,
+  "logLevel":"ERROR",
+  "maxSteepnessTall":5,
+  "maxSteepnessFlat":50,
+  "orientOnDeath":true,
+  "enabled":true,
+  "noOrientNonStatic":false
+}

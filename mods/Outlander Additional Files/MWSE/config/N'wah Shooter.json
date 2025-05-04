@@ -1,0 +1,23 @@
+{
+  "bug1":true,
+  "sklim":100,
+  "maxspdthr":6000,
+  "enacc":true,
+  "auto":true,
+  "mbarc":2,
+  "arcdiv":true,
+  "fatmult":20,
+  "spellspd":4000,
+  "bug2":true,
+  "Prench":true,
+  "arcaut":false,
+  "returnch":100,
+  "Proj":true,
+  "shake":10,
+  "fatshake":20,
+  "gravi":1500,
+  "grav":20,
+  "minspd":2000,
+  "maxspd":8000,
+  "mbshot":2
+}

@@ -1,0 +1,31 @@
+{
+  "classes":{
+    "Nightblade":{
+      "specialization":2,
+      "image":"textures\\levelup\\Warrior.bmp",
+      "attributes":[3,6],
+      "skills":[25,19,8,12,14,11,24,17,20,23],
+      "name":"Nightblade",
+      "description":"User Defined Class"
+    },
+    "Adventurer":{
+      "specialization":0,
+      "image":"textures\\levelup\\Warrior.bmp",
+      "attributes":[0,3],
+      "skills":[25,5,24,1,20,2,8,16,18,23],
+      "name":"Adventurer",
+      "description":"User Defined Class"
+    }
+  },
+  "playerData":{
+    "38791600":{
+      "count":11
+    },
+    "39403689":{
+      "count":12
+    },
+    "39397493":{
+      "count":26
+    }
+  }
+}

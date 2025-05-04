@@ -1,0 +1,14 @@
+{
+  "showRelocationMessage":true,
+  "levelRequirements":{
+    "displacement":50,
+    "relocation":75
+  },
+  "showDisplacementMessage":true,
+  "relocation":true,
+  "leveling":true,
+  "displacement":true,
+  "logLevel":"INFO",
+  "levelingSkill":"mysticism",
+  "showSoultrapMessage":true
+}

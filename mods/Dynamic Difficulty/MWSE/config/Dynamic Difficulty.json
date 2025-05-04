@@ -1,0 +1,7 @@
+{
+  "regionModifiers":{
+  },
+  "baseDifficulty":65,
+  "increasePerLevel":2,
+  "capDifficulty":true
+}

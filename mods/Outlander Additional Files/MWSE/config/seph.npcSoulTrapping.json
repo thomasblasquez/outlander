@@ -1,0 +1,30 @@
+{
+  "npcSoul":{
+    "levelMultiplier":10,
+    "fixedValue":1000,
+    "mode":"Level",
+    "multiplier":1
+  },
+  "version":{
+    "patch":1,
+    "minor":4,
+    "major":2
+  },
+  "creatureExceptions":{
+    "dagoth_ur_1":true,
+    "vivec_god":true,
+    "almalexia":true,
+    "dagoth_ur_2":true,
+    "almalexia_warrior":true
+  },
+  "logLevel":"INFO",
+  "enabled":true,
+  "blackSoulGem":{
+    "value":500,
+    "swapChance":20,
+    "required":true,
+    "defineAzuraAsBlackSoulGem":true,
+    "canSoulTrapCreatures":true
+  },
+  "npcExceptions":[]
+}

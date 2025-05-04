@@ -1,0 +1,11 @@
+{
+  "imageonoff":true,
+  "soundfile":"\\Fx\\envrn\\bell2.wav",
+  "xlocation":50,
+  "ylocation":20,
+  "SSQNSenabled":true,
+  "logLevel":"ERROR",
+  "SSQNFenabled":true,
+  "loglevel":"NONE",
+  "soundonoff":true
+}

@@ -1,0 +1,20 @@
+{
+  "allowArmorTheft":true,
+  "merchantBonus":40,
+  "equipBonus":40,
+  "pickpocketCrimeValue":25,
+  "allowShieldTheft":true,
+  "invisFix":true,
+  "allowEquippedJewelryTheft":true,
+  "allowWeaponTheft":true,
+  "equippedArmorBonus":50,
+  "useItemValueCrime":true,
+  "menuY":4,
+  "maxItemDisplaySize":10,
+  "hideTooltip":true,
+  "menuX":6,
+  "pickpocketExpValue":2,
+  "modEnabled":true,
+  "equippedItemHiddenCount":false,
+  "weaponTheftCrime":true
+}

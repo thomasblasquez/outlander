@@ -1,0 +1,20 @@
+{
+  "comparisonKey":{
+    "keyCode":false,
+    "isShiftDown":false,
+    "mouseWheel":false,
+    "mouseButton":false,
+    "isAltDown":false,
+    "isControlDown":false
+  },
+  "useColors":true,
+  "version":1,
+  "id":"CTT",
+  "file":"compareTooltip",
+  "enableMod":true,
+  "mod":"MWSE Compare Tooltip",
+  "useKey":false,
+  "author":"rfuzzo",
+  "useArrows":true,
+  "useParens":true
+}

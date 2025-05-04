@@ -1,0 +1,13 @@
+{
+  "quickModifierHotkey":{
+    "keyCode":42
+  },
+  "keybindModeCycle":{
+    "keyCode":56
+  },
+  "logLevel":"TRACE",
+  "keybindRotate":{
+    "keyCode":42
+  },
+  "defaultMaterialRecovery":75
+}

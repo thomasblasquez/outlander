@@ -1,0 +1,29 @@
+{
+  "merchants":{
+    "arrille":true,
+    "ra'virr":true,
+    "irgola":true,
+    "goldyn belaram":true,
+    "galtis guvron":true,
+    "ancola":true,
+    "fadase selvayn":true,
+    "heifnir":true,
+    "mebestian ence":true,
+    "alveno andules":true,
+    "clagius clanler":true,
+    "tiras sadus":true,
+    "dralasa nithryon":true
+  },
+  "logLevel":"ERROR",
+  "teleportDistance":2000,
+  "enabled":true,
+  "commandToggleKey":{
+    "keyCode":16,
+    "mouseWheel":false,
+    "mouseButton":false
+  },
+  "exclusions":{
+    "guar":true,
+    "guar_feral":true
+  }
+}

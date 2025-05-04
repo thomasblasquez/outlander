@@ -1,0 +1,18 @@
+{
+  "staticLightsOnly":true,
+  "merchants":[],
+  "toggleHotkey":{
+    "keyCode":42
+  },
+  "settlementsOnly":true,
+  "dawnHour":6,
+  "dungeonLightsOff":true,
+  "logLevel":"INFO",
+  "varianceInMinutes":30,
+  "cellBlacklist":{
+    "Molag Mar, Waistworks":true
+  },
+  "duskHour":20,
+  "enabled":true,
+  "useVariance":true
+}

@@ -1,0 +1,13 @@
+{
+  "mag":5,
+  "fat":3,
+  "maz":4,
+  "mis":50,
+  "key":{
+    "keyCode":48,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  },
+  "maj":50
+}

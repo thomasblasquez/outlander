@@ -1,0 +1,11 @@
+{
+  "modEnabled":true,
+  "strikeDistance":600,
+  "distractCountLimit":2,
+  "distractTime":8,
+  "cellChangeReset":true,
+  "playNPCSounds":true,
+  "playNPCReturnSounds":true,
+  "soundMagicDistanceMax":1200,
+  "soundMagicEnabled":true
+}

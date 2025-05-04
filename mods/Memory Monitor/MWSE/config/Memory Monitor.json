@@ -1,0 +1,6 @@
+{
+	"visibleThreshold": 0.5,
+	"criticalThreshold": 0.90,
+	"criticalSaveFile": "memory_low",
+	"criticalSaveName": "Critical Memory Warning"
+}

@@ -1,0 +1,12 @@
+{
+  "ekey":{
+    "keyCode":42
+  },
+  "m":true,
+  "dwmkey":{
+    "keyCode":43,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  }
+}

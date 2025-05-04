@@ -1,0 +1,13 @@
+{
+  "vamp":true,
+  "nosav":true,
+  "help":true,
+  "acs":800,
+  "skey":{
+    "keyCode":56
+  },
+  "hdist":2000,
+  "m":false,
+  "nor":200,
+  "nost":true
+}

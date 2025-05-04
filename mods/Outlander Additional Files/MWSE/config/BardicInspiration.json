@@ -1,0 +1,28 @@
+{
+  "luteMerchants":{
+    "berwen":true,
+    "arrille":true,
+    "dralasa nithryon":true,
+    "mebestian ence":true,
+    "irgola":true,
+    "goldyn belaram":true,
+    "galtis guvron":true,
+    "ra'virr":true,
+    "fadase selvayn":true,
+    "heifnir":true,
+    "clagius clanler":true,
+    "alveno andules":true,
+    "naspis apinia":true,
+    "tiras sadus":true,
+    "thongar":true
+  },
+  "enabled":true,
+  "logLevel":"INFO",
+  "innkeepers":{
+    "arrille":true,
+    "lirielle stoine":true,
+    "muriel sette":true,
+    "phane rielle":true,
+    "helviane desele":true
+  }
+}

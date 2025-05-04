@@ -1,0 +1,23 @@
+{
+  "delayDivider":80,
+  "useLockpicks":true,
+  "checkEnemySize":true,
+  "useMagic":true,
+  "vampireChase":false,
+  "chaseMaxHours":24,
+  "chaseEndMessage":true,
+  "chaseLevel":1,
+  "doorUnlockedMessage":false,
+  "checkMagicka":false,
+  "useBash":true,
+  "minBashingStrength":90,
+  "followerMaxPlayerDistance":3072,
+  "undeadChase":false,
+  "useEnchantment":true,
+  "logLevel":0,
+  "fixMissingVampireSpells":true,
+  "minDelay":3,
+  "checkHandy":true,
+  "chaseStartMessage":true,
+  "chaseMaxDistance":24576
+}

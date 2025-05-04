@@ -1,0 +1,39 @@
+{
+  "enableTapestryRemoval":true,
+  "maxSavedPaintings":20,
+  "paintSuppliesMerchants":{
+    "sedam omalen":true,
+    "arrille":true,
+    "clagius clanler":true,
+    "ra'virr":true,
+    "tiras sadus":true,
+    "urfing":true,
+    "shulki ashunbabi":true,
+    "irgola":true,
+    "fadase selvayn":true,
+    "mebestian ence":true,
+    "goldyn belaram":true,
+    "vasesius viciulus":true,
+    "ababael timsar-dadisun":true,
+    "ferele athram":true,
+    "heifnir":true,
+    "ancola":true,
+    "alveno andules":true,
+    "perien aurelie":true,
+    "baissa":true,
+    "thongar":true
+  },
+  "enableSubjectCapture":false,
+  "tooltipPaintingHeight":100,
+  "debugMeshes":false,
+  "showTapestryTooltip":true,
+  "savedPaintingSize":1080,
+  "enabled":true,
+  "savedPaintingIndexes":{
+    "Ink Sketch":2,
+    "Pencil Drawing":5,
+    "Charcoal Drawing":5,
+    "Watercolor Painting":2
+  },
+  "logLevel":"ERROR"
+}

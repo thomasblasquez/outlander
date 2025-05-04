@@ -1,0 +1,10 @@
+{
+  "playerOnly":false,
+  "version":2.1,
+  "diagonalMovement":true,
+  "maxDistance":4096,
+  "blocked":[],
+  "enabled":true,
+  "diagonalMovement1stPerson":true,
+  "logLevel":"ERROR"
+}

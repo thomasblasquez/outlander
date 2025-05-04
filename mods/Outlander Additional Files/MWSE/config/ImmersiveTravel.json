@@ -1,0 +1,10 @@
+{
+  "logLevel":"DEBUG",
+  "mod":"Immersive Travel",
+  "version":1,
+  "id":"IT",
+  "immersiveTravelCosts":true,
+  "a_siltstrider_forwardAnimation":"runForward",
+  "replaceTravelButton":true,
+  "author":"rfuzzo"
+}

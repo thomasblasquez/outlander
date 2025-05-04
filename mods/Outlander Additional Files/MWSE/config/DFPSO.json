@@ -1,0 +1,18 @@
+{
+  "smooth":true,
+  "static":false,
+  "threshold":15,
+  "usegridlist":false,
+  "smoothagro":1,
+  "changerate":10,
+  "staticvd":0,
+  "predrange":100,
+  "prediction":true,
+  "target":40,
+  "wlthres":40,
+  "agro":1,
+  "delta":true,
+  "usewl":false,
+  "nwlvalue":5,
+  "autoadd":false
+}

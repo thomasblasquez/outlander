@@ -7,6 +7,22 @@
 *.ess
 *.cnt
 *.hlp
+*.esp
+*.esm
+*.bsa
+*.lua
+*.nif*
+*.kf
+*.dds
+*.txt
+*.tga
+*.jpg
+*.png
+*.wav
+*.ogg
+*.mp3
+*psd
+
 
 # Folders
 /dlls/*
@@ -28,7 +44,6 @@
 /translations/*
 /tutorials/*
 /webcache/*
-/mods/*
 /downloads/*
 /Stock Game Folder/.tools
 /Stock Game Folder/Data Files
@@ -60,7 +75,44 @@ splash.png
 
 # Allow
 !mods/Outlander Additional Files/*
-!mods/*/meta.ini
 !downloads/*.meta
 !downloads/*.metadata
 !Stock Game Folder/mcpatch/installed
+
+# New
+*.pk
+*.BMP
+*.yaml
+mods/Ashfall - A Camping Survival and Needs Mod/MWSE/mods/mer/ashfall/metadata.json
+*.fx
+*.toml
+*.ovr
+*.fnt
+/mods/Immersive Travel - MWSE/MWSE/mods/rfuzzo/ImmersiveTravel
+*.bik
+/mods/MUSE 2 - Morrowind Music System Extended/MWSE/config
+/mods/MUSE Music Expansion - Ashlander/MWSE/config
+/mods/MUSE Music Expansion - Daedric/MWSE/config
+/mods/MUSE Music Expansion - Dwemer/MWSE/config/MS
+/mods/MUSE Music Expansion - Empire/MWSE/config
+/mods/MUSE Music Expansion - Hlaalu/MWSE/config
+/mods/MUSE Music Expansion - Sixth House/MWSE/config
+/mods/MUSE Music Expansion - Redoran/MWSE/config
+/mods/MUSE Music Expansion - Telvanni/MWSE/config
+/mods/MUSE Music Expansion - Tomb/MWSE/config
+mods/MWSE Dynamic Object Replacer/MWSE/
+*.omwscripts
+*.tex
+/mods/Better Music System Redone (for Vanilla and MUSE)/MWSE/config
+mods/Ctroost's Weather Adjuster Presets/MWSE/config/Weather Adjuster.json
+mods/Outlander Additional Files/distantland/statics/usage.data
+*.ods
+/mods/ReadMes and Docs
+*.omwfx
+*.reapeaks
+/mods/Tamriel Rebuilt - Original Soundtrack/MWSE/config
+*.pdn
+**/desktop.ini
+*.dxvk-cache
+mods/Ultimate Fishing/MWSE/config/UltimateFishing_regions.json
+mods/Watch the Skies/MWSE/config/Weather Adjuster.json

@@ -1,0 +1,22 @@
+{
+  "blacklist":[],
+  "enablePoison":true,
+  "poisonMag":10,
+  "blightMag":10,
+  "whitelist":{
+    "vd_chitin_mag_mask":true,
+    "^_imperial_battlemage_hood":true,
+    "vd_gondaliergoggles":true,
+    "tb_a_clothmask2":true,
+    "t_imp_chainmail_helm_01":true,
+    "tb_a_clothmask1":true,
+    "ah_ashdustmask":true,
+    "sm_scarf_head":true,
+    "1ba_scarf_":true,
+    "tb_a_clothmask3":true,
+    "vd_ashdustmask":true
+  },
+  "enableDisease":true,
+  "enableBlight":true,
+  "diseaseMag":10
+}

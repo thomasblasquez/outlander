@@ -1,0 +1,6 @@
+{
+  "skillScaling":300,
+  "enabled":true,
+  "jumpCap":80,
+  "speedCap":70
+}

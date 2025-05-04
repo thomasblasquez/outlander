@@ -1,0 +1,19 @@
+{
+  "fatigueColor":2,
+  "showMagickaValues":true,
+  "length":100,
+  "style":0,
+  "indicateHostility":true,
+  "showHealthValues":true,
+  "alignPositionX":50,
+  "healthColor":1,
+  "frameColor":0,
+  "hideBarFrames":false,
+  "showForHostileActorsOnly":false,
+  "showFatigueValues":true,
+  "magickaColor":3,
+  "friendlyHealthColor":4,
+  "alignPositionY":3,
+  "showMagickaFatigueBars":true,
+  "thickness":100
+}

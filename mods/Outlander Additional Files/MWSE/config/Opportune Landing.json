@@ -1,0 +1,16 @@
+{
+  "blocked":[],
+  "slider":5,
+  "npcs":[],
+  "sliderpercent":50,
+  "switch":false,
+  "dropDown":0,
+  "onOff":true,
+  "key":{
+    "keyCode":38,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  },
+  "textfield":"hello"
+}

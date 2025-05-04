@@ -1,0 +1,7 @@
+{
+  "addInteriorLights":true,
+  "logLevel":"ERROR",
+  "varianceInMinutes":30,
+  "useVariance":true,
+  "addInteriorSunrays":true
+}

@@ -1,0 +1,11 @@
+{
+  "storeBaseObject":true,
+  "storeSoulUsed":true,
+  "copy":{
+    "condition":true,
+    "script":true,
+    "luaData":true,
+    "luaTempData":true,
+    "scriptData":true
+  }
+}
