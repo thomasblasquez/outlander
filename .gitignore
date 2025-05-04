@@ -21,7 +21,23 @@
 *.wav
 *.ogg
 *.mp3
-*psd
+*.psd
+*.pk
+*.BMP
+*.yaml
+*.fx
+*.toml
+*.ovr
+*.fnt
+*.bik
+*.omwscripts
+*.tex
+*.ods
+*.omwfx
+*.reapeaks
+*.pdn
+**/desktop.ini
+*.dxvk-cache
 
 
 # Folders
@@ -69,27 +85,8 @@ Stock Game Folder/mcpatch/logo_large.png
 Stock Game Folder/mcpatch/message.json
 Stock Game Folder/mcpatch/describe.json
 Stock Game Folder/mcpatch/default
-dump_running_process.bat
-nxmhandler.ini
-splash.png
-
-# Allow
-!mods/Outlander Additional Files/*
-!downloads/*.meta
-!downloads/*.metadata
-!Stock Game Folder/mcpatch/installed
-
-# New
-*.pk
-*.BMP
-*.yaml
-mods/Ashfall - A Camping Survival and Needs Mod/MWSE/mods/mer/ashfall/metadata.json
-*.fx
-*.toml
-*.ovr
-*.fnt
 /mods/Immersive Travel - MWSE/MWSE/mods/rfuzzo/ImmersiveTravel
-*.bik
+mods/Ashfall - A Camping Survival and Needs Mod/MWSE/mods/mer/ashfall/metadata.json
 /mods/MUSE 2 - Morrowind Music System Extended/MWSE/config
 /mods/MUSE Music Expansion - Ashlander/MWSE/config
 /mods/MUSE Music Expansion - Daedric/MWSE/config
@@ -101,18 +98,23 @@ mods/Ashfall - A Camping Survival and Needs Mod/MWSE/mods/mer/ashfall/metadata.j
 /mods/MUSE Music Expansion - Telvanni/MWSE/config
 /mods/MUSE Music Expansion - Tomb/MWSE/config
 mods/MWSE Dynamic Object Replacer/MWSE/
-*.omwscripts
-*.tex
 /mods/Better Music System Redone (for Vanilla and MUSE)/MWSE/config
 mods/Ctroost's Weather Adjuster Presets/MWSE/config/Weather Adjuster.json
 mods/Outlander Additional Files/distantland/statics/usage.data
-*.ods
-/mods/ReadMes and Docs
-*.omwfx
-*.reapeaks
-/mods/Tamriel Rebuilt - Original Soundtrack/MWSE/config
-*.pdn
-**/desktop.ini
-*.dxvk-cache
 mods/Ultimate Fishing/MWSE/config/UltimateFishing_regions.json
 mods/Watch the Skies/MWSE/config/Weather Adjuster.json
+mods/Magicka Based Skill Progression -- MWSE-Lua Edition/MWSE/.luacheckrc
+mods/Magicka Based Skill Progression -- MWSE-Lua Edition/MWSE/.luacompleterc
+/mods/ReadMes and Docs
+/mods/Tamriel Rebuilt - Original Soundtrack/MWSE/config
+dump_running_process.bat
+nxmhandler.ini
+splash.png
+
+# Allow
+!mods/Outlander Additional Files/*
+!downloads/*.meta
+!downloads/*.metadata
+!Stock Game Folder/mcpatch/installed
+
+# New
