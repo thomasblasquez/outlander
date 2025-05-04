@@ -1,9 +1,66 @@
-*
+# Filetypes
+*.dll
+*.dat
+*.exe
+*.log
+*.zip
+*.ess
+*.cnt
+*.hlp
+
+# Folders
+/dlls/*
+/explorer++/*
+/licenses/*
+/logs/*
+/plugins/*
+/crashDumps/*
+/loot/*
+/NCC/*
+/overwrite/*
+/platforms/*
+/pythoncore/*
+/QtQml/*
+/QtQuick.2/*
+/resources/*
+/styles/*
+/stylesheets/*
+/translations/*
+/tutorials/*
+/webcache/*
+/mods/*
+/downloads/*
+/Stock Game Folder/.tools
+/Stock Game Folder/Data Files
+/Stock Game Folder/mcpatch/*/
+/Stock Game Folder/tes3cmd
+/Stock Game Folder/mge3
+/Stock Game Folder/screenshots
+
+# Specific
+Stock Game Folder/Journal.htm
+Stock Game Folder/morrowind.ini.old
+Stock Game Folder/Warnings.txt
+Stock Game Folder/MWSE-Update.exe.tmp
+Stock Game Folder/CSSE_MiniDump.dmp
+Stock Game Folder/ChargenScenarioClutter.txt
+Stock Game Folder/chargenScenariosLocations.txt
+Stock Game Folder/ProgramFlow.txt
+Stock Game Folder/Newtonsoft.Json.dll.tmp
+Stock Game Folder/Knife.ico
+Stock Game Folder/csse.toml
+Stock Game Folder/Newtonsoft.Json.xml
+Stock Game Folder/mcpatch/logo_large.png
+Stock Game Folder/mcpatch/message.json
+Stock Game Folder/mcpatch/describe.json
+Stock Game Folder/mcpatch/default
+dump_running_process.bat
+nxmhandler.ini
+splash.png
 
 # Allow
 !mods/Outlander Additional Files/*
 mods/Outlander Additional Files/distantland/statics/static_meshes
-!Stock Game Folder/
-!downloads/*.metadata
 !mods/*/meta.ini
-!profiles/*
+!downloads/*.metadata
+!Stock Game Folder/mcpatch/installed
