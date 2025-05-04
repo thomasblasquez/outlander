@@ -60,8 +60,7 @@ splash.png
 
 # Allow
 !mods/Outlander Additional Files/*
-mods/Outlander Additional Files/distantland/statics/static_meshes
 !mods/*/meta.ini
+!downloads/*.meta
 !downloads/*.metadata
 !Stock Game Folder/mcpatch/installed
-Outlander.wabbajack
