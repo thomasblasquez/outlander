@@ -16,11 +16,11 @@
       "force_down": false,
       "links": {
           "$type": "Links, Wabbajack.Lib",
-          "image": "",
-          "readme": "",
-          "download": "",
-          "machineURL": "",
-          "discordURL": ""
+          "image": "https://raw.githubusercontent.com/thomasblasquez/outlander/refs/heads/main/Stock%20Game%20Folder/OutlanderBanner.png",
+          "readme": "https://github.com/thomasblasquez/outlander",
+          "download": "https://github.com/thomasblasquez/outlander/releases/download/v4.0.0preview-1/Outlander.wabbajack",
+          "machineURL": "outlander/Outlander Preview",
+          "discordURL": "https://www.discord.gg/9fhSPjnwHh"
       },
       "download_metadata": {
           "Hash": "gf7M3QD3rw0=",
@@ -53,21 +53,20 @@
       "force_down": false,
       "links": {
           "$type": "Links, Wabbajack.Lib",
-          "image": "",
-          "readme": "",
-          "download": "",
-          "machineURL": "",
-          "discordURL": ""
+          "image": "https://raw.githubusercontent.com/thomasblasquez/outlander/refs/heads/main/Stock%20Game%20Folder/OutlanderBanner.png",
+          "readme": "https://github.com/thomasblasquez/outlander",
+          "download": "https://github.com/thomasblasquez/outlander/releases/download/v3.4.0/Outlander.wabbajack",
+          "machineURL": "outlander/Outlander",
+          "discordURL": "https://www.discord.gg/9fhSPjnwHh"
       },
       "download_metadata": {
-          "Hash": "gf7M3QD3rw0=",
-          "Size": 399221577,
-          "NumberOfArchives": 7653,
-          "SizeOfArchives": 17044015411,
-          "NumberOfInstalledFiles": 114721,
-          "SizeOfInstalledFiles": 33977695368,
-          "TotalSize": 51021710779
+          "Hash": "BoqvJ2jyIPY=",
+          "Size": 509725713,
+          "NumberOfArchives": 7523,
+          "SizeOfArchives": 11089278800,
+          "NumberOfInstalledFiles": 94833,
+          "SizeOfInstalledFiles": 21934970524
       },
-      "version": "4.0"
+      "version": "3.4.0"
   }
 ]
