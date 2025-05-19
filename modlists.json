@@ -1,71 +1,82 @@
 [
   {
-      "$type": "ModListMetadata, Wabbajack.Lib",
-      "title": "Outlander PREVIEW",
-      "description": "Unstable preview of Outlander",
-      "author": "codering",
-      "maintainers": [
-          "github/thomasblasquez"
-      ],
-      "game": "morrowind",
-      "tags": [
-          "Survival",
-          "SFW"
-      ],
-      "nsfw": false,
-      "image_contains_title": true,
-      "force_down": false,
-      "links": {
-          "$type": "Links, Wabbajack.Lib",
-          "image": "https://raw.githubusercontent.com/thomasblasquez/outlander/main/Stock%20Game%20Folder/OutlanderBanner.png",
-          "readme": "https://github.com/thomasblasquez/outlander",
-          "download": "https://authored-files.wabbajack.org/Outlander%20PREVIEW.wabbajack_8045bd0f-4fff-4ca7-8b68-2a0da1116fad",
-          "machineURL": "OutlanderPreview",
-          "discordURL": "https://www.discord.gg/9fhSPjnwHh"
-      },
-      "download_metadata": {
-          "Hash": "gf7M3QD3rw0=",
-          "Size": 399221577,
-          "NumberOfArchives": 7653,
-          "SizeOfArchives": 17044015411,
-          "NumberOfInstalledFiles": 114721,
-          "SizeOfInstalledFiles": 33977695368,
-          "TotalSize": 51021710779
-      },
-      "version": "4.0"
+    "title": "Outlander PREVIEW",
+    "description": "Unstable preview of Outlander",
+    "author": "codering",
+    "maintainers": [
+      "github/thomasblasquez"
+    ],
+    "game": "morrowind",
+    "official": false,
+    "tags": [
+      "Survival",
+      "SFW"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/thomasblasquez/outlander/main/Stock%20Game%20Folder/OutlanderBanner.png",
+      "readme": "https://github.com/thomasblasquez/outlander",
+      "download": "https://authored-files.wabbajack.org/Outlander PREVIEW.wabbajack_82a908b6-c31d-4d4e-bd9e-574198cbb759",
+      "machineURL": "OutlanderPreview",
+      "discordURL": "https://www.discord.gg/9fhSPjnwHh",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "BjoOE3fGCUU=",
+      "Size": 1229814076,
+      "NumberOfArchives": 7672,
+      "SizeOfArchives": 17773366682,
+      "NumberOfInstalledFiles": 121378,
+      "SizeOfInstalledFiles": 36081350190,
+      "TotalSize": 53854716872
+    },
+    "version": "4.1.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-05-19T03:39:43.476109Z",
+    "repositoryName": ""
   },
   {
-      "$type": "ModListMetadata, Wabbajack.Lib",
-      "title": "Outlander",
-      "description": "Outlander is focused on immersing yourself into the island of Vvardenfell and mainland Morrowind with enhanced gameplay, improved graphics, and new mechanics for roleplaying and survival. Includes some of the best mods the community has to offer. Outlander is a spiritual successor to my old list You Are Just an N'wah.",
-      "author": "codering",
-      "maintainers": [
-          "github/thomasblasquez"
-      ],
-      "game": "morrowind",
-      "tags": [
-          "Survival",
-          "SFW"
-      ],
-      "nsfw": false,
-      "image_contains_title": true,
-      "force_down": false,
-      "links": {
-          "$type": "Links, Wabbajack.Lib",
-          "image": "https://raw.githubusercontent.com/thomasblasquez/outlander/main/Stock%20Game%20Folder/OutlanderBanner.png",
-          "readme": "https://github.com/thomasblasquez/outlander",
-          "download": "https://authored-files.wabbajack.org/Outlander.wabbajack_1eeeffcb-a994-448f-be32-ee5e5ed6a1c3",
-          "machineURL": "Outlander",
-          "discordURL": "https://www.discord.gg/9fhSPjnwHh"
-      },
-      "download_metadata": {
-          "Hash": "BoqvJ2jyIPY=",
-          "Size": 509725713,
-          "NumberOfArchives": 7523,
-          "SizeOfArchives": 11089278800,
-          "NumberOfInstalledFiles": 94833,
-          "SizeOfInstalledFiles": 21934970524
-      },
-      "version": "3.4.0"
+    "title": "Outlander",
+    "description": "Outlander is focused on immersing yourself into the island of Vvardenfell and mainland Morrowind with enhanced gameplay, improved graphics, and new mechanics for roleplaying and survival. Includes some of the best mods the community has to offer. Outlander is a spiritual successor to my old list You Are Just an N\u0027wah.",
+    "author": "codering",
+    "maintainers": [
+      "github/thomasblasquez"
+    ],
+    "game": "morrowind",
+    "official": false,
+    "tags": [
+      "Survival",
+      "SFW"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/thomasblasquez/outlander/main/Stock%20Game%20Folder/OutlanderBanner.png",
+      "readme": "https://github.com/thomasblasquez/outlander",
+      "download": "https://authored-files.wabbajack.org/Outlander.wabbajack_1eeeffcb-a994-448f-be32-ee5e5ed6a1c3",
+      "machineURL": "Outlander",
+      "discordURL": "https://www.discord.gg/9fhSPjnwHh",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "BoqvJ2jyIPY=",
+      "Size": 509725713,
+      "NumberOfArchives": 7523,
+      "SizeOfArchives": 11089278800,
+      "NumberOfInstalledFiles": 94833,
+      "SizeOfInstalledFiles": 21934970524,
+      "TotalSize": 33024249324
+    },
+    "version": "3.4.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
   }
 ]
