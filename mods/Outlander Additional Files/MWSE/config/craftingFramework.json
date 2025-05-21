@@ -1,11 +1,13 @@
 {
   "quickModifierHotkey":{
-    "keyCode":42
+    "keyCode":56,
+    "mouseWheel":false,
+    "mouseButton":false
   },
   "keybindModeCycle":{
     "keyCode":56
   },
-  "logLevel":"TRACE",
+  "logLevel":"ERROR",
   "keybindRotate":{
     "keyCode":42
   },

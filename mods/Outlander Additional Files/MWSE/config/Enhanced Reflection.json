@@ -1,9 +1,9 @@
 {
   "shieldReflects":true,
   "magnitudeBasedChance":true,
-  "fireShieldReflects":true,
+  "reflectReflects":true,
   "debug":false,
   "shockShieldReflects":true,
   "frostShieldReflects":true,
-  "reflectReflects":true
+  "fireShieldReflects":true
 }

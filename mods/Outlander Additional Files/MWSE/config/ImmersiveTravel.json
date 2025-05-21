@@ -5,6 +5,6 @@
   "id":"IT",
   "immersiveTravelCosts":true,
   "a_siltstrider_forwardAnimation":"runForward",
-  "replaceTravelButton":true,
+  "replaceTravelButton":false,
   "author":"rfuzzo"
 }

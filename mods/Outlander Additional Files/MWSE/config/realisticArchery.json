@@ -1,0 +1,8 @@
+{
+  "sneakReduction":30,
+  "logLevel":"INFO",
+  "maxCloseRangeDamageReduction":90,
+  "enabled":true,
+  "minDistanceFullDamage":1000,
+  "maxNoise":0
+}

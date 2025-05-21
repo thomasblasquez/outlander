@@ -3,8 +3,8 @@
   "Source": "P:\\Modding\\Modlists\\Outlander",
   "Downloads": "P:\\Modding\\Modlists\\Outlander\\downloads",
   "Game": "Morrowind",
-  "OutputFile": "P:\\Modding\\Modlists\\Outlander.wabbajack",
-  "ModListImage": "P:\\Modding\\Modlists\\Outlander\\Stock Game Folder\\screenshots\\Morrowind 2023-05-15 22.00.34.317.png",
+  "OutputFile": "P:\\Modding\\Modlists\\Outlander PREVIEW 4.1.1.wabbajack",
+  "ModListImage": "P:\\Modding\\Modlists\\Outlander\\Stock Game Folder\\OutlanderBanner.png",
   "UseGamePaths": true,
   "UseTextureRecompression": false,
   "OtherGames": [],
@@ -16,10 +16,14 @@
   "ModListWebsite": "https://github.com/thomasblasquez/outlander",
   "ModlistVersion": "0.0.1.0",
   "PublishUpdate": false,
-  "MachineUrl": "outlander/OutlanderPreview",
+  "MachineUrl": "codering/OutlanderPreview",
   "Profile": "Outlander",
   "AdditionalProfiles": [],
-  "NoMatchInclude": [],
+  "NoMatchInclude": [
+    "mods\\Outlander Additional Files",
+    "mods\\Take That -- Parrying Dodging Blocking and Spellbatting",
+    "mods\\Take That Beta"
+  ],
   "Include": [
     "Stock Game Folder\\Data Files\\MWSE",
     "Stock Game Folder\\libcrypto-1_1.dll",
@@ -28,9 +32,10 @@
     "Stock Game Folder\\CSSE.dll",
     "Stock Game Folder\\MWSE.dll",
     "Stock Game Folder\\mcpatch\\installed",
-    "mods\\Outlander Additional Files",
     "Stock Game Folder\\Data Files\\meshes\\mwse",
     "Stock Game Folder\\Data Files\\textures\\mwse",
+    "Stock Game Folder\\OutlanderBanner.png",
+    "mods\\Ashfall Bushcrafting for Realistic Repair"
   ],
   "Ignore": [
     "Stock Game Folder\\.tools",
@@ -44,10 +49,23 @@
     "Stock Game Folder\\MWSE-Update.exe.tmp",
     "mods\\Outlander Perks",
     "mods\\Outlander Perks - Armorer",
-    "Stock Game Folder\\Data Files\\tes3map.exe"
+    "Stock Game Folder\\Data Files\\tes3map.exe",
+    "Stock Game Folder\\Data Files\\tes3conv.exe",
     "Stock Game Folder\\csse.toml",
+    "Stock Game Folder\\MWSE.log",
+    "Stock Game Folder\\Data Files\\habasi.exe",
+    "Stock Game Folder\\Data Files\\tes3cmd.exe",
+    "modlists.json",
+    ".git",
+    "Outlander Preview.compiler_settings",
+    "mods\\Take That -- Parrying Dodging Blocking and Spellbatting\\Take That Ring\u0027s Edit.zip",
+    ".gitattributes",
+    ".gitignore",
+    "Stock Game Folder\\chargenScenariosLocations.txt",
+    "Stock Game Folder\\ChargenScenarioClutter.txt",
+    "Stock Game Folder\\csse.log"
   ],
   "AlwaysEnabled": [],
-  "Version": "4.0.0",
+  "Version": "4.1.1",
   "Description": "A modlist focused on survival and roleplaying.\r\nFeatures Tamriel Rebuilt!"
 }

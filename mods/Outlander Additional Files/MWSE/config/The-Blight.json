@@ -5,7 +5,7 @@
   "debugMode":false,
   "enableProtectiveGear":true,
   "enableBlightstormTransmission":true,
-  "enableNpcProtectiveGearDistribution":true,
   "enableDecalMapping":true,
+  "enableNpcProtectiveGearDistribution":true,
   "enableTooltip":true
 }

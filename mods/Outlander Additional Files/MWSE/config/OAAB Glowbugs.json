@@ -3,12 +3,12 @@
     "Bitter Coast Region":true
   },
   "bugDensity":5,
-  "violetBugsRegions":{
-    "Azura's Coast Region":true
-  },
-  "spawnChance":30,
   "greenBugsRegions":{
     "Ascadian Isles Region":true
+  },
+  "spawnChance":30,
+  "violetBugsRegions":{
+    "Azura's Coast Region":true
   },
   "redBugsRegions":{
     "Ashlands Region":true

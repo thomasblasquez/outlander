@@ -1,0 +1,17 @@
+{
+  "debugLogOn":false,
+  "heatWeathers":{
+    "Cloudy":true,
+    "Overcast":true,
+    "Clear":true
+  },
+  "hazeEndHour":21,
+  "heatRegions":{
+    "Red Mountain Region":true,
+    "Ashlands Region":true,
+    "Armun Ashlands Region":true,
+    "Molag Mar Region":true
+  },
+  "overrideHours":false,
+  "hazeStartHour":6
+}

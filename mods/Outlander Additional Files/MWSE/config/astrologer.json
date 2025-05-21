@@ -1,0 +1,10 @@
+{
+  "logLevel":"INFO",
+  "enabled":true,
+  "blessingChance":50,
+  "version":{
+    "patch":0,
+    "minor":0,
+    "major":1
+  }
+}

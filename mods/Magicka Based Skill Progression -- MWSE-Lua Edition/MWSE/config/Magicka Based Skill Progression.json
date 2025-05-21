@@ -8,12 +8,12 @@
     "4":14,
     "5":15
   },
-  "maxReduction":0.5,
+  "enableMBSP":true,
   "spellCostReductionPerSkill":0.005,
   "spellCostReductionMax":0.5,
   "logging":false,
-  "enableMBSP":true,
+  "reductionPerSkillLevel":0.005,
   "spellCostReduction":false,
   "enableSCR":true,
-  "reductionPerSkillLevel":0.005
+  "maxReduction":0.5
 }

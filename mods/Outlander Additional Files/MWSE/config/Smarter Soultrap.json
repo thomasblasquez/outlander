@@ -4,11 +4,11 @@
     "displacement":50,
     "relocation":75
   },
-  "showDisplacementMessage":true,
   "relocation":true,
+  "levelingSkill":"mysticism",
   "leveling":true,
+  "showDisplacementMessage":true,
   "displacement":true,
   "logLevel":"INFO",
-  "levelingSkill":"mysticism",
   "showSoultrapMessage":true
 }

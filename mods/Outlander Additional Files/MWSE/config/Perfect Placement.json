@@ -4,9 +4,9 @@
   "keybindRotate":42,
   "keybind":34,
   "keybindVertical":56,
-  "initialWallAlign":true,
+  "initialGroundAlign":true,
   "snapN":1,
   "sensitivity":15,
   "showGuide":true,
-  "initialGroundAlign":true
+  "initialWallAlign":true
 }

@@ -1,4 +1,4 @@
-# Filetypes
+# File Types
 *.dll
 *.dat
 *.exe
@@ -40,7 +40,7 @@
 *.dxvk-cache
 
 
-# Folders
+# Files and Folders
 /dlls/*
 /explorer++/*
 /licenses/*
@@ -67,8 +67,6 @@
 /Stock Game Folder/tes3cmd
 /Stock Game Folder/mge3
 /Stock Game Folder/screenshots
-
-# Specific
 Stock Game Folder/Journal.htm
 Stock Game Folder/morrowind.ini.old
 Stock Game Folder/Warnings.txt
@@ -114,7 +112,6 @@ splash.png
 # Allow
 !mods/Outlander Additional Files/*
 !downloads/*.meta
-!downloads/*.metadata
 !Stock Game Folder/mcpatch/installed
 
 # New

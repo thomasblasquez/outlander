@@ -14,20 +14,20 @@
     "soulgems":true,
     "keys":true
   },
-  "logging":false,
+  "removeArticlesFromBooks":true,
   "changeBaseNames":true,
+  "displayPrefixes":false,
   "removeScrollOf":true,
-  "changeKeyMessage":true,
   "keyIsKey":true,
   "altSpoiledNames":false,
   "addKeyAtBeginning":false,
-  "removeArticlesFromBooks":true,
+  "changeKeyMessage":true,
   "lightsInReverseOrder":true,
   "armorBySlotFirst":true,
   "keyWeightValue":true,
   "potionRomanNumerals":true,
+  "keyBaseNames":true,
   "objectTypePrefixes":true,
-  "armorAltWeight":true,
   "prefixAttackAR":true,
   "componentEnable":{
     "overall":{
@@ -35,15 +35,15 @@
       "1263488834":true,
       "1346454871":true,
       "1112494672":true,
-      "1212631372":true,
+      "1380404809":true,
       "1095779666":true,
       "1330466113":true,
       "1129531725":true,
-      "1330467393":true,
+      "1212631372":true,
       "1414483011":true,
-      "1262702412":true,
       "1212369985":false,
-      "1380404809":true
+      "1262702412":true,
+      "1330467393":true
     },
     "prefix":{
       "1095782465":true,
@@ -55,36 +55,36 @@
       "1129531725":true,
       "1330467393":true,
       "1414483011":true,
-      "1212631372":true,
+      "1262702412":true,
       "1212369985":true,
-      "1262702412":true
+      "1212631372":true
     },
     "baseName":{
       "1095782465":true,
       "1263488834":true,
       "1346454871":true,
       "1112494672":true,
-      "1212631372":true,
+      "1380404809":true,
       "1095779666":true,
       "1330466113":true,
       "1129531725":true,
-      "1330467393":true,
+      "1212631372":true,
       "1414483011":true,
-      "1262702412":true,
       "1212369985":true,
-      "1380404809":true
+      "1262702412":true,
+      "1330467393":true
     }
   },
-  "keyBaseNames":true,
-  "addPrefixes":true,
+  "armorAltWeight":true,
+  "addPrefixes":false,
   "nameTweaks":{
     "Long Spear":true,
     "Long Bow":true,
     "Battle Axe":true,
     "Short Bow":true,
-    "War Axe":true,
+    "Tower Shield":true,
     "Dwarven":true,
-    "Tower Shield":true
+    "War Axe":true
   },
-  "displayPrefixes":false
+  "logging":false
 }

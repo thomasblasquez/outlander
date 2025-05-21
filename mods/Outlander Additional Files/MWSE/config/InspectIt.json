@@ -8,8 +8,8 @@
     },
     "sensitivityX":1,
     "inversionY":false,
-    "lighting":{
-      "keyCode":33,
+    "another":{
+      "keyCode":31,
       "isShiftDown":false,
       "isAltDown":false,
       "isControlDown":false
@@ -21,37 +21,37 @@
       "isControlDown":false
     },
     "sensitivityY":1,
+    "sensitivityZ":1,
+    "inversionZ":false,
     "inversionX":false,
-    "another":{
-      "keyCode":31,
+    "lighting":{
+      "keyCode":33,
       "isShiftDown":false,
       "isAltDown":false,
       "isControlDown":false
-    },
-    "inversionZ":false,
-    "sensitivityZ":1
+    }
   },
   "development":{
-    "experimental":false,
+    "logToConsole":false,
     "logLevel":"INFO",
-    "logToConsole":false
+    "experimental":false
   },
   "leftPartFilter":[],
   "inspection":{
     "cursorOver":true,
     "activatable":true,
     "contents":true,
-    "inventory":true,
+    "playSound":true,
     "barter":true,
-    "playSound":true
+    "inventory":true
   },
   "display":{
     "objectId":false,
     "instruction":true,
     "tooltipsComplete":true,
-    "sourceMod":false,
+    "leftPart":true,
     "bokeh":true,
     "recalculateBounds":true,
-    "leftPart":true
+    "sourceMod":false
   }
 }

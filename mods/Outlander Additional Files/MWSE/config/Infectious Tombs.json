@@ -1,0 +1,17 @@
+{
+  "cells":[],
+  "slider":30,
+  "sliderpercent":20,
+  "blocked":{
+    "chills":true,
+    "brown rot":true
+  },
+  "onOff":true,
+  "key":{
+    "keyCode":38,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  },
+  "dropDown":0
+}

@@ -1,9 +1,9 @@
 {
-  "minor":70,
+  "minor":80,
   "modEnabled":true,
-  "misc":40,
   "major":100,
+  "raceCoef":2,
   "limitTraining":true,
-  "specialisationCoef":1,
-  "raceCoef":1
+  "specialisationCoef":2,
+  "misc":55
 }

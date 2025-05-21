@@ -33,14 +33,14 @@
     "isAltDown":true,
     "isControlDown":false
   },
-  "saveEditKeyInfo":{
-    "keyCode":28,
+  "deleteWordKeyInfo":{
+    "keyCode":14,
     "isShiftDown":true,
     "isAltDown":false,
     "isControlDown":false
   },
   "pageTurnDelay":250,
-  "incrImageScaleStep":5,
+  "maxImageWidth":338,
   "nextImageKeyInfo":{
     "keyCode":205,
     "isShiftDown":false,
@@ -53,13 +53,13 @@
     "isAltDown":false,
     "isControlDown":false
   },
-  "enabled":true,
-  "selectEditUpKeyInfo":{
-    "keyCode":200,
-    "isShiftDown":true,
+  "exitKeyInfo":{
+    "keyCode":43,
+    "isShiftDown":false,
     "isAltDown":false,
     "isControlDown":false
   },
+  "newTextLine":">",
   "prevImageKeyInfo":{
     "keyCode":203,
     "isShiftDown":false,
@@ -107,23 +107,23 @@
   "hideRedundantDateHeaders":true,
   "messageNoBookArt":"You have found no images to add to your journal.",
   "uiLatency":50,
-  "deleteWordKeyInfo":{
-    "keyCode":14,
+  "contMatchKeyInfo":{
+    "keyCode":28,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  },
+  "selectEditUpKeyInfo":{
+    "keyCode":200,
     "isShiftDown":true,
     "isAltDown":false,
     "isControlDown":false
   },
-  "newTextLine":">",
-  "exitKeyInfo":{
-    "keyCode":43,
-    "isShiftDown":false,
-    "isAltDown":false,
-    "isControlDown":false
-  },
-  "maxImageWidth":338,
-  "contMatchKeyInfo":{
+  "enabled":true,
+  "incrImageScaleStep":5,
+  "saveEditKeyInfo":{
     "keyCode":28,
-    "isShiftDown":false,
+    "isShiftDown":true,
     "isAltDown":false,
     "isControlDown":false
   },

@@ -1,24 +1,24 @@
 {
   "enableFishTooltips":true,
-  "logLevel":"ERROR",
-  "cheatMode":false,
   "dynamicCamera":true,
-  "enabled":true,
+  "logLevel":"ERROR",
   "easyHook":false,
+  "enabled":true,
+  "cheatMode":false,
   "fishingMerchants":{
     "sedam omalen":true,
     "arrille":true,
-    "shulki ashunbabi":true,
-    "ferele athram":true,
+    "fadase selvayn":true,
+    "clagius clanler":true,
     "goldyn belaram":true,
     "ababael timsar-dadisun":true,
     "ancola":true,
-    "fadase selvayn":true,
+    "ferele athram":true,
     "heifnir":true,
-    "vasesius viciulus":true,
-    "tiras sadus":true,
     "perien aurelie":true,
-    "clagius clanler":true,
+    "tiras sadus":true,
+    "vasesius viciulus":true,
+    "shulki ashunbabi":true,
     "thongar":true
   }
 }

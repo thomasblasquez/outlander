@@ -1,0 +1,12 @@
+{
+  "noMaterialsReqs":false,
+  "logLevel":"INFO",
+  "onePrayerPerDay":true,
+  "allPrayersKnown":false,
+  "allPrayersShortDuration":false,
+  "allSkillReqZero":false,
+  "hotKey":{
+    "keyCode":25,
+    "enabled":true
+  }
+}

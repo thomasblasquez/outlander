@@ -1,0 +1,10 @@
+{
+  "easyMode":false,
+  "enabled":true,
+  "pickEquippedOnly":true,
+  "lowerBorder":70,
+  "upperBorder":75,
+  "includeMiscObjects":true,
+  "spawnFrostDaedra":false,
+  "displayMessages":true
+}

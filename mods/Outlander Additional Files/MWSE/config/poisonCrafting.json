@@ -7,13 +7,13 @@
     "assassin":20,
     "scout":20,
     "apothecary":30,
-    "alchemist service":30,
-    "nightblade":10,
     "apothecary service":30,
+    "nightblade":10,
+    "assassin service":20,
     "alchemist":30,
-    "nightblade service":10,
     "rogue":10,
-    "assassin service":20
+    "nightblade service":10,
+    "alchemist service":30
   },
   "debugMode":false,
   "useBonusProgress":true,

@@ -1,5 +1,5 @@
 {
-  "blackList":[],
   "pollRate":1,
+  "blackList":[],
   "enableEvents":1
 }

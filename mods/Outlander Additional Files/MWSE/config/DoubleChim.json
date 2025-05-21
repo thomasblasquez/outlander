@@ -1,11 +1,18 @@
 {
   "ekey":{
-    "keyCode":42
+    "keyCode":45,
+    "isShiftDown":false,
+    "mouseWheel":false,
+    "mouseButton":false,
+    "isAltDown":false,
+    "isControlDown":false
   },
   "m":true,
   "dwmkey":{
-    "keyCode":43,
+    "keyCode":45,
     "isShiftDown":false,
+    "mouseWheel":false,
+    "mouseButton":false,
     "isAltDown":false,
     "isControlDown":false
   }

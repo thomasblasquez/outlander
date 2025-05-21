@@ -1,0 +1,19 @@
+{
+  "cells":[],
+  "slider":30,
+  "sliderpercent":25,
+  "blocked":{
+    "chanthrax blight":true,
+    "ash-chancre":true,
+    "black-heart blight":true,
+    "ash woe blight":true
+  },
+  "onOff":true,
+  "key":{
+    "keyCode":38,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  },
+  "dropDown":0
+}

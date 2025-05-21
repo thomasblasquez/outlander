@@ -1,0 +1,16 @@
+{
+  "cells":[],
+  "slider":30,
+  "sliderpercent":10,
+  "blocked":{
+    "droops":true
+  },
+  "onOff":true,
+  "key":{
+    "keyCode":38,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  },
+  "dropDown":0
+}

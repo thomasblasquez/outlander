@@ -1,0 +1,16 @@
+{
+  "cells":[],
+  "slider":60,
+  "sliderpercent":5,
+  "blocked":{
+    "swamp fever":true
+  },
+  "onOff":true,
+  "key":{
+    "keyCode":38,
+    "isShiftDown":false,
+    "isAltDown":false,
+    "isControlDown":false
+  },
+  "dropDown":0
+}

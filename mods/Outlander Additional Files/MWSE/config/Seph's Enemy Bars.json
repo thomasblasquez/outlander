@@ -9,11 +9,11 @@
   "healthColor":1,
   "frameColor":0,
   "hideBarFrames":false,
+  "thickness":100,
   "showForHostileActorsOnly":false,
-  "showFatigueValues":true,
   "magickaColor":3,
   "friendlyHealthColor":4,
   "alignPositionY":3,
   "showMagickaFatigueBars":true,
-  "thickness":100
+  "showFatigueValues":true
 }

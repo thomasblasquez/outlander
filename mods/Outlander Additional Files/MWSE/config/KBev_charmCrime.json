@@ -1,5 +1,5 @@
 {
-  "iCrimeAvoidanceThreshold":75,
   "bHighSkillPreventsCrime":true,
+  "iCrimeAvoidanceThreshold":75,
   "iCharmBounty":30
 }

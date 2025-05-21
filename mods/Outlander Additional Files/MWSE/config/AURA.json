@@ -1,73 +1,22 @@
 {
   "PCtaunts":false,
-  "playYurtFlap":true,
   "moduleContainers":true,
+  "moduleInteriorWeather":true,
   "serviceSpellmaking":true,
-  "UIvol":150,
+  "moduleServiceVoices":true,
   "moduleUI":true,
   "disabledTaverns":[],
   "IWvol":130,
   "moduleAmbientOutdoor":true,
   "moduleAmbientPopulated":true,
-  "pcVitalSigns":true,
+  "volumeSave":{
+    "keyCode":71,
+    "mouseWheel":false,
+    "mouseButton":false
+  },
   "underwaterRain":true,
   "playRainOnStatics":true,
   "volumes":{
-    "modules":{
-      "interior":{
-        "big":1,
-        "volume":60,
-        "und":0,
-        "sma":1
-      },
-      "populated":{
-        "big":1,
-        "volume":50,
-        "und":0.3,
-        "sma":1
-      },
-      "outdoor":{
-        "big":0.25,
-        "volume":55,
-        "und":0.4,
-        "sma":0.2
-      },
-      "interiorWeather":{
-        "big":1,
-        "volume":65,
-        "und":0,
-        "sma":1
-      },
-      "wind":{
-        "big":0.4,
-        "volume":65,
-        "und":0.3,
-        "sma":0.4
-      },
-      "rainOnStatics":{
-        "big":1,
-        "volume":100,
-        "und":0,
-        "sma":1
-      }
-    },
-    "rain":{
-      "Rain":{
-        "heavy":100,
-        "light":100,
-        "medium":100
-      },
-      "Thunderstorm":{
-        "heavy":100,
-        "light":100,
-        "medium":100
-      }
-    },
-    "extremeWeather":{
-      "Blizzard":50,
-      "Ashstorm":50,
-      "Blight":50
-    },
     "misc":{
       "yurtVol":100,
       "UIvol":75,
@@ -76,34 +25,85 @@
       "SVvol":100,
       "splashVol":100,
       "tVol":75
+    },
+    "extremeWeather":{
+      "Ashstorm":50,
+      "Blizzard":50,
+      "Blight":50
+    },
+    "modules":{
+      "interior":{
+        "sma":1,
+        "volume":60,
+        "und":0,
+        "big":1
+      },
+      "outdoor":{
+        "sma":0.2,
+        "volume":55,
+        "und":0.4,
+        "big":0.25
+      },
+      "rainOnStatics":{
+        "sma":1,
+        "volume":100,
+        "und":0,
+        "big":1
+      },
+      "interiorWeather":{
+        "sma":1,
+        "volume":65,
+        "und":0,
+        "big":1
+      },
+      "wind":{
+        "sma":0.4,
+        "volume":65,
+        "und":0.3,
+        "big":0.4
+      },
+      "populated":{
+        "sma":1,
+        "volume":50,
+        "und":0.3,
+        "big":1
+      }
+    },
+    "rain":{
+      "Thunderstorm":{
+        "heavy":100,
+        "light":100,
+        "medium":100
+      },
+      "Rain":{
+        "heavy":100,
+        "light":100,
+        "medium":100
+      }
     }
   },
   "vsVol":130,
   "popVol":100,
   "tauntChance":30,
   "OAvol":110,
-  "debugLogOn":false,
+  "UIvol":150,
   "moduleAmbientInterior":true,
-  "moduleServiceVoices":true,
+  "UIEating":true,
   "serviceTravel":true,
   "rainSounds":true,
-  "PCBlight":true,
   "playInteriorAmbient":true,
-  "language":"tew.AURA.i18n.en",
-  "volumeSave":{
-    "keyCode":71,
-    "mouseWheel":false,
-    "mouseButton":false
-  },
-  "serviceSpells":true,
-  "UITraining":true,
-  "intVol":120,
+  "UISpells":true,
   "tVol":150,
+  "yurtVol":200,
+  "serviceSpells":true,
+  "serviceTraining":true,
+  "intVol":120,
+  "language":"tew.AURA.i18n.en",
   "modulePC":true,
   "playSplash":true,
-  "PCmagicka":true,
+  "SVvol":200,
+  "PCDisease":false,
   "serviceChance":100,
-  "serviceRepair":true,
   "interiorMusic":false,
   "playInteriorWind":true,
   "PCfatigue":true,
@@ -114,21 +114,21 @@
     "isAltDown":false,
     "isControlDown":false
   },
-  "serviceBarter":true,
-  "moduleMisc":true,
-  "windVol":110,
-  "UITravel":true,
-  "UIBarter":true,
   "PChealth":true,
+  "moduleMisc":true,
+  "UIBarter":true,
+  "UITravel":true,
+  "windVol":110,
+  "serviceBarter":true,
   "windSounds":true,
   "splashVol":200,
-  "PCDisease":false,
-  "SVvol":200,
+  "serviceRepair":true,
+  "PCmagicka":true,
   "Cvol":150,
-  "serviceTraining":true,
-  "yurtVol":200,
-  "UISpells":true,
-  "UIEating":true,
+  "UITraining":true,
+  "debugLogOn":false,
+  "PCBlight":true,
+  "pcVitalSigns":true,
   "serviceEnchantment":true,
-  "moduleInteriorWeather":true
+  "playYurtFlap":true
 }

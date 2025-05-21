@@ -1,0 +1,8 @@
+{
+  "secondaryModifierChance":25,
+  "logLevel":"INFO",
+  "modifierChance":5,
+  "enabled":true,
+  "wildChance":10,
+  "wildMultiplier":1.5
+}

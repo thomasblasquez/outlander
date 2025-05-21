@@ -1,7 +1,7 @@
 {
   "comparisonKey":{
-    "keyCode":false,
-    "isShiftDown":false,
+    "keyCode":42,
+    "isShiftDown":true,
     "mouseWheel":false,
     "mouseButton":false,
     "isAltDown":false,
@@ -13,8 +13,8 @@
   "file":"compareTooltip",
   "enableMod":true,
   "mod":"MWSE Compare Tooltip",
-  "useKey":false,
-  "author":"rfuzzo",
+  "useKey":true,
+  "useParens":true,
   "useArrows":true,
-  "useParens":true
+  "author":"rfuzzo"
 }

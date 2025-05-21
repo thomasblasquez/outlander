@@ -1,8 +1,8 @@
 {
+  "msg":false,
+  "pow":100,
   "KEY":{
     "keyCode":44
   },
-  "pow":100,
-  "mbmet":2,
-  "msg":false
+  "mbmet":2
 }

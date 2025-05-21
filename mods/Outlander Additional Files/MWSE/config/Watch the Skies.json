@@ -7,7 +7,7 @@
   "seasonalWeather":true,
   "particleMesh":true,
   "cloudSpeed":true,
-  "useVanillaSkyTextures":false,
+  "useVanillaSkyTextures":true,
   "seasonalDaytime":true,
   "skyTexture":true
 }

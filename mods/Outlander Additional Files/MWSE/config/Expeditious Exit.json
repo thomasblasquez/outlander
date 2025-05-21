@@ -1,5 +1,5 @@
 {
-  "showMenuOnExit":true,
   "allowAltF4":false,
-  "useTaskKill":false
+  "useTaskKill":false,
+  "showMenuOnExit":true
 }

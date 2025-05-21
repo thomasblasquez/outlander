@@ -2,31 +2,31 @@
   "mistShader":true,
   "speedCoefficient":45,
   "modEnabled":true,
-  "mistyWeathers":{
-    "Foggy":true,
-    "Overcast":true
-  },
+  "interiorNIF":true,
   "interiorShader":true,
   "blockedMist":{
     "Blizzard":true,
-    "Rain":true,
     "Blight":true,
+    "Ashstorm":true,
     "Thunderstorm":true,
     "Snow":true,
-    "Ashstorm":true
+    "Rain":true
   },
-  "blockedCloud":{
-    "Blight":true,
-    "Ashstorm":true
-  },
-  "blockedInteriors":[],
+  "mistNIF":true,
+  "debugLogOn":false,
   "cloudyWeathers":{
     "Thunderstorm":true,
     "Cloudy":true,
     "Rain":true
   },
-  "debugLogOn":false,
-  "mistNIF":true,
+  "mistyWeathers":{
+    "Foggy":true,
+    "Overcast":true
+  },
+  "blockedCloud":{
+    "Ashstorm":true,
+    "Blight":true
+  },
   "clouds":true,
-  "interiorNIF":true
+  "blockedInteriors":[]
 }

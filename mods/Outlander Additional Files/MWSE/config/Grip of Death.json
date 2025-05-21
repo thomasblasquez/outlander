@@ -1,5 +1,10 @@
 {
   "gripkey":{
-    "keyCode":56
+    "keyCode":44,
+    "isShiftDown":false,
+    "mouseWheel":false,
+    "mouseButton":false,
+    "isAltDown":false,
+    "isControlDown":false
   }
 }

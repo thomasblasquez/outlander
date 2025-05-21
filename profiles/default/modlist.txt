@@ -97,7 +97,7 @@
 -Ebonheart Underworks
 -Dynamic FPS Optimization
 -Discord Rich Presence for Morrowind
--Dev Tools and Misc_separator
+-Misc_separator
 -Dartboards Expanded
 -Custom Mods_separator
 -CRT Shader
@@ -275,7 +275,7 @@
 -Patches_separator
 -Patch for Purists
 -Passing Time While Reading - MWSE Lua version
--Overhauls and Gameplay Changes_separator
+-=====Overhauls and Gameplay Changes=====_separator
 -Optimizations and Bug Fixes_separator
 -Onion - Layered Accessories
 -OAAB_Data (HD)
@@ -302,7 +302,7 @@
 -Let There Be Darkness - Lua Lighting Overhaul
 -Kogoruhn Expanded
 -Kezyma's UI Remastered
--Immersion World Building_separator
+-Immersion and QoL_separator
 -Graphic Herbalism - MWSE and OpenMW Edition
 -GMST Menu
 -Glow in the Dahrk

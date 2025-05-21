@@ -1,13 +1,13 @@
 {
-  "mainMap":"\\Textures\\tew\\Travel Tooltips\\MW_travelroutes.tga",
+  "scale":100,
   "size":"Wide",
   "mapColour":"Indoril",
   "headers":"headers_vehk",
-  "fontText":0,
+  "showMainMap":true,
   "useFallback":false,
   "showGondola":true,
-  "scale":100,
-  "fontLabel":2,
   "debugLogOn":false,
-  "showMainMap":true
+  "fontLabel":2,
+  "fontText":0,
+  "mainMap":"\\Textures\\tew\\Travel Tooltips\\MW_travelroutes.tga"
 }

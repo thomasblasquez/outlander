@@ -12,13 +12,13 @@
   "npcGuild":true,
   "itemTarget":true,
   "sneakTarget":true,
-  "dotCrosshair":false,
-  "newDefault":true,
-  "npcVanilla":true,
+  "hideVanillaSneak":true,
   "sideTarget":true,
+  "npcVanilla":true,
+  "newDefault":true,
   "npcSide":true,
   "autoHide":false,
   "messages":true,
-  "hideVanillaSneak":true,
+  "dotCrosshair":false,
   "crosshairTexture":"vanilla"
 }

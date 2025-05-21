@@ -1,4 +1,4 @@
 {
-  "blockSpawnsWhenLoading":true,
-  "blockSpawnsWithCooldown":false
+  "blockSpawnsWithCooldown":false,
+  "blockSpawnsWhenLoading":true
 }

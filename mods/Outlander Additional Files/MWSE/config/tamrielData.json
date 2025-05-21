@@ -1,16 +1,20 @@
 {
+  "improveItemSounds":true,
+  "adjustTravelPrices":true,
+  "overwriteMagickaExpanded":true,
+  "fixVampireHeads":true,
+  "passwallAlteration":false,
   "boundSpells":true,
   "miscSpells":true,
   "restrictEquipment":true,
   "weatherChanges":true,
   "creatureBehaviors":true,
-  "improveItemSounds":true,
   "limitIntervention":false,
-  "adjustTravelPrices":true,
-  "interventionSpells":true,
-  "overwriteMagickaExpanded":true,
-  "fixPlayerRaceAnimations":true,
-  "fixVampireHeads":true,
+  "hats":true,
   "provincialReputation":true,
-  "summoningSpells":true
+  "interventionSpells":true,
+  "summoningSpells":true,
+  "khajiitFormCharCreation":false,
+  "provincialFactionUI":true,
+  "fixPlayerRaceAnimations":true
 }

@@ -4,18 +4,18 @@
   "persuasionLimit":true,
   "limitedTopics":true,
   "advanceTime":true,
-  "advanceTime_minutesxtopic":3,
-  "dispositionIncrease":true,
-  "speechcraftLeveling":true,
-  "minimumTopics":3,
-  "repetition":true,
-  "advanceTime_maxtime":2,
-  "repetitionReset":2,
-  "blackList":[],
   "talkKey":{
     "keyCode":21,
     "isShiftDown":false,
     "isAltDown":false,
     "isControlDown":false
-  }
+  },
+  "blackList":[],
+  "repetitionReset":2,
+  "minimumTopics":3,
+  "repetition":true,
+  "advanceTime_maxtime":2,
+  "speechcraftLeveling":true,
+  "dispositionIncrease":true,
+  "advanceTime_minutesxtopic":3
 }

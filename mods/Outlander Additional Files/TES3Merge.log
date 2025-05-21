@@ -3,275 +3,260 @@ Using encoding: Western European (Windows)
 Installation folder: P:\Modding\Modlists\Outlander\Stock Game Folder
 Supported record types: ACTI, ALCH, APPA, ARMO, BODY, BOOK, BSGN, CELL, CLAS, CLOT, CONT, CREA, DOOR, ENCH, GMST, INGR, LEVC, LEVI, LIGH, LOCK, MGEF, MISC, NPC_, PROB, RACE, REPA, SKIL, SNDG, SOUN, SPEL, STAT, WEAP
 Parsing input file: Morrowind.esm @ 31-Dec-99 17:00:00
-Parsing input file: Tribunal.esm @ 29-Jan-00 17:00:00
-Parsing input file: Bloodmoon.esm @ 30-Jan-00 17:00:00
-Parsing input file: Wares-base.esm @ 31-Jan-00 17:00:00
-Parsing input file: OAAB_Data.esm @ 01-Feb-00 17:00:00
-Parsing input file: Patch for Purists.esm @ 02-Feb-00 17:00:00
-Parsing input file: Ownership Overhaul.esm @ 03-Feb-00 17:00:00
-Parsing input file: Tamriel_Data.esm @ 04-Feb-00 17:00:00
-Parsing input file: TR_Mainland.esm @ 05-Feb-00 17:00:00
-Parsing input file: Solstheim Tomb of The Snow Prince.esm @ 06-Feb-00 17:00:00
-Parsing input file: Rise of House Telvanni.esm @ 07-Feb-00 17:00:00
-Parsing input file: Friends_and_Foes_base.esm @ 08-Feb-00 17:00:00
-Parsing input file: Friends & Frens - base.esm @ 09-Feb-00 17:00:00
-Parsing input file: Westly Prim & Proper Core.esm @ 10-Feb-00 17:00:00
-Parsing input file: Wares_vanilla_random_lists.ESP @ 11-Feb-00 17:00:00
-Parsing input file: Wares_traders.ESP @ 12-Feb-00 17:00:00
-Parsing input file: Wares_npcs.ESP @ 13-Feb-00 17:00:00
-Parsing input file: Wares_legacy.esp @ 14-Feb-00 17:00:00
-Parsing input file: Wares_containers.ESP @ 15-Feb-00 17:00:00
-Parsing input file: Wares_TR_traders.esp @ 16-Feb-00 17:00:00
-Parsing input file: Wares_TR_npcs.esp @ 17-Feb-00 17:00:00
-Parsing input file: Wares_TR_containers.esp @ 18-Feb-00 17:00:00
-Parsing input file: Wares_lists_TD.ESP @ 19-Feb-00 17:00:00
-Parsing input file: Wares_lists_OAAB.ESP @ 20-Feb-00 17:00:00
-Parsing input file: Wares_lists_hold.ESP @ 21-Feb-00 17:00:00
-Parsing input file: Patch for Purists - Semi-Purist Fixes.ESP @ 22-Feb-00 17:00:00
-Parsing input file: TheGuarWhisperer.esp @ 23-Feb-00 17:00:00
-Parsing input file: Ashfall.esp @ 24-Feb-00 17:00:00
-Parsing input file: Bad Weather Matters.ESP @ 25-Feb-00 17:00:00
-Parsing input file: BardicInspiration.esp @ 26-Feb-00 17:00:00
-Parsing input file: BCOM_rotating_planets_GG.ESP @ 27-Feb-00 17:00:00
-Parsing input file: Beast Boots.esp @ 28-Feb-00 17:00:00
-Parsing input file: DD_Caldera_Expansion.esp @ 29-Feb-00 17:00:00
-Parsing input file: DisturbingDreams.ESP @ 01-Mar-00 17:00:00
-Parsing input file: FPM - First Person Messages.ESP @ 02-Mar-00 17:00:00
-Parsing input file: GAMA.esp @ 03-Mar-00 17:00:00
-Parsing input file: GITD_WL_RR_Interiors.esp @ 04-Mar-00 17:00:00
-Parsing input file: Just Tattoo Of Us.ESP @ 05-Mar-00 17:00:00
-Parsing input file: KogoruhnExpanded.esp @ 06-Mar-00 17:00:00
-Parsing input file: Better Landscapes Stonewood Pass (RP Edit).esp @ 07-Mar-00 17:00:00
-Parsing input file: Broadsheets and Notice Boards.ESP @ 08-Mar-00 17:00:00
-Parsing input file: Character Backgrounds.esp @ 09-Mar-00 17:00:00
-Parsing input file: chuzei_helm_no_neck.esp @ 10-Mar-00 17:00:00
-Parsing input file: Library of Vivec Overhaul - Full.esp @ 11-Mar-00 17:00:00
-Parsing input file: Written in the Stars.esp @ 12-Mar-00 17:00:00
-Parsing input file: MyManor.esp @ 13-Mar-00 17:00:00
-Parsing input file: Pimp_My_Shrine.ESP @ 14-Mar-00 17:00:00
-Parsing input file: Silt Strider Courier.ESP @ 15-Mar-00 17:00:00
-Parsing input file: immersivetravel.esp @ 16-Mar-00 17:00:00
-Parsing input file: BlademeisterMinesandCavernsPatch.ESP @ 17-Mar-00 17:00:00
-Parsing input file: Blademeister.esp @ 18-Mar-00 17:00:00
-Parsing input file: Baal Duun.esp @ 19-Mar-00 17:00:00
-Parsing input file: Dagoth Ur Fleshed Out.ESP @ 20-Mar-00 17:00:00
-Parsing input file: Memento Mori - BCOM Patch.ESP @ 21-Mar-00 17:00:00
-Parsing input file: RR_Aldruhn_Under_Skar_Eng.ESP @ 22-Mar-00 17:00:00
-Parsing input file: RR_Better_Skulls_Eng.ESP @ 23-Mar-00 17:00:00
-Parsing input file: Vurt's BC Tree Replacer II.ESP @ 24-Mar-00 17:00:00
-Parsing input file: Valitys_Bitter_Coast_Addon.esp @ 25-Mar-00 17:00:00
-Parsing input file: Unique Dagoth Brandy & Amulet.ESP @ 26-Mar-00 17:00:00
-Parsing input file: Memento Mori.ESP @ 27-Mar-00 17:00:00
-Parsing input file: Missing snow armor.esp @ 28-Mar-00 17:00:00
-Parsing input file: mistify.ESP @ 29-Mar-00 17:00:00
-Parsing input file: More Exclusive Factions.ESP @ 30-Mar-00 17:00:00
-Parsing input file: Necrocraft.esp @ 31-Mar-00 17:00:00
-Parsing input file: Next Generation Combat - Hand To Hand Fixes.esp @ 01-Apr-00 17:00:00
-Parsing input file: Next Generation Combat.esp @ 02-Apr-00 18:00:00
-Parsing input file: PR Real Disposition Base.esp @ 03-Apr-00 18:00:00
-Parsing input file: Reincarnate - Races of Morrowind.ESP @ 04-Apr-00 18:00:00
-Parsing input file: Sails_and_Sales.ESP @ 05-Apr-00 18:00:00
-Parsing input file: Sexual Harassment Remover -- Merged.ESP @ 06-Apr-00 18:00:00
-Parsing input file: Shipyards of Vvardenfell.esp @ 07-Apr-00 18:00:00
-Parsing input file: Tel_Eurus.esp @ 08-Apr-00 18:00:00
-Parsing input file: The Art of Alchemy.ESP @ 09-Apr-00 18:00:00
-Parsing input file: The Blight.ESP @ 10-Apr-00 18:00:00
-Parsing input file: The Redoran Bard.esp @ 11-Apr-00 18:00:00
-Parsing input file: The_corprusarium_Exp.ESP @ 12-Apr-00 18:00:00
-Parsing input file: TheMidnightOil.ESP @ 13-Apr-00 18:00:00
-Parsing input file: Thickle-Lo Grove.ESP @ 14-Apr-00 18:00:00
-Parsing input file: TOTSP_Patch_for_Purists_4.0.2.esp @ 15-Apr-00 18:00:00
-Parsing input file: UltimateFishing.esp @ 16-Apr-00 18:00:00
-Parsing input file: Useful Maps and Guides TR Addon.ESP @ 17-Apr-00 18:00:00
-Parsing input file: Useful Maps and Guides.ESP @ 18-Apr-00 18:00:00
-Parsing input file: VSBR.ESP @ 19-Apr-00 18:00:00
-Parsing input file: companionLeveler.ESP @ 20-Apr-00 18:00:00
-Parsing input file: Skooma Baron 1.3.ESP @ 21-Apr-00 18:00:00
-Parsing input file: Leave Great Houses.esp @ 22-Apr-00 18:00:00
-Parsing input file: Ahead of the Classes.ESP @ 23-Apr-00 18:00:00
-Parsing input file: Magicka Expanded.ESP @ 24-Apr-00 18:00:00
-Parsing input file: BCoM - Atmospheric_Arena.ESP @ 25-Apr-00 18:00:00
-Parsing input file: BCoM_Atmospheric_Plazas.ESP @ 26-Apr-00 18:00:00
-Parsing input file: BCoM_More_Logical_Census_Office.ESP @ 27-Apr-00 18:00:00
-Parsing input file: BCoM_South_Gates_Sadrith_Mora.ESP @ 28-Apr-00 18:00:00
-Parsing input file: Clean_Mines and Caverns.esp @ 29-Apr-00 18:00:00
-Parsing input file: F&F_Ahead of the Classes.ESP @ 30-Apr-00 18:00:00
-Parsing input file: F&F_Vvardenfell.ESP @ 01-May-00 18:00:00
-Parsing input file: Nine-holes - Core.esp @ 02-May-00 18:00:00
-Parsing input file: Nine-holes - TR Addon.esp @ 03-May-00 18:00:00
-Parsing input file: South Wall_RP.ESP @ 04-May-00 18:00:00
-Parsing input file: Horror at Helvil Mine.esp @ 05-May-00 18:00:00
-Parsing input file: logs on Fire.esp @ 06-May-00 18:00:00
-Parsing input file: Imperials Go Home v1.esp @ 07-May-00 18:00:00
-Parsing input file: TheJoyOfPainting.esp @ 08-May-00 18:00:00
-Parsing input file: Corprus Service Refusal.esp @ 09-May-00 18:00:00
-Parsing input file: Realistic_Repair_Add-on.ESP @ 10-May-00 18:00:00
-Parsing input file: Bushcrafting for Realistic Repair.ESP @ 11-May-00 18:00:00
-Parsing input file: bound_fishing_pole.ESP @ 12-May-00 18:00:00
-Parsing input file: Astrologians Guild.esp @ 13-May-00 18:00:00
-Parsing input file: MQE_MainQuestEnhancers.esp @ 14-May-00 18:00:00
-Parsing input file: Illuminated Order Improved.ESP @ 15-May-00 18:00:00
-Parsing input file: OAAB - Tombs and Towers.ESP @ 16-May-00 18:00:00
-Parsing input file: BCOM_PfP_patch.ESP @ 17-May-00 18:00:00
-Parsing input file: Store Entrance Chimes - Alt Ver.ESP @ 18-May-00 18:00:00
-Parsing input file: Store Entrance Chimes - TR Mainland.ESP @ 19-May-00 18:00:00
-Parsing input file: Ultimate Creeper Party House.ESP @ 20-May-00 18:00:00
-Parsing input file: A Hero's Welcome.ESP @ 21-May-00 18:00:00
-Parsing input file: MandasManor.ESP @ 22-May-00 18:00:00
-Parsing input file: BCoM_Eight_Plates_Quest_Addon.ESP @ 23-May-00 18:00:00
-Parsing input file: Vivec_Clutter.ESP @ 24-May-00 18:00:00
-Parsing input file: Vivec_Lights.ESP @ 25-May-00 18:00:00
-Parsing input file: Vivec_Street Vendors.ESP @ 26-May-00 18:00:00
-Parsing input file: GITD_Telvanni_Dormers.ESP @ 27-May-00 18:00:00
-Parsing input file: Ebonheart_Underworks.esp @ 28-May-00 18:00:00
-Parsing input file: IEO_SeydaNeenLighthousePatch.esp @ 29-May-00 18:00:00
-Parsing input file: Imperial Employment Office (MD edits).esp @ 30-May-00 18:00:00
-Parsing input file: DartboardsExpanded.esp @ 31-May-00 18:00:00
-Parsing input file: Reputation_Fixes_All.ESP @ 01-Jun-00 18:00:00
-Parsing input file: RFD_Heartthrum.ESP @ 02-Jun-00 18:00:00
-Parsing input file: Fashionwind Masks and Facewraps.ESP @ 03-Jun-00 18:00:00
-Parsing input file: Fashionwind Scarves.ESP @ 04-Jun-00 18:00:00
-Parsing input file: Fashionwind Horns and Antlers.ESP @ 05-Jun-00 18:00:00
-Parsing input file: ImmersiveAlcohol_v1.31.ESP @ 06-Jun-00 18:00:00
-Parsing input file: the_brew_master_v1.4.esp @ 07-Jun-00 18:00:00
-Parsing input file: Werewolf_Random_Transform.ESP @ 08-Jun-00 18:00:00
-Parsing input file: Bodily Injuries.ESP @ 09-Jun-00 18:00:00
-Parsing input file: MDMD - More Deadly Morrowind Denizens.ESP @ 10-Jun-00 18:00:00
-Parsing input file: MDMD - Creatures Add-On.ESP @ 11-Jun-00 18:00:00
-Parsing input file: Tribunal Rebalance.ESP @ 12-Jun-00 18:00:00
-Parsing input file: Bloodmoon Rebalance.esp @ 13-Jun-00 18:00:00
-Parsing input file: Patch for Purists - Book Typos.ESP @ 14-Jun-00 18:00:00
-Parsing input file: TR_Factions.esp @ 15-Jun-00 18:00:00
-Parsing input file: BCOM_Tribal_Erabenimsun.ESP @ 16-Jun-00 18:00:00
-Parsing input file: The Dream is the Door.ESP @ 17-Jun-00 18:00:00
-Parsing input file: OAAB_Red&Violet_Glowbugs.ESP @ 18-Jun-00 18:00:00
-Parsing input file: MWSE Lanterns.esp @ 19-Jun-00 18:00:00
-Parsing input file: hw_GreetDistanceReducer.ESP @ 20-Jun-00 18:00:00
-Parsing input file: MWSE Satchels and Bags - Wares.ESP @ 21-Jun-00 18:00:00
-Parsing input file: packrat perks.ESP @ 22-Jun-00 18:00:00
-Parsing input file: Go Fletch.ESP @ 23-Jun-00 18:00:00
-Parsing input file: Chargen Scenarios - quests.ESP @ 24-Jun-00 18:00:00
-Parsing input file: Wabbajack.esp @ 25-Jun-00 18:00:00
-Parsing input file: Daedric Shrine Peryite - Something in the Water.esp @ 26-Jun-00 18:00:00
-Parsing input file: Deadly Diseases.ESP @ 27-Jun-00 18:00:00
-Parsing input file: ABCmod.ESP @ 28-Jun-00 18:00:00
-Parsing input file: Silent Island.esp @ 29-Jun-00 18:00:00
-Parsing input file: GreymarchDawn.ESP @ 30-Jun-00 18:00:00
-Parsing input file: Beyond the Firmament.esp @ 01-Jul-00 18:00:00
-Parsing input file: Know Thy Ancestors.ESP @ 02-Jul-00 18:00:00
-Parsing input file: Know Thy Ancestors - TR.ESP @ 03-Jul-00 18:00:00
-Parsing input file: Boys in the Hood.ESP @ 04-Jul-00 18:00:00
-Parsing input file: Sea Forts of Morrowind 1.0v.ESP @ 05-Jul-00 18:00:00
-Parsing input file: Kumarahaz Bandit Lair.ESP @ 06-Jul-00 18:00:00
-Parsing input file: Tales of Tel Branora.esp @ 07-Jul-00 18:00:00
-Parsing input file: Tel Branora Expansion.ESP @ 08-Jul-00 18:00:00
-Parsing input file: Ald'Ruhn Outskirts - Ancestral Refuge.ESP @ 09-Jul-00 18:00:00
-Parsing input file: Lord of Rebirth.ESP @ 10-Jul-00 18:00:00
-Parsing input file: Clean_Addamasartus Overhaul.ESP @ 11-Jul-00 18:00:00
-Parsing input file: TR_Dra-Vashai_Vennin.ESP @ 12-Jul-00 18:00:00
-Parsing input file: MarandusRebuilt.ESP @ 13-Jul-00 18:00:00
-Parsing input file: Andasreth Overhaul.ESP @ 14-Jul-00 18:00:00
-Parsing input file: Berandas Overhaul.esp @ 15-Jul-00 18:00:00
-Parsing input file: BalmoraGravemarketBCOM.ESP @ 16-Jul-00 18:00:00
-Parsing input file: IlluminatedOrder_OAABTombsandTowers_patch.ESP @ 17-Jul-00 18:00:00
-Parsing input file: Shinies.ESP @ 18-Jul-00 18:00:00
-Parsing input file: Djangos Dialogue.ESP @ 19-Jul-00 18:00:00
-Parsing input file: BCoM_Concept_Art_Vivec_Statues.ESP @ 20-Jul-00 18:00:00
-Parsing input file: adamantiumarmor.esp @ 21-Jul-00 18:00:00
-Parsing input file: LeFemmArmor.esp @ 22-Jul-00 18:00:00
-Parsing input file: OAAB Classes.ESP @ 23-Jul-00 18:00:00
-Parsing input file: OAAB Creature Loot.ESP @ 24-Jul-00 18:00:00
-Parsing input file: OAAB Leveled Creatures.ESP @ 25-Jul-00 18:00:00
-Parsing input file: OAAB Leveled Lists.ESP @ 26-Jul-00 18:00:00
-Parsing input file: OAAB_DarkTemptations.ESP @ 27-Jul-00 18:00:00
-Parsing input file: TR_BCOM_Patch.ESP @ 28-Jul-00 18:00:00
-Parsing input file: Daedric Intervention - Armor.esp @ 29-Jul-00 18:00:00
-Parsing input file: The Doors of Oblivion 1.4.esp @ 30-Jul-00 18:00:00
-Parsing input file: Daedric Shrine Overhaul FULL.esp @ 31-Jul-00 18:00:00
-Parsing input file: Doors of Oblivion+TOTSP Patch.ESP @ 01-Aug-00 18:00:00
-Parsing input file: Daedric Intervention.ESP @ 02-Aug-00 18:00:00
-Parsing input file: The_Royal_Game_Of_Ur.esp @ 03-Aug-00 18:00:00
-Parsing input file: Thirteen Telvanni - Core.esp @ 04-Aug-00 18:00:00
-Parsing input file: Thirteen Telvanni - TR Addon.esp @ 05-Aug-00 18:00:00
-Parsing input file: Beware the Sixth House.ESP @ 06-Aug-00 18:00:00
-Parsing input file: Playable Game of Ur.esp @ 07-Aug-00 18:00:00
-Parsing input file: VSBR_TD.ESP @ 08-Aug-00 18:00:00
-Parsing input file: sb_smith.ESP @ 09-Aug-00 18:00:00
-Parsing input file: CasinoGambling - TR Addon.ESP @ 10-Aug-00 18:00:00
-Parsing input file: CasinoGambling.esp @ 11-Aug-00 18:00:00
-Parsing input file: correctUV Ore Replacer_respawning.esp @ 12-Aug-00 18:00:00
-Parsing input file: Glowing_Mines.ESP @ 13-Aug-00 18:00:00
-Parsing input file: ST_Alch_1.5_Resource.esp @ 14-Aug-00 18:00:00
-Parsing input file: ST_Alchemy_Balance_Sri_1.5.esp @ 15-Aug-00 18:00:00
-Parsing input file: ST_Alchemy_Base_1.5.esp @ 16-Aug-00 18:00:00
-Parsing input file: ST_Alchemy_Replacer_1.3.esp @ 17-Aug-00 18:00:00
-Parsing input file: XE Sky Variations.esp @ 18-Aug-00 18:00:00
-Parsing input file: Beautiful cities of morrowind.esp @ 19-Aug-00 18:00:00
-Parsing input file: RP_Maar_Gan.ESP @ 20-Aug-00 18:00:00
-Parsing input file: RP_Maar_Gan_Ashlander_Addon.ESP @ 21-Aug-00 18:00:00
-Parsing input file: BCoM_IEO_patch.ESP @ 22-Aug-00 18:00:00
-Parsing input file: Ashlander Traders Remastered.esp @ 23-Aug-00 18:00:00
-Parsing input file: BCoM_logs_on_fire.ESP @ 24-Aug-00 18:00:00
-Parsing input file: BCOM_Canal_02.ESP @ 25-Aug-00 18:00:00
-Parsing input file: OAAB Brother Junipers Twin Lamps.esp @ 26-Aug-00 18:00:00
-Parsing input file: RedMountainReborn.esp @ 27-Aug-00 18:00:00
-Parsing input file: BCoM_Khuul_Lighthouse_02.ESP @ 28-Aug-00 18:00:00
-Parsing input file: Improved Inns Expanded.esp @ 29-Aug-00 18:00:00
-Parsing input file: ROHT_2_0_8.ESP @ 30-Aug-00 18:00:00
-Parsing input file: Tel Aruhn Chronicles quest and Yansirramus Overhaul addon.ESP @ 31-Aug-00 18:00:00
-Parsing input file: Improved Inns Expanded - TR Addon.esp @ 01-Sep-00 18:00:00
-Parsing input file: Animated_Morrowind - merged.esp @ 02-Sep-00 18:00:00
-Parsing input file: Oblivion Style Vampires.esp @ 03-Sep-00 18:00:00
-Parsing input file: Live Free.esp @ 04-Sep-00 18:00:00
-Parsing input file: F&F_Mainland.ESP @ 05-Sep-00 18:00:00
-Parsing input file: BCOM_Sadrith_Mora_dock_expanded.ESP @ 06-Sep-00 18:00:00
-Parsing input file: Friends & Frens - Bantam Guar.esp @ 07-Sep-00 18:00:00
-Parsing input file: Friends & Frens - Vvardenfell.ESP @ 08-Sep-00 18:00:00
-Parsing input file: Friends & Frens - TR.ESP @ 09-Sep-00 18:00:00
-Parsing input file: Friends & Frens - Prim & Proper.esp @ 10-Sep-00 18:00:00
-Parsing input file: BCOM_Stavs_MGO.ESP @ 11-Sep-00 18:00:00
-Parsing input file: SWP - Caldera Mine Patch.ESP @ 12-Sep-00 18:00:00
-Parsing input file: Trellis addon - BCoM.ESP @ 13-Sep-00 18:00:00
-Parsing input file: Vibrant Ivy.ESP @ 14-Sep-00 18:00:00
-Parsing input file: Expansion Delay.ESP @ 15-Sep-00 18:00:00
-Parsing input file: RMR_KogoruhnExp_patch.ESP @ 16-Sep-00 18:00:00
-Parsing input file: MasterIndexRedux.esp @ 17-Sep-00 18:00:00
-Parsing input file: Mamaea Awakened.ESP @ 18-Sep-00 18:00:00
-Parsing input file: High Art.esp @ 19-Sep-00 18:00:00
-Parsing input file: The Lamp.esp @ 20-Sep-00 18:00:00
-Parsing input file: SecretsOfTheCrystalCity.esp @ 21-Sep-00 18:00:00
-Parsing input file: Concept_Arts_plantations.esp @ 22-Sep-00 18:00:00
-Parsing input file: AreaEffectArrows.esp @ 23-Sep-00 18:00:00
-Parsing input file: mwse_PoisonCrafting.esp @ 24-Sep-00 18:00:00
-Parsing input file: Enhanced Light.ESP @ 25-Sep-00 18:00:00
-Parsing input file: Bob's Diverse Dagoths - Hostile Gilvoth.esp @ 26-Sep-00 18:00:00
-Parsing input file: Welcome to the Arena! v6.7.esp @ 27-Sep-00 18:00:00
-Parsing input file: IlluminatedOrder_BCoM_patch.ESP @ 28-Sep-00 18:00:00
-Parsing input file: IlluminatedOrder_SecretsoftheCrystalCity_patch.ESP @ 29-Sep-00 18:00:00
-Parsing input file: BCOM_pathgrid_reset.ESP @ 30-Sep-00 18:00:00
-Parsing input file: BCoM_AldRuhn_Outdoor_Merchants.ESP @ 01-Oct-00 18:00:00
-Parsing input file: BCoM_Marketplace_addon_ver_3.esp @ 02-Oct-00 18:00:00
-Parsing input file: BCoM_Caldera_MG_Basement.ESP @ 03-Oct-00 18:00:00
-Parsing input file: BCoM_Concept_Art_Husk_Urshilaku.ESP @ 04-Oct-00 18:00:00
-Parsing input file: Interior exterior flag reset_Atmospheric Arena.ESP @ 05-Oct-00 18:00:00
-Parsing input file: Interior exterior flag reset_Atmospheric Plazas.ESP @ 06-Oct-00 18:00:00
-Parsing input file: BCOM - Taller Lighthouse.ESP @ 07-Oct-00 18:00:00
-Parsing input file: BCOM_Brevur.ESP @ 08-Oct-00 18:00:00
-Parsing input file: BCoM_FQ_Bridges.esp @ 09-Oct-00 18:00:00
-Parsing input file: BCoM_Imperial_Gaehouse_Buckmoth.ESP @ 10-Oct-00 18:00:00
-Parsing input file: BCoM_Imperial_Gaehouse_MoonMoth.ESP @ 11-Oct-00 18:00:00
-Parsing input file: BCoM_Imperial_Gatehouse_Pelagiad.ESP @ 12-Oct-00 18:00:00
-Parsing input file: BCOM_Suran Expansion.ESP @ 13-Oct-00 18:00:00
-Merged GMST record: sTeleportDisabled
-Resolved conflicts for GMST record 'sTeleportDisabled' from mods: Tribunal.esm, Bloodmoon.esm, FPM - First Person Messages.ESP, packrat perks.ESP
-Merged GMST record: sLevitateDisabled
-Resolved conflicts for GMST record 'sLevitateDisabled' from mods: Tribunal.esm, Bloodmoon.esm, FPM - First Person Messages.ESP, packrat perks.ESP
-Merged GMST record: sWerewolfRefusal
-Resolved conflicts for GMST record 'sWerewolfRefusal' from mods: Tribunal.esm, Bloodmoon.esm, FPM - First Person Messages.ESP, packrat perks.ESP
-Merged GMST record: sWerewolfRestMessage
-Resolved conflicts for GMST record 'sWerewolfRestMessage' from mods: Tribunal.esm, Bloodmoon.esm, FPM - First Person Messages.ESP, packrat perks.ESP
+Parsing input file: Tribunal.esm @ 13-Jan-00 17:00:00
+Parsing input file: Bloodmoon.esm @ 14-Jan-00 17:00:00
+Parsing input file: Wares-base.esm @ 15-Jan-00 17:00:00
+Parsing input file: OAAB_Data.esm @ 16-Jan-00 17:00:00
+Parsing input file: Patch for Purists.esm @ 17-Jan-00 17:00:00
+Parsing input file: Ownership Overhaul.esm @ 18-Jan-00 17:00:00
+Parsing input file: Tamriel_Data.esm @ 19-Jan-00 17:00:00
+Parsing input file: TR_Mainland.esm @ 20-Jan-00 17:00:00
+Parsing input file: Solstheim Tomb of The Snow Prince.esm @ 21-Jan-00 17:00:00
+Parsing input file: Rise of House Telvanni.esm @ 22-Jan-00 17:00:00
+Parsing input file: Friends_and_Foes_base.esm @ 23-Jan-00 17:00:00
+Parsing input file: Westly Prim & Proper Core.esm @ 24-Jan-00 17:00:00
+Parsing input file: Wares_lists_hold.ESP @ 25-Jan-00 17:00:00
+Parsing input file: Wares_lists_OAAB.ESP @ 26-Jan-00 17:00:00
+Parsing input file: Wares_lists_TD.ESP @ 27-Jan-00 17:00:00
+Parsing input file: Wares_TR_containers.esp @ 28-Jan-00 17:00:00
+Parsing input file: Wares_TR_npcs.esp @ 29-Jan-00 17:00:00
+Parsing input file: Wares_TR_traders.esp @ 30-Jan-00 17:00:00
+Parsing input file: Wares_containers.ESP @ 31-Jan-00 17:00:00
+Parsing input file: Wares_Legacy.esp @ 01-Feb-00 17:00:00
+Parsing input file: Wares_npcs.ESP @ 02-Feb-00 17:00:00
+Parsing input file: Wares_traders.ESP @ 03-Feb-00 17:00:00
+Parsing input file: Wares_vanilla_random_lists.ESP @ 04-Feb-00 17:00:00
+Parsing input file: Patch for Purists - Semi-Purist Fixes.ESP @ 05-Feb-00 17:00:00
+Parsing input file: Ashfall.esp @ 06-Feb-00 17:00:00
+Parsing input file: Bad Weather Matters.ESP @ 07-Feb-00 17:00:00
+Parsing input file: BardicInspiration.esp @ 08-Feb-00 17:00:00
+Parsing input file: TheGuarWhisperer.esp @ 09-Feb-00 17:00:00
+Parsing input file: BCOM_rotating_planets_GG.ESP @ 10-Feb-00 17:00:00
+Parsing input file: Beast Boots.esp @ 11-Feb-00 17:00:00
+Parsing input file: DD_Caldera_Expansion.esp @ 12-Feb-00 17:00:00
+Parsing input file: DisturbingDreams.ESP @ 13-Feb-00 17:00:00
+Parsing input file: GAMA.esp @ 14-Feb-00 17:00:00
+Parsing input file: GITD_WL_RR_Interiors.esp @ 15-Feb-00 17:00:00
+Parsing input file: Just Tattoo Of Us.ESP @ 16-Feb-00 17:00:00
+Parsing input file: Better Landscapes Stonewood Pass (RP Edit).esp @ 17-Feb-00 17:00:00
+Parsing input file: Broadsheets and Notice Boards.ESP @ 18-Feb-00 17:00:00
+Parsing input file: Character Backgrounds.esp @ 19-Feb-00 17:00:00
+Parsing input file: KogoruhnExpanded.esp @ 20-Feb-00 17:00:00
+Parsing input file: chuzei_helm_no_neck.esp @ 21-Feb-00 17:00:00
+Parsing input file: Library of Vivec Overhaul - Full.esp @ 22-Feb-00 17:00:00
+Parsing input file: Written in the Stars.esp @ 23-Feb-00 17:00:00
+Parsing input file: MyManor.esp @ 24-Feb-00 17:00:00
+Parsing input file: immersivetravel.esp @ 25-Feb-00 17:00:00
+Parsing input file: BlademeisterMinesandCavernsPatch.ESP @ 26-Feb-00 17:00:00
+Parsing input file: Pimp_My_Shrine.ESP @ 27-Feb-00 17:00:00
+Parsing input file: Blademeister.esp @ 28-Feb-00 17:00:00
+Parsing input file: Silt Strider Courier.ESP @ 29-Feb-00 17:00:00
+Parsing input file: Baal Duun.esp @ 01-Mar-00 17:00:00
+Parsing input file: Dagoth Ur Fleshed Out.ESP @ 02-Mar-00 17:00:00
+Parsing input file: Memento Mori - BCOM Patch.ESP @ 03-Mar-00 17:00:00
+Parsing input file: RR_Aldruhn_Under_Skar_Eng.ESP @ 04-Mar-00 17:00:00
+Parsing input file: RR_Better_Skulls_Eng.ESP @ 05-Mar-00 17:00:00
+Parsing input file: Vurt's BC Tree Replacer II.ESP @ 06-Mar-00 17:00:00
+Parsing input file: Valitys_Bitter_Coast_Addon.esp @ 07-Mar-00 17:00:00
+Parsing input file: Unique Dagoth Brandy & Amulet.ESP @ 08-Mar-00 17:00:00
+Parsing input file: Memento Mori.ESP @ 09-Mar-00 17:00:00
+Parsing input file: Missing snow armor.esp @ 10-Mar-00 17:00:00
+Parsing input file: mistify.ESP @ 11-Mar-00 17:00:00
+Parsing input file: More Exclusive Factions.ESP @ 12-Mar-00 17:00:00
+Parsing input file: Necrocraft.esp @ 13-Mar-00 17:00:00
+Parsing input file: Next Generation Combat - Hand To Hand Fixes.esp @ 14-Mar-00 17:00:00
+Parsing input file: Next Generation Combat.esp @ 15-Mar-00 17:00:00
+Parsing input file: PR Real Disposition Base.esp @ 16-Mar-00 17:00:00
+Parsing input file: Reincarnate - Races of Morrowind.ESP @ 17-Mar-00 17:00:00
+Parsing input file: Sails_and_Sales.ESP @ 18-Mar-00 17:00:00
+Parsing input file: Shipyards of Vvardenfell.esp @ 19-Mar-00 17:00:00
+Parsing input file: Tel_Eurus.esp @ 20-Mar-00 17:00:00
+Parsing input file: The Art of Alchemy.ESP @ 21-Mar-00 17:00:00
+Parsing input file: The Blight.ESP @ 22-Mar-00 17:00:00
+Parsing input file: The Redoran Bard.esp @ 23-Mar-00 17:00:00
+Parsing input file: The_corprusarium_Exp.ESP @ 24-Mar-00 17:00:00
+Parsing input file: TheMidnightOil.ESP @ 25-Mar-00 17:00:00
+Parsing input file: Thickle-Lo Grove.ESP @ 26-Mar-00 17:00:00
+Parsing input file: TOTSP_Patch_for_Purists_4.0.2.esp @ 27-Mar-00 17:00:00
+Parsing input file: UltimateFishing.esp @ 28-Mar-00 17:00:00
+Parsing input file: Useful Maps and Guides TR Addon.ESP @ 29-Mar-00 17:00:00
+Parsing input file: companionLeveler.ESP @ 30-Mar-00 17:00:00
+Parsing input file: Useful Maps and Guides.ESP @ 31-Mar-00 17:00:00
+Parsing input file: Ahead of the Classes.ESP @ 01-Apr-00 17:00:00
+Parsing input file: VSBR.ESP @ 02-Apr-00 18:00:00
+Parsing input file: BCoM - Atmospheric_Arena.ESP @ 03-Apr-00 18:00:00
+Parsing input file: Leave Great Houses.esp @ 04-Apr-00 18:00:00
+Parsing input file: BCoM_Atmospheric_Plazas.ESP @ 05-Apr-00 18:00:00
+Parsing input file: BCoM_More_Logical_Census_Office.ESP @ 06-Apr-00 18:00:00
+Parsing input file: Magicka Expanded.ESP @ 07-Apr-00 18:00:00
+Parsing input file: BCoM_South_Gates_Sadrith_Mora.ESP @ 08-Apr-00 18:00:00
+Parsing input file: Clean_Mines and Caverns.esp @ 09-Apr-00 18:00:00
+Parsing input file: F&F_Ahead of the Classes.ESP @ 10-Apr-00 18:00:00
+Parsing input file: F&F_Vvardenfell.ESP @ 11-Apr-00 18:00:00
+Parsing input file: Horror at Helvil Mine.esp @ 12-Apr-00 18:00:00
+Parsing input file: Nine-holes - Core.esp @ 13-Apr-00 18:00:00
+Parsing input file: Nine-holes - TR Addon.esp @ 14-Apr-00 18:00:00
+Parsing input file: Imperials Go Home v1.esp @ 15-Apr-00 18:00:00
+Parsing input file: South Wall_RP.ESP @ 16-Apr-00 18:00:00
+Parsing input file: Corprus Service Refusal.esp @ 17-Apr-00 18:00:00
+Parsing input file: logs on Fire.esp @ 18-Apr-00 18:00:00
+Parsing input file: Bushcrafting for Realistic Repair.ESP @ 19-Apr-00 18:00:00
+Parsing input file: TheJoyOfPainting.esp @ 20-Apr-00 18:00:00
+Parsing input file: bound_fishing_pole.ESP @ 21-Apr-00 18:00:00
+Parsing input file: Astrologians Guild.esp @ 22-Apr-00 18:00:00
+Parsing input file: Realistic_Repair_Add-on.ESP @ 23-Apr-00 18:00:00
+Parsing input file: BCOM_PfP_patch.ESP @ 24-Apr-00 18:00:00
+Parsing input file: MQE_MainQuestEnhancers.esp @ 25-Apr-00 18:00:00
+Parsing input file: OAAB - Tombs and Towers.ESP @ 26-Apr-00 18:00:00
+Parsing input file: A Hero's Welcome.ESP @ 27-Apr-00 18:00:00
+Parsing input file: Store Entrance Chimes - Alt Ver.ESP @ 28-Apr-00 18:00:00
+Parsing input file: Store Entrance Chimes - TR Mainland.ESP @ 29-Apr-00 18:00:00
+Parsing input file: BCoM_Eight_Plates_Quest_Addon.ESP @ 30-Apr-00 18:00:00
+Parsing input file: Ultimate Creeper Party House.ESP @ 01-May-00 18:00:00
+Parsing input file: MandasManor.ESP @ 02-May-00 18:00:00
+Parsing input file: GITD_Telvanni_Dormers.ESP @ 03-May-00 18:00:00
+Parsing input file: Vivec_Clutter.ESP @ 04-May-00 18:00:00
+Parsing input file: Ebonheart_Underworks.esp @ 05-May-00 18:00:00
+Parsing input file: Vivec_Lights.ESP @ 06-May-00 18:00:00
+Parsing input file: IEO_SeydaNeenLighthousePatch.esp @ 07-May-00 18:00:00
+Parsing input file: Vivec_Street Vendors.ESP @ 08-May-00 18:00:00
+Parsing input file: Imperial Employment Office (MD edits).esp @ 09-May-00 18:00:00
+Parsing input file: DartboardsExpanded.esp @ 10-May-00 18:00:00
+Parsing input file: Fashionwind Masks and Facewraps.ESP @ 11-May-00 18:00:00
+Parsing input file: Fashionwind Scarves.ESP @ 12-May-00 18:00:00
+Parsing input file: Reputation_Fixes_All.ESP @ 13-May-00 18:00:00
+Parsing input file: Fashionwind Horns and Antlers.ESP @ 14-May-00 18:00:00
+Parsing input file: RFD_Heartthrum.ESP @ 15-May-00 18:00:00
+Parsing input file: ImmersiveAlcohol_v1.31.ESP @ 16-May-00 18:00:00
+Parsing input file: Bodily Injuries.ESP @ 17-May-00 18:00:00
+Parsing input file: Werewolf_Random_Transform.ESP @ 18-May-00 18:00:00
+Parsing input file: MDMD - More Deadly Morrowind Denizens.ESP @ 19-May-00 18:00:00
+Parsing input file: MDMD - Creatures Add-On.ESP @ 20-May-00 18:00:00
+Parsing input file: BCOM_Tribal_Erabenimsun.ESP @ 21-May-00 18:00:00
+Parsing input file: Tribunal Rebalance.ESP @ 22-May-00 18:00:00
+Parsing input file: Bloodmoon Rebalance.ESP @ 23-May-00 18:00:00
+Parsing input file: Patch for Purists - Book Typos.ESP @ 24-May-00 18:00:00
+Parsing input file: TR_Factions.esp @ 25-May-00 18:00:00
+Parsing input file: hw_GreetDistanceReducer.ESP @ 26-May-00 18:00:00
+Parsing input file: The Dream is the Door.ESP @ 27-May-00 18:00:00
+Parsing input file: OAAB_Red&Violet_Glowbugs.ESP @ 28-May-00 18:00:00
+Parsing input file: Go Fletch.ESP @ 29-May-00 18:00:00
+Parsing input file: Chargen Scenarios - quests.ESP @ 30-May-00 18:00:00
+Parsing input file: MWSE Satchels and Bags - Wares.ESP @ 31-May-00 18:00:00
+Parsing input file: packrat perks.ESP @ 01-Jun-00 18:00:00
+Parsing input file: Daedric Shrine Peryite - Something in the Water.esp @ 02-Jun-00 18:00:00
+Parsing input file: Deadly Diseases.ESP @ 03-Jun-00 18:00:00
+Parsing input file: ABCmod.ESP @ 04-Jun-00 18:00:00
+Parsing input file: Wabbajack.esp @ 05-Jun-00 18:00:00
+Parsing input file: GreymarchDawn.ESP @ 06-Jun-00 18:00:00
+Parsing input file: Beyond the Firmament.esp @ 07-Jun-00 18:00:00
+Parsing input file: Silent Island.esp @ 08-Jun-00 18:00:00
+Parsing input file: Boys in the Hood.ESP @ 09-Jun-00 18:00:00
+Parsing input file: Know Thy Ancestors.ESP @ 10-Jun-00 18:00:00
+Parsing input file: Sea Forts of Morrowind 1.0v.ESP @ 11-Jun-00 18:00:00
+Parsing input file: Ald'Ruhn Outskirts - Ancestral Refuge.ESP @ 12-Jun-00 18:00:00
+Parsing input file: Kumarahaz Bandit Lair.ESP @ 13-Jun-00 18:00:00
+Parsing input file: Tales of Tel Branora.esp @ 14-Jun-00 18:00:00
+Parsing input file: Clean_Addamasartus Overhaul.ESP @ 15-Jun-00 18:00:00
+Parsing input file: Tel Branora Expansion.ESP @ 16-Jun-00 18:00:00
+Parsing input file: Lord of Rebirth.ESP @ 17-Jun-00 18:00:00
+Parsing input file: Andasreth Overhaul.ESP @ 18-Jun-00 18:00:00
+Parsing input file: Berandas Overhaul.esp @ 19-Jun-00 18:00:00
+Parsing input file: TR_Dra-Vashai_Vennin.ESP @ 20-Jun-00 18:00:00
+Parsing input file: BalmoraGravemarketBCOM.ESP @ 21-Jun-00 18:00:00
+Parsing input file: MarandusRebuilt.ESP @ 22-Jun-00 18:00:00
+Parsing input file: Djangos Dialogue.ESP @ 23-Jun-00 18:00:00
+Parsing input file: BCoM_Concept_Art_Vivec_Statues.ESP @ 24-Jun-00 18:00:00
+Parsing input file: Shinies.ESP @ 25-Jun-00 18:00:00
+Parsing input file: adamantiumarmor.esp @ 26-Jun-00 18:00:00
+Parsing input file: LeFemmArmor.esp @ 27-Jun-00 18:00:00
+Parsing input file: OAAB Classes.ESP @ 28-Jun-00 18:00:00
+Parsing input file: OAAB Creature Loot.ESP @ 29-Jun-00 18:00:00
+Parsing input file: Daedric Intervention - Armor.esp @ 30-Jun-00 18:00:00
+Parsing input file: OAAB Leveled Creatures.ESP @ 01-Jul-00 18:00:00
+Parsing input file: OAAB Leveled Lists.ESP @ 02-Jul-00 18:00:00
+Parsing input file: The Doors of Oblivion 1.4.esp @ 03-Jul-00 18:00:00
+Parsing input file: Beware the Sixth House.ESP @ 04-Jul-00 18:00:00
+Parsing input file: The_Royal_Game_Of_Ur.esp @ 05-Jul-00 18:00:00
+Parsing input file: Thirteen Telvanni - Core.esp @ 06-Jul-00 18:00:00
+Parsing input file: Thirteen Telvanni - TR Addon.esp @ 07-Jul-00 18:00:00
+Parsing input file: CasinoGambling - TR Addon.ESP @ 08-Jul-00 18:00:00
+Parsing input file: Playable Game of Ur.esp @ 09-Jul-00 18:00:00
+Parsing input file: CasinoGambling.esp @ 10-Jul-00 18:00:00
+Parsing input file: VSBR_TD.ESP @ 11-Jul-00 18:00:00
+Parsing input file: sb_smith.ESP @ 12-Jul-00 18:00:00
+Parsing input file: ST_Alch_1.5_Resource.esp @ 13-Jul-00 18:00:00
+Parsing input file: ST_Alchemy_Balance_Sri_1.5.esp @ 14-Jul-00 18:00:00
+Parsing input file: ST_Alchemy_Base_1.5.esp @ 15-Jul-00 18:00:00
+Parsing input file: Imperialist Nerevarine.ESP @ 16-Jul-00 18:00:00
+Parsing input file: ST_Alchemy_Replacer_1.3.esp @ 17-Jul-00 18:00:00
+Parsing input file: astrologer and nightsky.esp @ 18-Jul-00 18:00:00
+Parsing input file: Nationalist Nerevarine.ESP @ 19-Jul-00 18:00:00
+Parsing input file: Daedric Shrine Overhaul FULL.esp @ 20-Jul-00 18:00:00
+Parsing input file: Staff_Agency_3_0.ESP @ 21-Jul-00 18:00:00
+Parsing input file: BCOM_Vivec_Temple_Fountains.ESP @ 22-Jul-00 18:00:00
+Parsing input file: Vvardenfell Brotherhood.esp @ 23-Jul-00 18:00:00
+Parsing input file: Corprusarium_Doors_of_Oblivion_Patch.ESP @ 24-Jul-00 18:00:00
+Parsing input file: TR_BCOM_Patch.ESP @ 25-Jul-00 18:00:00
+Parsing input file: MGToP Patch.esp @ 26-Jul-00 18:00:00
+Parsing input file: disposition_rewards.esp @ 27-Jul-00 18:00:00
+Parsing input file: RV Necrorobes.ESP @ 28-Jul-00 18:00:00
+Parsing input file: Know Thy Ancestors - TR.ESP @ 29-Jul-00 18:00:00
+Parsing input file: Doors of Oblivion+TOTSP Patch.ESP @ 30-Jul-00 18:00:00
+Parsing input file: OAAB_DarkTemptations.ESP @ 31-Jul-00 18:00:00
+Parsing input file: Daedric Intervention.ESP @ 01-Aug-00 18:00:00
+Parsing input file: Beautiful cities of morrowind.esp @ 02-Aug-00 18:00:00
+Parsing input file: BCoM_IEO_patch.ESP @ 03-Aug-00 18:00:00
+Parsing input file: Ashlander Traders Remastered.esp @ 04-Aug-00 18:00:00
+Parsing input file: RP_Maar_Gan.ESP @ 05-Aug-00 18:00:00
+Parsing input file: BCoM_logs_on_fire.ESP @ 06-Aug-00 18:00:00
+Parsing input file: RP_Maar_Gan_Ashlander_Addon.ESP @ 07-Aug-00 18:00:00
+Parsing input file: BCOM_Canal_02.ESP @ 08-Aug-00 18:00:00
+Parsing input file: BCoM_Khuul_Lighthouse_02.ESP @ 09-Aug-00 18:00:00
+Parsing input file: Improved Inns Expanded.esp @ 10-Aug-00 18:00:00
+Parsing input file: OAAB Brother Junipers Twin Lamps.esp @ 11-Aug-00 18:00:00
+Parsing input file: RedMountainReborn.esp @ 12-Aug-00 18:00:00
+Parsing input file: Improved Inns Expanded - TR Addon.esp @ 13-Aug-00 18:00:00
+Parsing input file: Animated_Morrowind - merged.esp @ 14-Aug-00 18:00:00
+Parsing input file: ROHT_2_0_8.ESP @ 15-Aug-00 18:00:00
+Parsing input file: Tel Aruhn Chronicles quest and Yansirramus Overhaul addon.ESP @ 16-Aug-00 18:00:00
+Parsing input file: F&F_Mainland.ESP @ 17-Aug-00 18:00:00
+Parsing input file: BCOM_Sadrith_Mora_dock_expanded.ESP @ 18-Aug-00 18:00:00
+Parsing input file: Oblivion Style Vampires.esp @ 19-Aug-00 18:00:00
+Parsing input file: BCOM_Stavs_MGO.ESP @ 20-Aug-00 18:00:00
+Parsing input file: Live Free.esp @ 21-Aug-00 18:00:00
+Parsing input file: F&F_Prim&Proper.esp @ 22-Aug-00 18:00:00
+Parsing input file: SWP - Caldera Mine Patch.ESP @ 23-Aug-00 18:00:00
+Parsing input file: Expansion Delay.ESP @ 24-Aug-00 18:00:00
+Parsing input file: Trellis addon - BCoM.ESP @ 25-Aug-00 18:00:00
+Parsing input file: Vibrant Ivy.ESP @ 26-Aug-00 18:00:00
+Parsing input file: High Art.esp @ 27-Aug-00 18:00:00
+Parsing input file: RMR_KogoruhnExp_patch.ESP @ 28-Aug-00 18:00:00
+Parsing input file: MasterIndexRedux.esp @ 29-Aug-00 18:00:00
+Parsing input file: Mamaea Awakened.ESP @ 30-Aug-00 18:00:00
+Parsing input file: Concept_Arts_plantations.esp @ 31-Aug-00 18:00:00
+Parsing input file: AreaEffectArrows.esp @ 01-Sep-00 18:00:00
+Parsing input file: The Lamp.esp @ 02-Sep-00 18:00:00
+Parsing input file: SecretsOfTheCrystalCity.esp @ 03-Sep-00 18:00:00
+Parsing input file: Bob's Diverse Dagoths - Hostile Gilvoth.esp @ 04-Sep-00 18:00:00
+Parsing input file: mwse_PoisonCrafting.esp @ 05-Sep-00 18:00:00
+Parsing input file: Welcome to the Arena! v6.7.esp @ 06-Sep-00 18:00:00
+Parsing input file: BCOM_pathgrid_reset.ESP @ 07-Sep-00 18:00:00
+Parsing input file: BCoM_AldRuhn_Outdoor_Merchants.ESP @ 08-Sep-00 18:00:00
+Parsing input file: BCoM_Marketplace_addon_ver_3.esp @ 09-Sep-00 18:00:00
+Parsing input file: BCoM_Caldera_MG_Basement.ESP @ 10-Sep-00 18:00:00
+Parsing input file: BCoM_Concept_Art_Husk_Urshilaku.ESP @ 11-Sep-00 18:00:00
+Parsing input file: Interior exterior flag reset_Atmospheric Arena.ESP @ 12-Sep-00 18:00:00
+Parsing input file: Interior exterior flag reset_Atmospheric Plazas.ESP @ 13-Sep-00 18:00:00
+Parsing input file: BCOM - Taller Lighthouse.ESP @ 14-Sep-00 18:00:00
+Parsing input file: BCOM_Brevur.ESP @ 15-Sep-00 18:00:00
+Parsing input file: BCoM_FQ_Bridges.esp @ 16-Sep-00 18:00:00
+Parsing input file: BCoM_Imperial_Gaehouse_Buckmoth.ESP @ 17-Sep-00 18:00:00
+Parsing input file: BCoM_Imperial_Gaehouse_MoonMoth.ESP @ 18-Sep-00 18:00:00
+Parsing input file: BCoM_Imperial_Gatehouse_Pelagiad.ESP @ 19-Sep-00 18:00:00
+Parsing input file: BCOM_Suran Expansion.ESP @ 20-Sep-00 18:00:00
 Merged GMST record: sWerewolfAlarmMessage
-Resolved conflicts for GMST record 'sWerewolfAlarmMessage' from mods: Tribunal.esm, Bloodmoon.esm, FPM - First Person Messages.ESP, packrat perks.ESP
+Resolved conflicts for GMST record 'sWerewolfAlarmMessage' from mods: Tribunal.esm, Bloodmoon.esm, packrat perks.ESP
 Merged GMST record: fWereWolfRunMult
 Resolved conflicts for GMST record 'fWereWolfRunMult' from mods: Tribunal.esm, Bloodmoon.esm, packrat perks.ESP
 Merged GMST record: fWereWolfSilverWeaponDamageMult
@@ -352,14 +337,10 @@ Merged GMST record: sMagicCreature03ID
 Resolved conflicts for GMST record 'sMagicCreature03ID' from mods: Tribunal.esm, Bloodmoon.esm, packrat perks.ESP
 Merged RACE record: Imperial
 Resolved conflicts for RACE record 'Imperial' from mods: Morrowind.esm, Patch for Purists.esm, Reincarnate - Races of Morrowind.ESP
-Merged RACE record: aa_r_Skeleton
-Resolved conflicts for RACE record 'aa_r_Skeleton' from mods: Friends_and_Foes_base.esm, Friends & Frens - base.esm, Friends & Frens - Vvardenfell.ESP
 Merged SOUN record: AM_QuillSound
 Resolved conflicts for SOUN record 'AM_QuillSound' from mods: Library of Vivec Overhaul - Full.esp, Memento Mori.ESP, The Doors of Oblivion 1.4.esp, Beautiful cities of morrowind.esp, Animated_Morrowind - merged.esp, Welcome to the Arena! v6.7.esp
 Merged MISC record: misc_de_goblet_01_redas
 Resolved conflicts for MISC record 'misc_de_goblet_01_redas' from mods: Morrowind.esm, Patch for Purists.esm, OAAB - Tombs and Towers.ESP
-Merged MISC record: Misc_Com_Bucket_Metal
-Resolved conflicts for MISC record 'Misc_Com_Bucket_Metal' from mods: Morrowind.esm, Bloodmoon.esm, The_corprusarium_Exp.ESP
 Merged CONT record: dwrv_chest_divayth00
 Resolved conflicts for CONT record 'dwrv_chest_divayth00' from mods: Morrowind.esm, Patch for Purists.esm, The_corprusarium_Exp.ESP
 Merged CONT record: chest_tomb_Sandas
@@ -451,43 +432,59 @@ Resolved conflicts for CREA record 'lich_relvel' from mods: Tribunal.esm, Necroc
 Merged CREA record: fabricant_summon
 Resolved conflicts for CREA record 'fabricant_summon' from mods: Tribunal.esm
 Merged CREA record: draugr_valbrandr
-Resolved conflicts for CREA record 'draugr_valbrandr' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.esp
+Resolved conflicts for CREA record 'draugr_valbrandr' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.ESP
 Merged CREA record: BM_bear_black
-Resolved conflicts for CREA record 'BM_bear_black' from mods: Bloodmoon.esm, Bloodmoon Rebalance.esp, ST_Alchemy_Base_1.5.esp
+Resolved conflicts for CREA record 'BM_bear_black' from mods: Bloodmoon.esm, Bloodmoon Rebalance.ESP, ST_Alchemy_Base_1.5.esp
+Merged CREA record: BM_bear_brown
+Resolved conflicts for CREA record 'BM_bear_brown' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.ESP
 Merged CREA record: BM_wolf_grey
-Resolved conflicts for CREA record 'BM_wolf_grey' from mods: Bloodmoon.esm, Bloodmoon Rebalance.esp, ST_Alchemy_Base_1.5.esp
+Resolved conflicts for CREA record 'BM_wolf_grey' from mods: Bloodmoon.esm, Bloodmoon Rebalance.ESP, ST_Alchemy_Base_1.5.esp
+Merged CREA record: BM_wolf_red
+Resolved conflicts for CREA record 'BM_wolf_red' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.ESP
 Merged CREA record: BM_spriggan
-Resolved conflicts for CREA record 'BM_spriggan' from mods: Bloodmoon.esm, Bloodmoon Rebalance.esp, OAAB Creature Loot.ESP
+Resolved conflicts for CREA record 'BM_spriggan' from mods: Bloodmoon.esm, Bloodmoon Rebalance.ESP, OAAB Creature Loot.ESP
 Merged CREA record: BM_horker_swim_UNIQUE
-Resolved conflicts for CREA record 'BM_horker_swim_UNIQUE' from mods: Bloodmoon.esm, Solstheim Tomb of The Snow Prince.esm, Bloodmoon Rebalance.esp
+Resolved conflicts for CREA record 'BM_horker_swim_UNIQUE' from mods: Bloodmoon.esm, Solstheim Tomb of The Snow Prince.esm, Bloodmoon Rebalance.ESP
 Merged CREA record: draugr
-Resolved conflicts for CREA record 'draugr' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.esp
+Resolved conflicts for CREA record 'draugr' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.ESP
 Merged CREA record: BM_wolf_skeleton
-Resolved conflicts for CREA record 'BM_wolf_skeleton' from mods: Bloodmoon.esm, Bloodmoon Rebalance.esp, ST_Alchemy_Base_1.5.esp
+Resolved conflicts for CREA record 'BM_wolf_skeleton' from mods: Bloodmoon.esm, Bloodmoon Rebalance.ESP, ST_Alchemy_Base_1.5.esp
 Merged CREA record: BM_bear_snow_unique
-Resolved conflicts for CREA record 'BM_bear_snow_unique' from mods: Bloodmoon.esm, Bloodmoon Rebalance.esp, ST_Alchemy_Base_1.5.esp
+Resolved conflicts for CREA record 'BM_bear_snow_unique' from mods: Bloodmoon.esm, Bloodmoon Rebalance.ESP, ST_Alchemy_Base_1.5.esp
 Merged CREA record: BM_wolf_snow_unique
-Resolved conflicts for CREA record 'BM_wolf_snow_unique' from mods: Bloodmoon.esm, Bloodmoon Rebalance.esp, ST_Alchemy_Base_1.5.esp
+Resolved conflicts for CREA record 'BM_wolf_snow_unique' from mods: Bloodmoon.esm, Bloodmoon Rebalance.ESP, ST_Alchemy_Base_1.5.esp
+Merged CREA record: BM_riekling_Dulk_UNIQUE
+Resolved conflicts for CREA record 'BM_riekling_Dulk_UNIQUE' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.ESP
+Merged CREA record: BM_riekling_Krish_UNIQU
+Resolved conflicts for CREA record 'BM_riekling_Krish_UNIQU' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.ESP
+Merged CREA record: BM_draugr_bloodskal
+Resolved conflicts for CREA record 'BM_draugr_bloodskal' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.ESP
 Merged CREA record: BM_spriggan_co1
-Resolved conflicts for CREA record 'BM_spriggan_co1' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.esp, OAAB Creature Loot.ESP
+Resolved conflicts for CREA record 'BM_spriggan_co1' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.ESP, OAAB Creature Loot.ESP
 Merged CREA record: BM_spriggan_co2
-Resolved conflicts for CREA record 'BM_spriggan_co2' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.esp, OAAB Creature Loot.ESP
+Resolved conflicts for CREA record 'BM_spriggan_co2' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.ESP, OAAB Creature Loot.ESP
 Merged CREA record: BM_spriggan_co3
-Resolved conflicts for CREA record 'BM_spriggan_co3' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.esp, OAAB Creature Loot.ESP
+Resolved conflicts for CREA record 'BM_spriggan_co3' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.ESP, OAAB Creature Loot.ESP
+Merged CREA record: BM_icetroll_FG_Uni
+Resolved conflicts for CREA record 'BM_icetroll_FG_Uni' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.ESP
+Merged CREA record: BM_riekling_boarmaster
+Resolved conflicts for CREA record 'BM_riekling_boarmaster' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.ESP
 Merged CREA record: BM_bear_black_fat
-Resolved conflicts for CREA record 'BM_bear_black_fat' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.esp, ST_Alchemy_Base_1.5.esp
+Resolved conflicts for CREA record 'BM_bear_black_fat' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.ESP, ST_Alchemy_Base_1.5.esp
 Merged CREA record: BM_wolf_grey_lvl_1
 Resolved conflicts for CREA record 'BM_wolf_grey_lvl_1' from mods: Bloodmoon.esm, Patch for Purists.esm, ST_Alchemy_Base_1.5.esp
 Merged CREA record: BM_bear_black_summon
-Resolved conflicts for CREA record 'BM_bear_black_summon' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.esp, ST_Alchemy_Base_1.5.esp
+Resolved conflicts for CREA record 'BM_bear_black_summon' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.ESP, ST_Alchemy_Base_1.5.esp
 Merged CREA record: BM_wolf_grey_summon
-Resolved conflicts for CREA record 'BM_wolf_grey_summon' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.esp, ST_Alchemy_Base_1.5.esp
+Resolved conflicts for CREA record 'BM_wolf_grey_summon' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.ESP, ST_Alchemy_Base_1.5.esp
 Merged CREA record: BM_wolf_bone_summon
-Resolved conflicts for CREA record 'BM_wolf_bone_summon' from mods: Bloodmoon.esm, Bloodmoon Rebalance.esp
+Resolved conflicts for CREA record 'BM_wolf_bone_summon' from mods: Bloodmoon.esm, Bloodmoon Rebalance.ESP
+Merged CREA record: BM_ice_troll_sun
+Resolved conflicts for CREA record 'BM_ice_troll_sun' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.ESP
 Merged CREA record: BM_spriggan_co4
-Resolved conflicts for CREA record 'BM_spriggan_co4' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.esp, OAAB Creature Loot.ESP
+Resolved conflicts for CREA record 'BM_spriggan_co4' from mods: Bloodmoon.esm, Patch for Purists.esm, Bloodmoon Rebalance.ESP, OAAB Creature Loot.ESP
 Merged BODY record: AM_Quill_BP
-Resolved conflicts for BODY record 'AM_Quill_BP' from mods: Wares_lists_hold.ESP, Memento Mori.ESP, Beautiful cities of morrowind.esp, Animated_Morrowind - merged.esp, Welcome to the Arena! v6.7.esp
+Resolved conflicts for BODY record 'AM_Quill_BP' from mods: Wares_lists_hold.ESP, Memento Mori.ESP, Staff_Agency_3_0.ESP, Beautiful cities of morrowind.esp, Animated_Morrowind - merged.esp, Welcome to the Arena! v6.7.esp
 Merged BODY record: AM_Mortar_BP
 Resolved conflicts for BODY record 'AM_Mortar_BP' from mods: Wares_lists_hold.ESP, The Doors of Oblivion 1.4.esp, Beautiful cities of morrowind.esp, Animated_Morrowind - merged.esp, Welcome to the Arena! v6.7.esp
 Merged NPC_ record: farusea salas
@@ -495,13 +492,13 @@ Resolved conflicts for NPC_ record 'farusea salas' from mods: Morrowind.esm, War
 Merged NPC_ record: Dralas Gilu
 Resolved conflicts for NPC_ record 'Dralas Gilu' from mods: Morrowind.esm, Wares_npcs.ESP, Boys in the Hood.ESP
 Merged NPC_ record: mebestian ence
-Resolved conflicts for NPC_ record 'mebestian ence' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP, Skooma Baron 1.3.ESP
+Resolved conflicts for NPC_ record 'mebestian ence' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
 Merged NPC_ record: abishpulu shand
 Resolved conflicts for NPC_ record 'abishpulu shand' from mods: Morrowind.esm, Wares_npcs.ESP, Boys in the Hood.ESP, Beautiful cities of morrowind.esp
 Merged NPC_ record: hainab lasamsi
-Resolved conflicts for NPC_ record 'hainab lasamsi' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP, Boys in the Hood.ESP, Beautiful cities of morrowind.esp
+Resolved conflicts for NPC_ record 'hainab lasamsi' from mods: Morrowind.esm, Wares_lists_hold.ESP, Wares_npcs.ESP, Boys in the Hood.ESP, Beautiful cities of morrowind.esp
 Merged NPC_ record: maeonius man-llu
-Resolved conflicts for NPC_ record 'maeonius man-llu' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP, Boys in the Hood.ESP, Beautiful cities of morrowind.esp
+Resolved conflicts for NPC_ record 'maeonius man-llu' from mods: Morrowind.esm, Wares_lists_hold.ESP, Wares_npcs.ESP, Boys in the Hood.ESP, Beautiful cities of morrowind.esp
 Merged NPC_ record: ilasour tansumiran
 Resolved conflicts for NPC_ record 'ilasour tansumiran' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
 Merged NPC_ record: musa yahaz
@@ -536,12 +533,6 @@ Merged NPC_ record: mehra drora
 Resolved conflicts for NPC_ record 'mehra drora' from mods: Morrowind.esm, Tribunal.esm, Wares_npcs.ESP, Beautiful cities of morrowind.esp
 Merged NPC_ record: zanmulk sammalamus
 Resolved conflicts for NPC_ record 'zanmulk sammalamus' from mods: Morrowind.esm, Wares_npcs.ESP, Beautiful cities of morrowind.esp
-Merged NPC_ record: kummi-namus almu
-Resolved conflicts for NPC_ record 'kummi-namus almu' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: shanud ududnabia
-Resolved conflicts for NPC_ record 'shanud ududnabia' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: zebdusipal mantiti
-Resolved conflicts for NPC_ record 'zebdusipal mantiti' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
 Merged NPC_ record: darvam hlaren
 Resolved conflicts for NPC_ record 'darvam hlaren' from mods: Morrowind.esm, Wares_npcs.ESP, Improved Inns Expanded.esp
 Merged NPC_ record: volene llervu
@@ -553,7 +544,7 @@ Resolved conflicts for NPC_ record 'ygfa' from mods: Morrowind.esm, Wares_npcs.E
 Merged NPC_ record: vala catraso
 Resolved conflicts for NPC_ record 'vala catraso' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
 Merged NPC_ record: movis darys
-Resolved conflicts for NPC_ record 'movis darys' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
+Resolved conflicts for NPC_ record 'movis darys' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP, Vvardenfell Brotherhood.esp
 Merged NPC_ record: thelvamu sarano
 Resolved conflicts for NPC_ record 'thelvamu sarano' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP
 Merged NPC_ record: melsu indalas
@@ -588,10 +579,8 @@ Merged NPC_ record: stargel
 Resolved conflicts for NPC_ record 'stargel' from mods: Morrowind.esm, Wares_npcs.ESP, Boys in the Hood.ESP
 Merged NPC_ record: heddvild
 Resolved conflicts for NPC_ record 'heddvild' from mods: Morrowind.esm, Wares_npcs.ESP, Boys in the Hood.ESP
-Merged NPC_ record: drelasa ramothran
-Resolved conflicts for NPC_ record 'drelasa ramothran' from mods: Morrowind.esm, Wares_npcs.ESP, Skooma Baron 1.3.ESP
 Merged NPC_ record: hrordis
-Resolved conflicts for NPC_ record 'hrordis' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
+Resolved conflicts for NPC_ record 'hrordis' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP, Vvardenfell Brotherhood.esp
 Merged NPC_ record: yakum hairshashishi
 Resolved conflicts for NPC_ record 'yakum hairshashishi' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
 Merged NPC_ record: j'dato
@@ -616,8 +605,6 @@ Merged NPC_ record: tedryn brenur
 Resolved conflicts for NPC_ record 'tedryn brenur' from mods: Morrowind.esm, Wares_npcs.ESP, Boys in the Hood.ESP
 Merged NPC_ record: dranas dradas
 Resolved conflicts for NPC_ record 'dranas dradas' from mods: Morrowind.esm, Wares_npcs.ESP, Boys in the Hood.ESP
-Merged NPC_ record: m'aiq
-Resolved conflicts for NPC_ record 'm'aiq' from mods: Morrowind.esm, Wares_npcs.ESP, Illuminated Order Improved.ESP
 Merged NPC_ record: hleras gidran
 Resolved conflicts for NPC_ record 'hleras gidran' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
 Merged NPC_ record: urtiso faryon
@@ -626,10 +613,8 @@ Merged NPC_ record: delvam andarys
 Resolved conflicts for NPC_ record 'delvam andarys' from mods: Morrowind.esm, Wares_npcs.ESP, Necrocraft.esp
 Merged NPC_ record: thervul serethi
 Resolved conflicts for NPC_ record 'thervul serethi' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
-Merged NPC_ record: anis seloth
-Resolved conflicts for NPC_ record 'anis seloth' from mods: Morrowind.esm, Wares_npcs.ESP, Skooma Baron 1.3.ESP
 Merged NPC_ record: fara
-Resolved conflicts for NPC_ record 'fara' from mods: Morrowind.esm, Wares_npcs.ESP, Skooma Baron 1.3.ESP, Beautiful cities of morrowind.esp
+Resolved conflicts for NPC_ record 'fara' from mods: Morrowind.esm, Wares_npcs.ESP, Beautiful cities of morrowind.esp
 Merged NPC_ record: dreamer guard
 Resolved conflicts for NPC_ record 'dreamer guard' from mods: Morrowind.esm, Wares_npcs.ESP, Mamaea Awakened.ESP
 Merged NPC_ record: dreamer priest
@@ -718,6 +703,8 @@ Merged NPC_ record: beden giladren
 Resolved conflicts for NPC_ record 'beden giladren' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
 Merged NPC_ record: eldafire
 Resolved conflicts for NPC_ record 'eldafire' from mods: Morrowind.esm, Wares_npcs.ESP, Boys in the Hood.ESP
+Merged NPC_ record: vodunius nuccius
+Resolved conflicts for NPC_ record 'vodunius nuccius' from mods: Morrowind.esm, Wares_npcs.ESP, Boys in the Hood.ESP
 Merged NPC_ record: teruise girvayne
 Resolved conflicts for NPC_ record 'teruise girvayne' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
 Merged NPC_ record: indrele rathryon
@@ -739,7 +726,7 @@ Resolved conflicts for NPC_ record 'caryarel' from mods: Morrowind.esm, Wares_np
 Merged NPC_ record: qorwynn
 Resolved conflicts for NPC_ record 'qorwynn' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP
 Merged NPC_ record: erundil
-Resolved conflicts for NPC_ record 'erundil' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP
+Resolved conflicts for NPC_ record 'erundil' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP, Vvardenfell Brotherhood.esp
 Merged NPC_ record: sjoring hard-heart
 Resolved conflicts for NPC_ record 'sjoring hard-heart' from mods: Morrowind.esm, Tribunal.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP
 Merged NPC_ record: berwen
@@ -754,10 +741,6 @@ Merged NPC_ record: bumbub gro-murgol
 Resolved conflicts for NPC_ record 'bumbub gro-murgol' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP
 Merged NPC_ record: Glonagoth
 Resolved conflicts for NPC_ record 'Glonagoth' from mods: Morrowind.esm, Tribunal.esm, Wares_npcs.ESP, Boys in the Hood.ESP
-Merged NPC_ record: Perien Aurelie
-Resolved conflicts for NPC_ record 'Perien Aurelie' from mods: Morrowind.esm, Wares_npcs.ESP, Skooma Baron 1.3.ESP
-Merged NPC_ record: Trasteve
-Resolved conflicts for NPC_ record 'Trasteve' from mods: Morrowind.esm, Wares_npcs.ESP, Skooma Baron 1.3.ESP
 Merged NPC_ record: Falvis Tunel
 Resolved conflicts for NPC_ record 'Falvis Tunel' from mods: Morrowind.esm, Wares_npcs.ESP, Beautiful cities of morrowind.esp
 Merged NPC_ record: Pallia Ceno
@@ -821,21 +804,55 @@ Resolved conflicts for NPC_ record 'ulam gro-shugham' from mods: Morrowind.esm, 
 Merged NPC_ record: ghob gra-gholob
 Resolved conflicts for NPC_ record 'ghob gra-gholob' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP
 Merged NPC_ record: llandrale varam
-Resolved conflicts for NPC_ record 'llandrale varam' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP
-Merged NPC_ record: severa magia
-Resolved conflicts for NPC_ record 'severa magia' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP
+Resolved conflicts for NPC_ record 'llandrale varam' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP, Vvardenfell Brotherhood.esp
+Merged NPC_ record: llathise dralas
+Resolved conflicts for NPC_ record 'llathise dralas' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP, Vvardenfell Brotherhood.esp
+Merged NPC_ record: nilas brilyn
+Resolved conflicts for NPC_ record 'nilas brilyn' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP, Vvardenfell Brotherhood.esp
+Merged NPC_ record: mivul urvon
+Resolved conflicts for NPC_ record 'mivul urvon' from mods: Morrowind.esm, Wares_npcs.ESP, Vvardenfell Brotherhood.esp
+Merged NPC_ record: nathala herendas
+Resolved conflicts for NPC_ record 'nathala herendas' from mods: Morrowind.esm, Wares_npcs.ESP, Vvardenfell Brotherhood.esp
 Merged NPC_ record: durus marius
-Resolved conflicts for NPC_ record 'durus marius' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP, Daedric Shrine Overhaul FULL.esp
+Resolved conflicts for NPC_ record 'durus marius' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP, Daedric Shrine Overhaul FULL.esp, Vvardenfell Brotherhood.esp
+Merged NPC_ record: relas arothan
+Resolved conflicts for NPC_ record 'relas arothan' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP, Vvardenfell Brotherhood.esp
+Merged NPC_ record: sovisa adas
+Resolved conflicts for NPC_ record 'sovisa adas' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP, Vvardenfell Brotherhood.esp
 Merged NPC_ record: carecalmo
-Resolved conflicts for NPC_ record 'carecalmo' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP
+Resolved conflicts for NPC_ record 'carecalmo' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP, Vvardenfell Brotherhood.esp
+Merged NPC_ record: meryaran
+Resolved conflicts for NPC_ record 'meryaran' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP, Vvardenfell Brotherhood.esp
+Merged NPC_ record: norionil
+Resolved conflicts for NPC_ record 'norionil' from mods: Morrowind.esm, Wares_npcs.ESP, Vvardenfell Brotherhood.esp
+Merged NPC_ record: tonasi belas
+Resolved conflicts for NPC_ record 'tonasi belas' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP, Vvardenfell Brotherhood.esp
+Merged NPC_ record: thovasi alen
+Resolved conflicts for NPC_ record 'thovasi alen' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP, Vvardenfell Brotherhood.esp
+Merged NPC_ record: mindeli saren
+Resolved conflicts for NPC_ record 'mindeli saren' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP, Vvardenfell Brotherhood.esp
+Merged NPC_ record: anel rethelas
+Resolved conflicts for NPC_ record 'anel rethelas' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP, Vvardenfell Brotherhood.esp
+Merged NPC_ record: drireri berano
+Resolved conflicts for NPC_ record 'drireri berano' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP, Vvardenfell Brotherhood.esp
+Merged NPC_ record: llavelea nelvani
+Resolved conflicts for NPC_ record 'llavelea nelvani' from mods: Morrowind.esm, Wares_npcs.ESP, Vvardenfell Brotherhood.esp
+Merged NPC_ record: hyarnarenquar
+Resolved conflicts for NPC_ record 'hyarnarenquar' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP, Vvardenfell Brotherhood.esp
+Merged NPC_ record: sanyon
+Resolved conflicts for NPC_ record 'sanyon' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP, Vvardenfell Brotherhood.esp
+Merged NPC_ record: talis veran
+Resolved conflicts for NPC_ record 'talis veran' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP, Vvardenfell Brotherhood.esp
+Merged NPC_ record: ienaso adren
+Resolved conflicts for NPC_ record 'ienaso adren' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP, Vvardenfell Brotherhood.esp
+Merged NPC_ record: iner raledran
+Resolved conflicts for NPC_ record 'iner raledran' from mods: Morrowind.esm, Wares_npcs.ESP, Vvardenfell Brotherhood.esp
 Merged NPC_ record: ilmeni dren
 Resolved conflicts for NPC_ record 'ilmeni dren' from mods: Morrowind.esm, Rise of House Telvanni.esm, Wares_npcs.ESP
 Merged NPC_ record: tenisi lladri
 Resolved conflicts for NPC_ record 'tenisi lladri' from mods: Morrowind.esm, Wares_npcs.ESP, Beautiful cities of morrowind.esp
 Merged NPC_ record: irgola
 Resolved conflicts for NPC_ record 'irgola' from mods: Morrowind.esm, Wares_npcs.ESP, MasterIndexRedux.esp
-Merged NPC_ record: manat varnan-adda
-Resolved conflicts for NPC_ record 'manat varnan-adda' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
 Merged NPC_ record: dram bero
 Resolved conflicts for NPC_ record 'dram bero' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP
 Merged NPC_ record: haesmar
@@ -860,6 +877,8 @@ Merged NPC_ record: lette
 Resolved conflicts for NPC_ record 'lette' from mods: Morrowind.esm, Wares_npcs.ESP, Animated_Morrowind - merged.esp
 Merged NPC_ record: folms mirel
 Resolved conflicts for NPC_ record 'folms mirel' from mods: Morrowind.esm, Wares_npcs.ESP, MasterIndexRedux.esp
+Merged NPC_ record: nedhelas
+Resolved conflicts for NPC_ record 'nedhelas' from mods: Morrowind.esm, Wares_npcs.ESP, Boys in the Hood.ESP
 Merged NPC_ record: surane leoriane
 Resolved conflicts for NPC_ record 'surane leoriane' from mods: Morrowind.esm, Wares_npcs.ESP, Beautiful cities of morrowind.esp
 Merged NPC_ record: elnyea norvayn
@@ -906,6 +925,8 @@ Merged NPC_ record: therana
 Resolved conflicts for NPC_ record 'therana' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP
 Merged NPC_ record: saruse hloran
 Resolved conflicts for NPC_ record 'saruse hloran' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
+Merged NPC_ record: guril retheran
+Resolved conflicts for NPC_ record 'guril retheran' from mods: Morrowind.esm, Wares_npcs.ESP, Vvardenfell Brotherhood.esp
 Merged NPC_ record: aren maren
 Resolved conflicts for NPC_ record 'aren maren' from mods: Morrowind.esm, Wares_npcs.ESP, Beautiful cities of morrowind.esp
 Merged NPC_ record: achel
@@ -944,12 +965,12 @@ Merged NPC_ record: alarvyne indalas
 Resolved conflicts for NPC_ record 'alarvyne indalas' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
 Merged NPC_ record: rathal barus
 Resolved conflicts for NPC_ record 'rathal barus' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP, Beautiful cities of morrowind.esp
+Merged NPC_ record: drelis ondyn
+Resolved conflicts for NPC_ record 'drelis ondyn' from mods: Morrowind.esm, Wares_npcs.ESP, Vvardenfell Brotherhood.esp
 Merged NPC_ record: tervur braven
 Resolved conflicts for NPC_ record 'tervur braven' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
 Merged NPC_ record: mevel fererus
 Resolved conflicts for NPC_ record 'mevel fererus' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
-Merged NPC_ record: sterdecan
-Resolved conflicts for NPC_ record 'sterdecan' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
 Merged NPC_ record: mollimo of cloudrest
 Resolved conflicts for NPC_ record 'mollimo of cloudrest' from mods: Morrowind.esm, Wares_npcs.ESP, OAAB Brother Junipers Twin Lamps.esp
 Merged NPC_ record: ennah
@@ -958,12 +979,12 @@ Merged NPC_ record: trerayna dalen
 Resolved conflicts for NPC_ record 'trerayna dalen' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP
 Merged NPC_ record: tonas telvani
 Resolved conflicts for NPC_ record 'tonas telvani' from mods: Morrowind.esm, Wares_npcs.ESP, Boys in the Hood.ESP
-Merged NPC_ record: thaeril
-Resolved conflicts for NPC_ record 'thaeril' from mods: Morrowind.esm, Wares_npcs.ESP, Skooma Baron 1.3.ESP
 Merged NPC_ record: borwen
 Resolved conflicts for NPC_ record 'borwen' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
 Merged NPC_ record: Blatta Hateria
 Resolved conflicts for NPC_ record 'Blatta Hateria' from mods: Morrowind.esm, Wares_npcs.ESP, Beautiful cities of morrowind.esp, BCOM_Suran Expansion.ESP
+Merged NPC_ record: gilvas barelo
+Resolved conflicts for NPC_ record 'gilvas barelo' from mods: Morrowind.esm, Wares_npcs.ESP, Beautiful cities of morrowind.esp
 Merged NPC_ record: vevrana aryon
 Resolved conflicts for NPC_ record 'vevrana aryon' from mods: Morrowind.esm, Wares_npcs.ESP, Beautiful cities of morrowind.esp
 Merged NPC_ record: bulfim_gra_shugarz
@@ -972,8 +993,6 @@ Merged NPC_ record: tanusea veloth
 Resolved conflicts for NPC_ record 'tanusea veloth' from mods: Morrowind.esm, Wares_npcs.ESP, Welcome to the Arena! v6.7.esp
 Merged NPC_ record: relyn sarano
 Resolved conflicts for NPC_ record 'relyn sarano' from mods: Morrowind.esm, Wares_npcs.ESP, OAAB Brother Junipers Twin Lamps.esp, Concept_Arts_plantations.esp
-Merged NPC_ record: Daynasa Telandas
-Resolved conflicts for NPC_ record 'Daynasa Telandas' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
 Merged NPC_ record: irvama othrelas
 Resolved conflicts for NPC_ record 'irvama othrelas' from mods: Morrowind.esm, Wares_npcs.ESP, Boys in the Hood.ESP
 Merged NPC_ record: fevasa saryon
@@ -986,8 +1005,6 @@ Merged NPC_ record: nina
 Resolved conflicts for NPC_ record 'nina' from mods: Morrowind.esm, Wares_npcs.ESP, Boys in the Hood.ESP
 Merged NPC_ record: emelin
 Resolved conflicts for NPC_ record 'emelin' from mods: Morrowind.esm, Wares_npcs.ESP, Boys in the Hood.ESP
-Merged NPC_ record: burcanius varo
-Resolved conflicts for NPC_ record 'burcanius varo' from mods: Morrowind.esm, Wares_npcs.ESP, Skooma Baron 1.3.ESP
 Merged NPC_ record: ferise varo
 Resolved conflicts for NPC_ record 'ferise varo' from mods: Morrowind.esm, Wares_npcs.ESP, Necrocraft.esp
 Merged NPC_ record: ethal seloth
@@ -1000,8 +1017,6 @@ Merged NPC_ record: mathyn bemis
 Resolved conflicts for NPC_ record 'mathyn bemis' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP
 Merged NPC_ record: Navil Ienith
 Resolved conflicts for NPC_ record 'Navil Ienith' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP
-Merged NPC_ record: nels llendo
-Resolved conflicts for NPC_ record 'nels llendo' from mods: Morrowind.esm, Wares_npcs.ESP, Friends & Frens - Vvardenfell.ESP
 Merged NPC_ record: hjoldir
 Resolved conflicts for NPC_ record 'hjoldir' from mods: Morrowind.esm, Wares_npcs.ESP, Boys in the Hood.ESP
 Merged NPC_ record: heifnir
@@ -1016,8 +1031,6 @@ Merged NPC_ record: sorkvild the raven
 Resolved conflicts for NPC_ record 'sorkvild the raven' from mods: Morrowind.esm, Wares_npcs.ESP, Necrocraft.esp, MDMD - More Deadly Morrowind Denizens.ESP
 Merged NPC_ record: flacassia fauseius
 Resolved conflicts for NPC_ record 'flacassia fauseius' from mods: Morrowind.esm, Wares_npcs.ESP, Beautiful cities of morrowind.esp, MasterIndexRedux.esp
-Merged NPC_ record: raril giral
-Resolved conflicts for NPC_ record 'raril giral' from mods: Morrowind.esm, Wares_npcs.ESP, Skooma Baron 1.3.ESP
 Merged NPC_ record: hylf the harrier
 Resolved conflicts for NPC_ record 'hylf the harrier' from mods: Morrowind.esm, Wares_npcs.ESP, Thirteen Telvanni - Core.esp
 Merged NPC_ record: agrippina herennia
@@ -1030,10 +1043,6 @@ Merged NPC_ record: daras aryon
 Resolved conflicts for NPC_ record 'daras aryon' from mods: Morrowind.esm, Wares_npcs.ESP, Beautiful cities of morrowind.esp
 Merged NPC_ record: salen ravel
 Resolved conflicts for NPC_ record 'salen ravel' from mods: Morrowind.esm, Wares_npcs.ESP, MasterIndexRedux.esp
-Merged NPC_ record: manse andus
-Resolved conflicts for NPC_ record 'manse andus' from mods: Morrowind.esm, Wares_npcs.ESP, Skooma Baron 1.3.ESP
-Merged NPC_ record: kind erushara
-Resolved conflicts for NPC_ record 'kind erushara' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
 Merged NPC_ record: ulisamsi saddarnuran
 Resolved conflicts for NPC_ record 'ulisamsi saddarnuran' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
 Merged NPC_ record: mevil molor
@@ -1068,34 +1077,6 @@ Merged NPC_ record: tsrazami
 Resolved conflicts for NPC_ record 'tsrazami' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
 Merged NPC_ record: brallion
 Resolved conflicts for NPC_ record 'brallion' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP, Live Free.esp
-Merged NPC_ record: ahanabi assullinbanud
-Resolved conflicts for NPC_ record 'ahanabi assullinbanud' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: ohibaal assintashiran
-Resolved conflicts for NPC_ record 'ohibaal assintashiran' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: dun-ilu assurnumausur
-Resolved conflicts for NPC_ record 'dun-ilu assurnumausur' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: dartis dreleth
-Resolved conflicts for NPC_ record 'dartis dreleth' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: falam hlaalu
-Resolved conflicts for NPC_ record 'falam hlaalu' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: mevrenea aryon
-Resolved conflicts for NPC_ record 'mevrenea aryon' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: naral othreleth
-Resolved conflicts for NPC_ record 'naral othreleth' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: reynis ralvani
-Resolved conflicts for NPC_ record 'reynis ralvani' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: daryn vedralu
-Resolved conflicts for NPC_ record 'daryn vedralu' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: assallit assunbahanammu
-Resolved conflicts for NPC_ record 'assallit assunbahanammu' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: yan-ahhe darirnaddunumm
-Resolved conflicts for NPC_ record 'yan-ahhe darirnaddunumm' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: belvis sedri
-Resolved conflicts for NPC_ record 'belvis sedri' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: galeri uveleth
-Resolved conflicts for NPC_ record 'galeri uveleth' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: traynili senim
-Resolved conflicts for NPC_ record 'traynili senim' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
 Merged NPC_ record: noldrasi bedas
 Resolved conflicts for NPC_ record 'noldrasi bedas' from mods: Morrowind.esm, Wares_npcs.ESP, OAAB Brother Junipers Twin Lamps.esp
 Merged NPC_ record: fendryn drelvi
@@ -1116,8 +1097,14 @@ Merged NPC_ record: paur maston
 Resolved conflicts for NPC_ record 'paur maston' from mods: Morrowind.esm, Wares_npcs.ESP, GAMA.esp, Sails_and_Sales.ESP
 Merged NPC_ record: vanjirra
 Resolved conflicts for NPC_ record 'vanjirra' from mods: Morrowind.esm, Wares_npcs.ESP, Sails_and_Sales.ESP
+Merged NPC_ record: rasha
+Resolved conflicts for NPC_ record 'rasha' from mods: Morrowind.esm, Wares_npcs.ESP, GAMA.esp
 Merged NPC_ record: yak gro-skandar
 Resolved conflicts for NPC_ record 'yak gro-skandar' from mods: Morrowind.esm, Wares_npcs.ESP, GAMA.esp
+Merged NPC_ record: tinos drothan
+Resolved conflicts for NPC_ record 'tinos drothan' from mods: Morrowind.esm, Wares_npcs.ESP, GAMA.esp
+Merged NPC_ record: aeta wave-breaker
+Resolved conflicts for NPC_ record 'aeta wave-breaker' from mods: Morrowind.esm, Wares_npcs.ESP, GAMA.esp
 Merged NPC_ record: maurrie aurmine
 Resolved conflicts for NPC_ record 'maurrie aurmine' from mods: Morrowind.esm, Wares_npcs.ESP, GAMA.esp
 Merged NPC_ record: nelos onmar
@@ -1135,13 +1122,13 @@ Resolved conflicts for NPC_ record 'drerel indaren' from mods: Morrowind.esm, Wa
 Merged NPC_ record: falanu indaren
 Resolved conflicts for NPC_ record 'falanu indaren' from mods: Morrowind.esm, Wares_npcs.ESP, GAMA.esp
 Merged NPC_ record: helviane desele
-Resolved conflicts for NPC_ record 'helviane desele' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP, The Redoran Bard.esp, Skooma Baron 1.3.ESP, Improved Inns Expanded.esp
+Resolved conflicts for NPC_ record 'helviane desele' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP, The Redoran Bard.esp, Improved Inns Expanded.esp
 Merged NPC_ record: snorri
 Resolved conflicts for NPC_ record 'snorri' from mods: Morrowind.esm, Wares_npcs.ESP, Beautiful cities of morrowind.esp
 Merged NPC_ record: muvis moran
 Resolved conflicts for NPC_ record 'muvis moran' from mods: Morrowind.esm, Wares_npcs.ESP, Beautiful cities of morrowind.esp
 Merged NPC_ record: ashumanu eraishah
-Resolved conflicts for NPC_ record 'ashumanu eraishah' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP, Skooma Baron 1.3.ESP, Improved Inns Expanded.esp
+Resolved conflicts for NPC_ record 'ashumanu eraishah' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP, Improved Inns Expanded.esp
 Merged NPC_ record: dranas sarathram
 Resolved conflicts for NPC_ record 'dranas sarathram' from mods: Morrowind.esm, Wares_npcs.ESP, Live Free.esp
 Merged NPC_ record: ranosa gilvayn
@@ -1152,38 +1139,14 @@ Merged NPC_ record: haema farseer
 Resolved conflicts for NPC_ record 'haema farseer' from mods: Morrowind.esm, Wares_npcs.ESP, Boys in the Hood.ESP
 Merged NPC_ record: gals arethi
 Resolved conflicts for NPC_ record 'gals arethi' from mods: Morrowind.esm, Wares_npcs.ESP, Beautiful cities of morrowind.esp
-Merged NPC_ record: nalmen athren
-Resolved conflicts for NPC_ record 'nalmen athren' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: lleras andalen
-Resolved conflicts for NPC_ record 'lleras andalen' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
 Merged NPC_ record: raynila aryon
 Resolved conflicts for NPC_ record 'raynila aryon' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP
 Merged NPC_ record: jolgeir
 Resolved conflicts for NPC_ record 'jolgeir' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
 Merged NPC_ record: weeltul
 Resolved conflicts for NPC_ record 'weeltul' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
-Merged NPC_ record: riraynea reladren
-Resolved conflicts for NPC_ record 'riraynea reladren' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: dalami hlaalu
-Resolved conflicts for NPC_ record 'dalami hlaalu' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: ralmyn othren
-Resolved conflicts for NPC_ record 'ralmyn othren' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
 Merged NPC_ record: Letreius Muco
 Resolved conflicts for NPC_ record 'Letreius Muco' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
-Merged NPC_ record: velyn farethan
-Resolved conflicts for NPC_ record 'velyn farethan' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: bredasu gilaram
-Resolved conflicts for NPC_ record 'bredasu gilaram' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: fothas thirandus
-Resolved conflicts for NPC_ record 'fothas thirandus' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: mils andrethi
-Resolved conflicts for NPC_ record 'mils andrethi' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: miner_01
-Resolved conflicts for NPC_ record 'miner_01' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: miner_02
-Resolved conflicts for NPC_ record 'miner_02' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: miner_03
-Resolved conflicts for NPC_ record 'miner_03' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
 Merged NPC_ record: valveli arelas
 Resolved conflicts for NPC_ record 'valveli arelas' from mods: Morrowind.esm, Wares_npcs.ESP, Boys in the Hood.ESP
 Merged NPC_ record: teleri helvi
@@ -1202,8 +1165,6 @@ Merged NPC_ record: mugdul gro-yagarz
 Resolved conflicts for NPC_ record 'mugdul gro-yagarz' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
 Merged NPC_ record: kanit niladon
 Resolved conflicts for NPC_ record 'kanit niladon' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
-Merged NPC_ record: gorven menas
-Resolved conflicts for NPC_ record 'gorven menas' from mods: Morrowind.esm, Wares_npcs.ESP, Skooma Baron 1.3.ESP
 Merged NPC_ record: valund
 Resolved conflicts for NPC_ record 'valund' from mods: Morrowind.esm, Wares_npcs.ESP, Beautiful cities of morrowind.esp
 Merged NPC_ record: hurolf
@@ -1226,6 +1187,8 @@ Merged NPC_ record: lledsea relas
 Resolved conflicts for NPC_ record 'lledsea relas' from mods: Morrowind.esm, Wares_npcs.ESP, Boys in the Hood.ESP
 Merged NPC_ record: galyn arvel
 Resolved conflicts for NPC_ record 'galyn arvel' from mods: Morrowind.esm, Wares_npcs.ESP, Boys in the Hood.ESP, OAAB Brother Junipers Twin Lamps.esp
+Merged NPC_ record: umbra
+Resolved conflicts for NPC_ record 'umbra' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP, Ultimate Creeper Party House.ESP
 Merged NPC_ record: urshamusa rapli
 Resolved conflicts for NPC_ record 'urshamusa rapli' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
 Merged NPC_ record: dreveni hlaren
@@ -1239,21 +1202,9 @@ Resolved conflicts for NPC_ record 'elante' from mods: Morrowind.esm, Wares_npcs
 Merged NPC_ record: Llandras Belaal
 Resolved conflicts for NPC_ record 'Llandras Belaal' from mods: Morrowind.esm, Wares_npcs.ESP, Boys in the Hood.ESP
 Merged NPC_ record: sosia caristiana
-Resolved conflicts for NPC_ record 'sosia caristiana' from mods: Morrowind.esm, Wares_npcs.ESP, GAMA.esp, Friends & Frens - Vvardenfell.ESP
+Resolved conflicts for NPC_ record 'sosia caristiana' from mods: Morrowind.esm, Wares_npcs.ESP, GAMA.esp
 Merged NPC_ record: Kunthar
 Resolved conflicts for NPC_ record 'Kunthar' from mods: Morrowind.esm, Wares_npcs.ESP, Boys in the Hood.ESP
-Merged NPC_ record: Davas Aralas
-Resolved conflicts for NPC_ record 'Davas Aralas' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: Alvor Andas
-Resolved conflicts for NPC_ record 'Alvor Andas' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: Rernel Arano
-Resolved conflicts for NPC_ record 'Rernel Arano' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: Brelyna Andoril
-Resolved conflicts for NPC_ record 'Brelyna Andoril' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: Gadyni Rethan
-Resolved conflicts for NPC_ record 'Gadyni Rethan' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: Dolmyn Thirelas
-Resolved conflicts for NPC_ record 'Dolmyn Thirelas' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
 Merged NPC_ record: arrille
 Resolved conflicts for NPC_ record 'arrille' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP, Realistic_Repair_Add-on.ESP
 Merged NPC_ record: duluk gro-ghash
@@ -1274,12 +1225,10 @@ Merged NPC_ record: marara
 Resolved conflicts for NPC_ record 'marara' from mods: Morrowind.esm, Wares_npcs.ESP, MDMD - More Deadly Morrowind Denizens.ESP
 Merged NPC_ record: Goris the Maggot King
 Resolved conflicts for NPC_ record 'Goris the Maggot King' from mods: Morrowind.esm, Wares_npcs.ESP, Necrocraft.esp
-Merged NPC_ record: miner_dead00
-Resolved conflicts for NPC_ record 'miner_dead00' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
-Merged NPC_ record: miner_dead01
-Resolved conflicts for NPC_ record 'miner_dead01' from mods: Morrowind.esm, Wares_npcs.ESP, Wares_lists_hold.ESP
 Merged NPC_ record: elegal
 Resolved conflicts for NPC_ record 'elegal' from mods: Morrowind.esm, Wares_npcs.ESP, Beautiful cities of morrowind.esp
+Merged NPC_ record: crazy_batou
+Resolved conflicts for NPC_ record 'crazy_batou' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
 Merged NPC_ record: Mossanon
 Resolved conflicts for NPC_ record 'Mossanon' from mods: Morrowind.esm, Patch for Purists.esm, Wares_npcs.ESP
 Merged NPC_ record: marcel maurard
@@ -1366,186 +1315,224 @@ Merged NPC_ record: forstaag the sweltering
 Resolved conflicts for NPC_ record 'forstaag the sweltering' from mods: Tribunal.esm, Wares_npcs.ESP, Tribunal Rebalance.ESP
 Merged NPC_ record: Crito Olcinius
 Resolved conflicts for NPC_ record 'Crito Olcinius' from mods: Tribunal.esm, Wares_npcs.ESP, Tribunal Rebalance.ESP
+Merged NPC_ record: Carnius Magius
+Resolved conflicts for NPC_ record 'Carnius Magius' from mods: Bloodmoon.esm, Patch for Purists.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: Falco Galenus
-Resolved conflicts for NPC_ record 'Falco Galenus' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'Falco Galenus' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: Gidar Verothan
-Resolved conflicts for NPC_ record 'Gidar Verothan' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'Gidar Verothan' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: Gamin Girith
-Resolved conflicts for NPC_ record 'Gamin Girith' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'Gamin Girith' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: Sabinus Oranius
-Resolved conflicts for NPC_ record 'Sabinus Oranius' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'Sabinus Oranius' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: s'virr
 Resolved conflicts for NPC_ record 's'virr' from mods: Bloodmoon.esm, Solstheim Tomb of The Snow Prince.esm, Wares_npcs.ESP, Boys in the Hood.ESP
 Merged NPC_ record: antonius nuncius
-Resolved conflicts for NPC_ record 'antonius nuncius' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'antonius nuncius' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: gualtierus spurius
-Resolved conflicts for NPC_ record 'gualtierus spurius' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'gualtierus spurius' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: korst wind-eye
-Resolved conflicts for NPC_ record 'korst wind-eye' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'korst wind-eye' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: hagrad the stone
-Resolved conflicts for NPC_ record 'hagrad the stone' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'hagrad the stone' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: mol gro-shat
-Resolved conflicts for NPC_ record 'mol gro-shat' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
-Merged NPC_ record: mazorn gro-gar
-Resolved conflicts for NPC_ record 'mazorn gro-gar' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
-Merged NPC_ record: mus roscius
-Resolved conflicts for NPC_ record 'mus roscius' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'mol gro-shat' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: sorian
-Resolved conflicts for NPC_ record 'sorian' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'sorian' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: Apronia Alfena
-Resolved conflicts for NPC_ record 'Apronia Alfena' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'Apronia Alfena' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: Baro Egnatius
-Resolved conflicts for NPC_ record 'Baro Egnatius' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'Baro Egnatius' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: Elberoth
-Resolved conflicts for NPC_ record 'Elberoth' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'Elberoth' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: brynjolfr
 Resolved conflicts for NPC_ record 'brynjolfr' from mods: Bloodmoon.esm, Wares_npcs.ESP, Missing snow armor.esp
 Merged NPC_ record: engar ice-mane
-Resolved conflicts for NPC_ record 'engar ice-mane' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'engar ice-mane' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: rigmor halfhand
-Resolved conflicts for NPC_ record 'rigmor halfhand' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'rigmor halfhand' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: risi ice-mane
-Resolved conflicts for NPC_ record 'risi ice-mane' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'risi ice-mane' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: alvring whitebeard
-Resolved conflicts for NPC_ record 'alvring whitebeard' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'alvring whitebeard' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: horski tallowhand
-Resolved conflicts for NPC_ record 'horski tallowhand' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'horski tallowhand' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: kili the long
-Resolved conflicts for NPC_ record 'kili the long' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'kili the long' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: louis beauchamp
 Resolved conflicts for NPC_ record 'louis beauchamp' from mods: Bloodmoon.esm, Patch for Purists.esm, Wares_npcs.ESP, GAMA.esp, Expansion Delay.ESP
 Merged NPC_ record: Uryn Maren
-Resolved conflicts for NPC_ record 'Uryn Maren' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'Uryn Maren' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: Aldam Berendus
-Resolved conflicts for NPC_ record 'Aldam Berendus' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'Aldam Berendus' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: Seler Favelnim
-Resolved conflicts for NPC_ record 'Seler Favelnim' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'Seler Favelnim' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: Dralora Favelnim
-Resolved conflicts for NPC_ record 'Dralora Favelnim' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'Dralora Favelnim' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: ulfgar_ghost
-Resolved conflicts for NPC_ record 'ulfgar_ghost' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'ulfgar_ghost' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: skaal_guard2
-Resolved conflicts for NPC_ record 'skaal_guard2' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'skaal_guard2' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: graring
-Resolved conflicts for NPC_ record 'graring' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'graring' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: aenar
-Resolved conflicts for NPC_ record 'aenar' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'aenar' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: hidar
-Resolved conflicts for NPC_ record 'hidar' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'hidar' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: coventina celata
-Resolved conflicts for NPC_ record 'coventina celata' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'coventina celata' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: rolf long-tooth
-Resolved conflicts for NPC_ record 'rolf long-tooth' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'rolf long-tooth' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: Constans Atrius
-Resolved conflicts for NPC_ record 'Constans Atrius' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'Constans Atrius' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: Tirvel Balen
-Resolved conflicts for NPC_ record 'Tirvel Balen' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'Tirvel Balen' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: skaal_hunter
-Resolved conflicts for NPC_ record 'skaal_hunter' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'skaal_hunter' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: basks_in_the_sun
 Resolved conflicts for NPC_ record 'basks_in_the_sun' from mods: Bloodmoon.esm, Solstheim Tomb of The Snow Prince.esm, Wares_npcs.ESP
 Merged NPC_ record: grerid axe-wife
-Resolved conflicts for NPC_ record 'grerid axe-wife' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'grerid axe-wife' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: sattir the bold
-Resolved conflicts for NPC_ record 'sattir the bold' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'sattir the bold' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: snedbrir the smith
-Resolved conflicts for NPC_ record 'snedbrir the smith' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'snedbrir the smith' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: skaal_tracker
-Resolved conflicts for NPC_ record 'skaal_tracker' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'skaal_tracker' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: skaal_hunter2
-Resolved conflicts for NPC_ record 'skaal_hunter2' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'skaal_hunter2' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: bm_smugglers_imperial
-Resolved conflicts for NPC_ record 'bm_smugglers_imperial' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'bm_smugglers_imperial' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: bm_smugglers_darkelf
-Resolved conflicts for NPC_ record 'bm_smugglers_darkelf' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'bm_smugglers_darkelf' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: bm_smugglers_imperial_f
-Resolved conflicts for NPC_ record 'bm_smugglers_imperial_f' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'bm_smugglers_imperial_f' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: bm_smugglers_redguard_f
-Resolved conflicts for NPC_ record 'bm_smugglers_redguard_f' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'bm_smugglers_redguard_f' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: Garnas Uvalen
-Resolved conflicts for NPC_ record 'Garnas Uvalen' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'Garnas Uvalen' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: Sathyn Andrano
-Resolved conflicts for NPC_ record 'Sathyn Andrano' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'Sathyn Andrano' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: Sabrina Vitellia
-Resolved conflicts for NPC_ record 'Sabrina Vitellia' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'Sabrina Vitellia' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: skaal_tracker2
-Resolved conflicts for NPC_ record 'skaal_tracker2' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'skaal_tracker2' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: skaal_tracker3
-Resolved conflicts for NPC_ record 'skaal_tracker3' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'skaal_tracker3' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: Cimber Valerius
-Resolved conflicts for NPC_ record 'Cimber Valerius' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'Cimber Valerius' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: Alcedonia Amnis
-Resolved conflicts for NPC_ record 'Alcedonia Amnis' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'Alcedonia Amnis' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: thauraver
-Resolved conflicts for NPC_ record 'thauraver' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'thauraver' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: BM_berserker_m1
-Resolved conflicts for NPC_ record 'BM_berserker_m1' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'BM_berserker_m1' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: BM_berserker_f1
-Resolved conflicts for NPC_ record 'BM_berserker_f1' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'BM_berserker_f1' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: BM_berserker_f2
-Resolved conflicts for NPC_ record 'BM_berserker_f2' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'BM_berserker_f2' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: BM_berserker_m2
-Resolved conflicts for NPC_ record 'BM_berserker_m2' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'BM_berserker_m2' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: BM_berserker_m3
-Resolved conflicts for NPC_ record 'BM_berserker_m3' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'BM_berserker_m3' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: BM_berserker_f3
-Resolved conflicts for NPC_ record 'BM_berserker_f3' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'BM_berserker_f3' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: BM_berserker_f4
-Resolved conflicts for NPC_ record 'BM_berserker_f4' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'BM_berserker_f4' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: fryssa
 Resolved conflicts for NPC_ record 'fryssa' from mods: Bloodmoon.esm, Patch for Purists.esm, Wares_npcs.ESP
 Merged NPC_ record: bm_roguenecro1
-Resolved conflicts for NPC_ record 'bm_roguenecro1' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'bm_roguenecro1' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP, RV Necrorobes.ESP
+Merged NPC_ record: bm_roguenecro2
+Resolved conflicts for NPC_ record 'bm_roguenecro2' from mods: Bloodmoon.esm, Wares_npcs.ESP, RV Necrorobes.ESP
+Merged NPC_ record: bm_roguenecro3
+Resolved conflicts for NPC_ record 'bm_roguenecro3' from mods: Bloodmoon.esm, Wares_npcs.ESP, RV Necrorobes.ESP
 Merged NPC_ record: bm_reaver_30
-Resolved conflicts for NPC_ record 'bm_reaver_30' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'bm_reaver_30' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: bm_reaver_50
-Resolved conflicts for NPC_ record 'bm_reaver_50' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'bm_reaver_50' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: bm_reaver_archer_30
-Resolved conflicts for NPC_ record 'bm_reaver_archer_30' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'bm_reaver_archer_30' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: bm_reaver_archer_50
-Resolved conflicts for NPC_ record 'bm_reaver_archer_50' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'bm_reaver_archer_50' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: veresa alver
-Resolved conflicts for NPC_ record 'veresa alver' from mods: Bloodmoon.esm, Solstheim Tomb of The Snow Prince.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'veresa alver' from mods: Bloodmoon.esm, Solstheim Tomb of The Snow Prince.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: bronrod_the_roarer
-Resolved conflicts for NPC_ record 'bronrod_the_roarer' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'bronrod_the_roarer' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: Balfring
-Resolved conflicts for NPC_ record 'Balfring' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'Balfring' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: Eifid
-Resolved conflicts for NPC_ record 'Eifid' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'Eifid' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: Fjorkvar
-Resolved conflicts for NPC_ record 'Fjorkvar' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
+Resolved conflicts for NPC_ record 'Fjorkvar' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
 Merged NPC_ record: Vigunn
-Resolved conflicts for NPC_ record 'Vigunn' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.esp
-Merged NPC_ record: TR_m0_Sentius_Veros
-Resolved conflicts for NPC_ record 'TR_m0_Sentius_Veros' from mods: TR_Mainland.esm, Wares_TR_npcs.esp, Beautiful cities of morrowind.esp
-Merged NPC_ record: TR_m3_Aeta the Spear
-Resolved conflicts for NPC_ record 'TR_m3_Aeta the Spear' from mods: TR_Mainland.esm, Wares_TR_npcs.esp, TR_BCOM_Patch.ESP
-Merged NPC_ record: TR_m3_Ieva Llori
-Resolved conflicts for NPC_ record 'TR_m3_Ieva Llori' from mods: TR_Mainland.esm, Wares_TR_npcs.esp, TR_BCOM_Patch.ESP
-Merged NPC_ record: TR_m4_Maros_Sadryon
-Resolved conflicts for NPC_ record 'TR_m4_Maros_Sadryon' from mods: TR_Mainland.esm, Wares_TR_npcs.esp, TR_BCOM_Patch.ESP
-Merged NPC_ record: TR_m4_Murio_Clavian
-Resolved conflicts for NPC_ record 'TR_m4_Murio_Clavian' from mods: TR_Mainland.esm, Wares_TR_npcs.esp, Thirteen Telvanni - TR Addon.esp
-Merged NPC_ record: TR_m4_pien vene
-Resolved conflicts for NPC_ record 'TR_m4_pien vene' from mods: TR_Mainland.esm, Wares_TR_npcs.esp, TR_BCOM_Patch.ESP
+Resolved conflicts for NPC_ record 'Vigunn' from mods: Bloodmoon.esm, Wares_npcs.ESP, Bloodmoon Rebalance.ESP
+Merged NPC_ record: aa_wolfhunter1
+Resolved conflicts for NPC_ record 'aa_wolfhunter1' from mods: Friends_and_Foes_base.esm, F&F_Ahead of the Classes.ESP, F&F_Prim&Proper.esp
+Merged NPC_ record: aa_wolfhunter2
+Resolved conflicts for NPC_ record 'aa_wolfhunter2' from mods: Friends_and_Foes_base.esm, F&F_Ahead of the Classes.ESP, F&F_Prim&Proper.esp
+Merged NPC_ record: aa_wolfhunter3
+Resolved conflicts for NPC_ record 'aa_wolfhunter3' from mods: Friends_and_Foes_base.esm, F&F_Ahead of the Classes.ESP, F&F_Prim&Proper.esp
+Merged NPC_ record: aa_wolfhunter4
+Resolved conflicts for NPC_ record 'aa_wolfhunter4' from mods: Friends_and_Foes_base.esm, F&F_Ahead of the Classes.ESP, F&F_Prim&Proper.esp
+Merged NPC_ record: aa_wolfhunter5
+Resolved conflicts for NPC_ record 'aa_wolfhunter5' from mods: Friends_and_Foes_base.esm, F&F_Ahead of the Classes.ESP, F&F_Prim&Proper.esp
+Merged NPC_ record: aa_SCARV_10
+Resolved conflicts for NPC_ record 'aa_SCARV_10' from mods: Friends_and_Foes_base.esm, F&F_Ahead of the Classes.ESP, F&F_Prim&Proper.esp
+Merged NPC_ record: aa_SCARV_20
+Resolved conflicts for NPC_ record 'aa_SCARV_20' from mods: Friends_and_Foes_base.esm, F&F_Ahead of the Classes.ESP, F&F_Prim&Proper.esp
+Merged NPC_ record: aa_SCARV_35
+Resolved conflicts for NPC_ record 'aa_SCARV_35' from mods: Friends_and_Foes_base.esm, F&F_Ahead of the Classes.ESP, F&F_Prim&Proper.esp
+Merged NPC_ record: aa_SCARV_50
+Resolved conflicts for NPC_ record 'aa_SCARV_50' from mods: Friends_and_Foes_base.esm, F&F_Ahead of the Classes.ESP, F&F_Prim&Proper.esp
+Merged NPC_ record: aa_SCARV_65
+Resolved conflicts for NPC_ record 'aa_SCARV_65' from mods: Friends_and_Foes_base.esm, F&F_Ahead of the Classes.ESP, F&F_Prim&Proper.esp
+Merged NPC_ record: aa_SCARV_80
+Resolved conflicts for NPC_ record 'aa_SCARV_80' from mods: Friends_and_Foes_base.esm, F&F_Ahead of the Classes.ESP, F&F_Prim&Proper.esp
+Merged NPC_ record: aa_SCARV_80f
+Resolved conflicts for NPC_ record 'aa_SCARV_80f' from mods: Friends_and_Foes_base.esm, F&F_Ahead of the Classes.ESP, F&F_Prim&Proper.esp
+Merged NPC_ record: aa_SCARV_65f
+Resolved conflicts for NPC_ record 'aa_SCARV_65f' from mods: Friends_and_Foes_base.esm, F&F_Ahead of the Classes.ESP, F&F_Prim&Proper.esp
+Merged NPC_ record: aa_SCARV_50f
+Resolved conflicts for NPC_ record 'aa_SCARV_50f' from mods: Friends_and_Foes_base.esm, F&F_Ahead of the Classes.ESP, F&F_Prim&Proper.esp
+Merged NPC_ record: aa_SCARV_35f
+Resolved conflicts for NPC_ record 'aa_SCARV_35f' from mods: Friends_and_Foes_base.esm, F&F_Ahead of the Classes.ESP, F&F_Prim&Proper.esp
+Merged NPC_ record: aa_SCARV_20f
+Resolved conflicts for NPC_ record 'aa_SCARV_20f' from mods: Friends_and_Foes_base.esm, F&F_Ahead of the Classes.ESP, F&F_Prim&Proper.esp
+Merged NPC_ record: aa_SCARV_10f
+Resolved conflicts for NPC_ record 'aa_SCARV_10f' from mods: Friends_and_Foes_base.esm, F&F_Ahead of the Classes.ESP, F&F_Prim&Proper.esp
+Merged NPC_ record: aa_sailor_dunmer
+Resolved conflicts for NPC_ record 'aa_sailor_dunmer' from mods: Friends_and_Foes_base.esm, F&F_Ahead of the Classes.ESP, F&F_Prim&Proper.esp
+Merged NPC_ record: aa_sailor_imperial
+Resolved conflicts for NPC_ record 'aa_sailor_imperial' from mods: Friends_and_Foes_base.esm, F&F_Ahead of the Classes.ESP, F&F_Prim&Proper.esp
+Merged NPC_ record: aa_sailor_breton
+Resolved conflicts for NPC_ record 'aa_sailor_breton' from mods: Friends_and_Foes_base.esm, F&F_Ahead of the Classes.ESP, F&F_Prim&Proper.esp
+Merged NPC_ record: aa_sailor_redguard
+Resolved conflicts for NPC_ record 'aa_sailor_redguard' from mods: Friends_and_Foes_base.esm, F&F_Ahead of the Classes.ESP, F&F_Prim&Proper.esp
+Merged NPC_ record: aa_sailor_nord
+Resolved conflicts for NPC_ record 'aa_sailor_nord' from mods: Friends_and_Foes_base.esm, F&F_Ahead of the Classes.ESP, F&F_Prim&Proper.esp
+Merged NPC_ record: TC_telvanni guard_stand
+Resolved conflicts for NPC_ record 'TC_telvanni guard_stand' from mods: BCoM_South_Gates_Sadrith_Mora.ESP, Beautiful cities of morrowind.esp, BCOM_Sadrith_Mora_dock_expanded.ESP
 Merged ARMO record: steel_cuirass
 Resolved conflicts for ARMO record 'steel_cuirass' from mods: Morrowind.esm, Tribunal.esm, Bloodmoon.esm
 Merged ARMO record: AM_Lute
-Resolved conflicts for ARMO record 'AM_Lute' from mods: Sails_and_Sales.ESP, South Wall_RP.ESP, The Doors of Oblivion 1.4.esp, Beautiful cities of morrowind.esp, Animated_Morrowind - merged.esp
+Resolved conflicts for ARMO record 'AM_Lute' from mods: Sails_and_Sales.ESP, South Wall_RP.ESP, The Doors of Oblivion 1.4.esp, Staff_Agency_3_0.ESP, Beautiful cities of morrowind.esp, Animated_Morrowind - merged.esp
 Merged ARMO record: AM_MinerPick
-Resolved conflicts for ARMO record 'AM_MinerPick' from mods: Clean_Mines and Caverns.esp, The Doors of Oblivion 1.4.esp, Beautiful cities of morrowind.esp, Animated_Morrowind - merged.esp
+Resolved conflicts for ARMO record 'AM_MinerPick' from mods: Clean_Mines and Caverns.esp, The Doors of Oblivion 1.4.esp, Staff_Agency_3_0.ESP, Beautiful cities of morrowind.esp, Animated_Morrowind - merged.esp
 Merged ARMO record: AM_Tankard
-Resolved conflicts for ARMO record 'AM_Tankard' from mods: South Wall_RP.ESP, The Doors of Oblivion 1.4.esp, Beautiful cities of morrowind.esp, Animated_Morrowind - merged.esp
+Resolved conflicts for ARMO record 'AM_Tankard' from mods: South Wall_RP.ESP, The Doors of Oblivion 1.4.esp, Staff_Agency_3_0.ESP, Beautiful cities of morrowind.esp, Animated_Morrowind - merged.esp
 Merged ARMO record: AM_SmithHammer
-Resolved conflicts for ARMO record 'AM_SmithHammer' from mods: ABCmod.ESP, The Doors of Oblivion 1.4.esp, Beautiful cities of morrowind.esp, Animated_Morrowind - merged.esp, Welcome to the Arena! v6.7.esp
+Resolved conflicts for ARMO record 'AM_SmithHammer' from mods: ABCmod.ESP, The Doors of Oblivion 1.4.esp, Staff_Agency_3_0.ESP, Beautiful cities of morrowind.esp, Animated_Morrowind - merged.esp, Welcome to the Arena! v6.7.esp
 Merged ARMO record: AM_Pestle
-Resolved conflicts for ARMO record 'AM_Pestle' from mods: The Doors of Oblivion 1.4.esp, Beautiful cities of morrowind.esp, Animated_Morrowind - merged.esp, Welcome to the Arena! v6.7.esp
+Resolved conflicts for ARMO record 'AM_Pestle' from mods: The Doors of Oblivion 1.4.esp, Staff_Agency_3_0.ESP, Beautiful cities of morrowind.esp, Animated_Morrowind - merged.esp, Welcome to the Arena! v6.7.esp
 Merged CLOT record: amulet of 6th house
 Resolved conflicts for CLOT record 'amulet of 6th house' from mods: Morrowind.esm, Patch for Purists.esm, Unique Dagoth Brandy & Amulet.ESP
 Merged CLOT record: AM_SmithGloveL
 Resolved conflicts for CLOT record 'AM_SmithGloveL' from mods: ABCmod.ESP, The Doors of Oblivion 1.4.esp, Beautiful cities of morrowind.esp, Animated_Morrowind - merged.esp
 Merged CLOT record: AM_SmithGloveR
 Resolved conflicts for CLOT record 'AM_SmithGloveR' from mods: ABCmod.ESP, The Doors of Oblivion 1.4.esp, Beautiful cities of morrowind.esp, Animated_Morrowind - merged.esp
+Merged CLOT record: AM_Mortar
+Resolved conflicts for CLOT record 'AM_Mortar' from mods: The Doors of Oblivion 1.4.esp, Staff_Agency_3_0.ESP, Beautiful cities of morrowind.esp, Animated_Morrowind - merged.esp, Welcome to the Arena! v6.7.esp
 Merged ACTI record: furn_banner_tavern_elven
 Resolved conflicts for ACTI record 'furn_banner_tavern_elven' from mods: Morrowind.esm, Patch for Purists.esm, Beautiful cities of morrowind.esp
 Merged INGR record: ingred_corprus_weepings_01
@@ -1614,8 +1601,6 @@ Merged BOOK record: bk_auranefrernis2
 Resolved conflicts for BOOK record 'bk_auranefrernis2' from mods: Morrowind.esm, Patch for Purists.esm, Patch for Purists - Book Typos.ESP
 Merged BOOK record: bk_NoteToAmaya
 Resolved conflicts for BOOK record 'bk_NoteToAmaya' from mods: Morrowind.esm, Patch for Purists - Semi-Purist Fixes.ESP, Patch for Purists - Book Typos.ESP
-Merged BOOK record: bk_Confessions
-Resolved conflicts for BOOK record 'bk_Confessions' from mods: Morrowind.esm, Skooma Baron 1.3.ESP, Patch for Purists - Book Typos.ESP
 Merged BOOK record: bk_guide_to_vvardenfell
 Resolved conflicts for BOOK record 'bk_guide_to_vvardenfell' from mods: Morrowind.esm, Patch for Purists.esm, Useful Maps and Guides.ESP, Patch for Purists - Book Typos.ESP
 Merged BOOK record: bk_guide_to_vivec
@@ -1626,8 +1611,6 @@ Merged BOOK record: bk_guide_to_ald_ruhn
 Resolved conflicts for BOOK record 'bk_guide_to_ald_ruhn' from mods: Morrowind.esm, Patch for Purists.esm, Useful Maps and Guides.ESP, Patch for Purists - Book Typos.ESP
 Merged BOOK record: bk_guide_to_sadrithmora
 Resolved conflicts for BOOK record 'bk_guide_to_sadrithmora' from mods: Morrowind.esm, Patch for Purists.esm, Useful Maps and Guides.ESP, Patch for Purists - Book Typos.ESP
-Merged BOOK record: sc_manarape
-Resolved conflicts for BOOK record 'sc_manarape' from mods: Morrowind.esm, Patch for Purists.esm, Sexual Harassment Remover -- Merged.ESP
 Merged BOOK record: sc_divineintervention
 Resolved conflicts for BOOK record 'sc_divineintervention' from mods: Morrowind.esm, Patch for Purists.esm, Patch for Purists - Semi-Purist Fixes.ESP
 Merged BOOK record: sc_cureblight_ranged
@@ -1703,7 +1686,7 @@ Resolved conflicts for LEVI record 'l_m_enchantitem_telvanni_rank6' from mods: M
 Merged LEVI record: l_m_enchantitem_telvanni_rank8
 Resolved conflicts for LEVI record 'l_m_enchantitem_telvanni_rank8' from mods: Morrowind.esm, Wares-base.esm, Wares_lists_TD.ESP
 Merged LEVI record: l_m_enchantitem_imperial_rank0
-Resolved conflicts for LEVI record 'l_m_enchantitem_imperial_rank0' from mods: Morrowind.esm, Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'l_m_enchantitem_imperial_rank0' from mods: Morrowind.esm, Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: l_m_potion
 Resolved conflicts for LEVI record 'l_m_potion' from mods: Morrowind.esm, The Lamp.esp, mwse_PoisonCrafting.esp
 Merged LEVI record: random_armor_netch_leather
@@ -1745,295 +1728,291 @@ Resolved conflicts for LEVI record 'random_loot_special' from mods: Morrowind.es
 Merged LEVI record: Imperial Guard Random Weapon
 Resolved conflicts for LEVI record 'Imperial Guard Random Weapon' from mods: Morrowind.esm, Wares_vanilla_random_lists.ESP, OAAB Leveled Lists.ESP
 Merged LEVI record: aa_de_w10_chitin_blunt1
-Resolved conflicts for LEVI record 'aa_de_w10_chitin_blunt1' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_de_w10_chitin_blunt1' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_de_w10_chitin_sb
-Resolved conflicts for LEVI record 'aa_de_w10_chitin_sb' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_de_w10_chitin_sb' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_w50_glass_blunt1
-Resolved conflicts for LEVI record 'aa_com_w50_glass_blunt1' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_w50_glass_blunt1' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_w50_glass_LB1
-Resolved conflicts for LEVI record 'aa_com_w50_glass_LB1' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_w50_glass_LB1' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_w50_glass_throw
-Resolved conflicts for LEVI record 'aa_com_w50_glass_throw' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_w50_glass_throw' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_w50_glass_spear
-Resolved conflicts for LEVI record 'aa_com_w50_glass_spear' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_w50_glass_spear' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_o_w30_orc_blunt1
-Resolved conflicts for LEVI record 'aa_o_w30_orc_blunt1' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_o_w30_orc_blunt1' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_de_w40_dreugh_axe1
-Resolved conflicts for LEVI record 'aa_de_w40_dreugh_axe1' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_de_w40_dreugh_axe1' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
+Merged LEVI record: aa_de_w40_dreugh_blunt1
+Resolved conflicts for LEVI record 'aa_de_w40_dreugh_blunt1' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_de_w40_dreugh_bow
-Resolved conflicts for LEVI record 'aa_de_w40_dreugh_bow' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_de_w40_dreugh_bow' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_de_w40_dreugh_SB
-Resolved conflicts for LEVI record 'aa_de_w40_dreugh_SB' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_de_w40_dreugh_SB' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_de_w40_dreugh_spear
-Resolved conflicts for LEVI record 'aa_de_w40_dreugh_spear' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_de_w40_dreugh_spear' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_imp_w10_iron_LB1
-Resolved conflicts for LEVI record 'aa_imp_w10_iron_LB1' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_imp_w10_iron_LB1' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_imp_w10_iron_throw
 Resolved conflicts for LEVI record 'aa_imp_w10_iron_throw' from mods: Wares-base.esm, Friends_and_Foes_base.esm, Wares_lists_TD.ESP
 Merged LEVI record: aa_imp_w15_steel_LB1
-Resolved conflicts for LEVI record 'aa_imp_w15_steel_LB1' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_imp_w15_steel_LB1' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_imp_w18_silver_blunt1
-Resolved conflicts for LEVI record 'aa_imp_w18_silver_blunt1' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_imp_w18_silver_blunt1' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_imp_w18_silver_throw
 Resolved conflicts for LEVI record 'aa_imp_w18_silver_throw' from mods: Wares-base.esm, Friends_and_Foes_base.esm, Wares_lists_TD.ESP
 Merged LEVI record: aa_imp_w18_silver_spear
-Resolved conflicts for LEVI record 'aa_imp_w18_silver_spear' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_imp_w18_silver_spear' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_o_w20_dwemer_blunt1
-Resolved conflicts for LEVI record 'aa_o_w20_dwemer_blunt1' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_o_w20_dwemer_blunt1' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_o_w20_dwemer_throw
-Resolved conflicts for LEVI record 'aa_o_w20_dwemer_throw' from mods: Wares-base.esm, Friends_and_Foes_base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_o_w20_dwemer_throw' from mods: Wares-base.esm, Friends_and_Foes_base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_imp_w10_iron_bow
-Resolved conflicts for LEVI record 'aa_imp_w10_iron_bow' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_imp_w10_iron_bow' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_w80_dae_spear
-Resolved conflicts for LEVI record 'aa_com_w80_dae_spear' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_w80_dae_spear' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_w80_dae_LB1
-Resolved conflicts for LEVI record 'aa_com_w80_dae_LB1' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_w80_dae_LB1' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_w50_glass_LB2
-Resolved conflicts for LEVI record 'aa_com_w50_glass_LB2' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_w50_glass_LB2' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_w50_glass_SB
-Resolved conflicts for LEVI record 'aa_com_w50_glass_SB' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_w50_glass_SB' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_imp_w18_silver_SB
-Resolved conflicts for LEVI record 'aa_imp_w18_silver_SB' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_imp_w18_silver_SB' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_o_w20_dwemer_SB
-Resolved conflicts for LEVI record 'aa_o_w20_dwemer_SB' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_o_w20_dwemer_SB' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_w01_bolts
-Resolved conflicts for LEVI record 'aa_com_w01_bolts' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_w01_bolts' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_w01_arrows
-Resolved conflicts for LEVI record 'aa_com_w01_arrows' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_w01_arrows' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_w01_marks
-Resolved conflicts for LEVI record 'aa_com_w01_marks' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_w01_marks' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_de_w10_chitin_throw
 Resolved conflicts for LEVI record 'aa_de_w10_chitin_throw' from mods: Wares-base.esm, Friends_and_Foes_base.esm, Wares_lists_TD.ESP
 Merged LEVI record: aa_de_w60_ebony_spear
-Resolved conflicts for LEVI record 'aa_de_w60_ebony_spear' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_de_w60_ebony_spear' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_de_w60_ebony_blunt1
-Resolved conflicts for LEVI record 'aa_de_w60_ebony_blunt1' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_de_w60_ebony_blunt1' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_de_w60_ebony_sb
-Resolved conflicts for LEVI record 'aa_de_w60_ebony_sb' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_de_w60_ebony_sb' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_de_w60_ebony_lb2
-Resolved conflicts for LEVI record 'aa_de_w60_ebony_lb2' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_de_w60_ebony_lb2' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_de_w60_ebony_bow
-Resolved conflicts for LEVI record 'aa_de_w60_ebony_bow' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_de_w60_ebony_bow' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_w80_dae_throw
-Resolved conflicts for LEVI record 'aa_com_w80_dae_throw' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_w80_dae_throw' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_w50_glass_blunt2
-Resolved conflicts for LEVI record 'aa_com_w50_glass_blunt2' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_w50_glass_blunt2' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_no_w20_nordic_throw
 Resolved conflicts for LEVI record 'aa_no_w20_nordic_throw' from mods: Wares-base.esm, Friends_and_Foes_base.esm, Wares_lists_TD.ESP
 Merged LEVI record: aa_no_w20_nordic_blunt1
-Resolved conflicts for LEVI record 'aa_no_w20_nordic_blunt1' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_no_w20_nordic_blunt1' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_no_w20_nordic_spear
-Resolved conflicts for LEVI record 'aa_no_w20_nordic_spear' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_no_w20_nordic_spear' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_f_imp_w15_imperial_SB
-Resolved conflicts for LEVI record 'aa_f_imp_w15_imperial_SB' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_f_imp_w15_imperial_SB' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_f_imp_w15_imperial_LB1
-Resolved conflicts for LEVI record 'aa_f_imp_w15_imperial_LB1' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_f_imp_w15_imperial_LB1' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_f_imp_w15_imperial_LB2
-Resolved conflicts for LEVI record 'aa_f_imp_w15_imperial_LB2' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_f_imp_w15_imperial_LB2' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_f_imp_w15_imperial_cross
-Resolved conflicts for LEVI record 'aa_f_imp_w15_imperial_cross' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_f_imp_w15_imperial_cross' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_f_imp_w15_imperial_spear
-Resolved conflicts for LEVI record 'aa_f_imp_w15_imperial_spear' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_f_imp_w15_imperial_spear' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_a_boots_H
-Resolved conflicts for LEVI record 'aa_all_a_boots_H' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_a_boots_H' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_a_boots_L
-Resolved conflicts for LEVI record 'aa_all_a_boots_L' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_a_boots_L' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_a_boots_M
-Resolved conflicts for LEVI record 'aa_all_a_boots_M' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_a_boots_M' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_a_bracerL_L
-Resolved conflicts for LEVI record 'aa_all_a_bracerL_L' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_a_bracerL_L' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_a_bracerL_M
-Resolved conflicts for LEVI record 'aa_all_a_bracerL_M' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_a_bracerL_M' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_a_bracerR_L
-Resolved conflicts for LEVI record 'aa_all_a_bracerR_L' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_a_bracerR_L' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_a_bracerR_M
-Resolved conflicts for LEVI record 'aa_all_a_bracerR_M' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_a_bracerR_M' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_a_cuirass_H
-Resolved conflicts for LEVI record 'aa_all_a_cuirass_H' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_a_cuirass_H' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_a_cuirass_L
-Resolved conflicts for LEVI record 'aa_all_a_cuirass_L' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_a_cuirass_L' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_a_cuirass_M
-Resolved conflicts for LEVI record 'aa_all_a_cuirass_M' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_a_cuirass_M' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_a_greaves_H
-Resolved conflicts for LEVI record 'aa_all_a_greaves_H' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_a_greaves_H' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_a_greaves_L
-Resolved conflicts for LEVI record 'aa_all_a_greaves_L' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_a_greaves_L' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_a_greaves_M
-Resolved conflicts for LEVI record 'aa_all_a_greaves_M' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_a_greaves_M' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_a_helm_H
-Resolved conflicts for LEVI record 'aa_all_a_helm_H' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_a_helm_H' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_a_helm_L
-Resolved conflicts for LEVI record 'aa_all_a_helm_L' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_a_helm_L' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_a_helm_M
-Resolved conflicts for LEVI record 'aa_all_a_helm_M' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_a_helm_M' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_a_pauldL_H
-Resolved conflicts for LEVI record 'aa_all_a_pauldL_H' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_a_pauldL_H' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_a_pauldL_L
-Resolved conflicts for LEVI record 'aa_all_a_pauldL_L' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_a_pauldL_L' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_a_pauldL_M
-Resolved conflicts for LEVI record 'aa_all_a_pauldL_M' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_a_pauldL_M' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_a_pauldR_H
-Resolved conflicts for LEVI record 'aa_all_a_pauldR_H' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_a_pauldR_H' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_a_pauldR_L
-Resolved conflicts for LEVI record 'aa_all_a_pauldR_L' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_a_pauldR_L' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_a_pauldR_M
-Resolved conflicts for LEVI record 'aa_all_a_pauldR_M' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_a_pauldR_M' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_a_shield_L
-Resolved conflicts for LEVI record 'aa_all_a_shield_L' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_a_shield_L' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_c_pants_cm
-Resolved conflicts for LEVI record 'aa_all_c_pants_cm' from mods: Wares-base.esm, Wares_vanilla_random_lists.ESP, Wares_lists_TD.ESP
+Resolved conflicts for LEVI record 'aa_all_c_pants_cm' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_vanilla_random_lists.ESP
 Merged LEVI record: aa_all_w_axe1
-Resolved conflicts for LEVI record 'aa_all_w_axe1' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_w_axe1' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_w_axe2
-Resolved conflicts for LEVI record 'aa_all_w_axe2' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_w_axe2' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_w_blunt1
-Resolved conflicts for LEVI record 'aa_all_w_blunt1' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_w_blunt1' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_w_blunt2
-Resolved conflicts for LEVI record 'aa_all_w_blunt2' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_w_blunt2' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_w_blunt2_staff
-Resolved conflicts for LEVI record 'aa_all_w_blunt2_staff' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_w_blunt2_staff' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_w_bow
-Resolved conflicts for LEVI record 'aa_all_w_bow' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_w_bow' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_w_cross
-Resolved conflicts for LEVI record 'aa_all_w_cross' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_w_cross' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_w_lb1
-Resolved conflicts for LEVI record 'aa_all_w_lb1' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_w_lb1' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_w_lb2
-Resolved conflicts for LEVI record 'aa_all_w_lb2' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_w_lb2' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_w_sb
-Resolved conflicts for LEVI record 'aa_all_w_sb' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_w_sb' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_w_spear
-Resolved conflicts for LEVI record 'aa_all_w_spear' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_all_w_spear' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_all_w_throw
 Resolved conflicts for LEVI record 'aa_all_w_throw' from mods: Wares-base.esm, Friends_and_Foes_base.esm, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_06_cm_hat
-Resolved conflicts for LEVI record 'aa_com_06_cm_hat' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_06_cm_hat' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_50_glass_helmet
-Resolved conflicts for LEVI record 'aa_com_50_glass_helmet' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_50_glass_helmet' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_80_dae_helmet
-Resolved conflicts for LEVI record 'aa_com_80_dae_helmet' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_80_dae_helmet' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_cm_access
 Resolved conflicts for LEVI record 'aa_com_cm_access' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Shinies.ESP
 Merged LEVI record: aa_com_cm_shirt
-Resolved conflicts for LEVI record 'aa_com_cm_shirt' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_cm_shirt' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_ep_access
-Resolved conflicts for LEVI record 'aa_com_ep_access' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_ep_access' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_et_access
-Resolved conflicts for LEVI record 'aa_com_et_access' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_et_access' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_w01_wood_blunt1
-Resolved conflicts for LEVI record 'aa_com_w01_wood_blunt1' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_w01_wood_blunt1' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_w01_wood_cross
-Resolved conflicts for LEVI record 'aa_com_w01_wood_cross' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_w01_wood_cross' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_w1_CookingTools
-Resolved conflicts for LEVI record 'aa_com_w1_CookingTools' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_w1_CookingTools' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_w1_farmingTools
-Resolved conflicts for LEVI record 'aa_com_w1_farmingTools' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_w1_farmingTools' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_com_w1_FishingTools
-Resolved conflicts for LEVI record 'aa_com_w1_FishingTools' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_com_w1_FishingTools' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_de_05_netch_helmet
-Resolved conflicts for LEVI record 'aa_de_05_netch_helmet' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_de_05_netch_helmet' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_de_10_chitin_helmet
-Resolved conflicts for LEVI record 'aa_de_10_chitin_helmet' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_de_10_chitin_helmet' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_de_40_dreugh_boots
-Resolved conflicts for LEVI record 'aa_de_40_dreugh_boots' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_de_40_dreugh_boots' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_de_40_dreugh_bracerL
-Resolved conflicts for LEVI record 'aa_de_40_dreugh_bracerL' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_de_40_dreugh_bracerL' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_de_40_dreugh_bracerR
-Resolved conflicts for LEVI record 'aa_de_40_dreugh_bracerR' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_de_40_dreugh_bracerR' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_de_40_dreugh_greaves
-Resolved conflicts for LEVI record 'aa_de_40_dreugh_greaves' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_de_40_dreugh_greaves' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
+Merged LEVI record: aa_de_40_dreugh_helmet
+Resolved conflicts for LEVI record 'aa_de_40_dreugh_helmet' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_de_40_dreugh_pauldronL
-Resolved conflicts for LEVI record 'aa_de_40_dreugh_pauldronL' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_de_40_dreugh_pauldronL' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_de_40_dreugh_pauldronR
-Resolved conflicts for LEVI record 'aa_de_40_dreugh_pauldronR' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_de_40_dreugh_pauldronR' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_de_60_ebony_helm
-Resolved conflicts for LEVI record 'aa_de_60_ebony_helm' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_de_60_ebony_helm' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_f_de_08_cepha_pauldL
-Resolved conflicts for LEVI record 'aa_f_de_08_cepha_pauldL' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_f_de_08_cepha_pauldL' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_f_de_08_cepha_pauldR
-Resolved conflicts for LEVI record 'aa_f_de_08_cepha_pauldR' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_f_de_08_cepha_pauldR' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_f_de_w50_AshGlass_axe1
-Resolved conflicts for LEVI record 'aa_f_de_w50_AshGlass_axe1' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_f_de_w50_AshGlass_axe1' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_f_de_w50_AshGlass_blunt1
-Resolved conflicts for LEVI record 'aa_f_de_w50_AshGlass_blunt1' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_f_de_w50_AshGlass_blunt1' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_f_de_w50_AshGlass_sb
-Resolved conflicts for LEVI record 'aa_f_de_w50_AshGlass_sb' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_f_de_w50_AshGlass_sb' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_f_de_w50_AshGlass_spear
-Resolved conflicts for LEVI record 'aa_f_de_w50_AshGlass_spear' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_f_de_w50_AshGlass_spear' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_f_de_w50_AshGlass_staff
-Resolved conflicts for LEVI record 'aa_f_de_w50_AshGlass_staff' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_f_de_w50_AshGlass_staff' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_imp_w15_steel_SB
-Resolved conflicts for LEVI record 'aa_imp_w15_steel_SB' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_imp_w15_steel_SB' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_imp_w15_steel_throw
 Resolved conflicts for LEVI record 'aa_imp_w15_steel_throw' from mods: Wares-base.esm, Friends_and_Foes_base.esm, Wares_lists_TD.ESP
 Merged LEVI record: aa_ingred_mineral_gem
 Resolved conflicts for LEVI record 'aa_ingred_mineral_gem' from mods: Wares-base.esm, Wares_lists_TD.ESP, Shinies.ESP
 Merged LEVI record: aa_no_w15_huntsman_bow
-Resolved conflicts for LEVI record 'aa_no_w15_huntsman_bow' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_no_w15_huntsman_bow' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_no_w50_ice_axe2
-Resolved conflicts for LEVI record 'aa_no_w50_ice_axe2' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_no_w50_ice_axe2' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_no_w50_ice_bow
-Resolved conflicts for LEVI record 'aa_no_w50_ice_bow' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_no_w50_ice_bow' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_no_w50_ice_sb
-Resolved conflicts for LEVI record 'aa_no_w50_ice_sb' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_no_w50_ice_sb' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_no_w50_ice_spear
-Resolved conflicts for LEVI record 'aa_no_w50_ice_spear' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_no_w50_ice_spear' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_no_w50_nordicsilver_bow
-Resolved conflicts for LEVI record 'aa_no_w50_nordicsilver_bow' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_no_w50_nordicsilver_bow' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_no_w50_nordicsilver_spear
-Resolved conflicts for LEVI record 'aa_no_w50_nordicsilver_spear' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_no_w50_nordicsilver_spear' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_o_30_orc_helmet
-Resolved conflicts for LEVI record 'aa_o_30_orc_helmet' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_o_30_orc_helmet' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_o_w20_dwemer_cross
-Resolved conflicts for LEVI record 'aa_o_w20_dwemer_cross' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_o_w20_dwemer_cross' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_o_w20_dwemer_spear
-Resolved conflicts for LEVI record 'aa_o_w20_dwemer_spear' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_o_w20_dwemer_spear' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_o_w20_goblin_blunt1
-Resolved conflicts for LEVI record 'aa_o_w20_goblin_blunt1' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_o_w20_goblin_blunt1' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_random_poison
 Resolved conflicts for LEVI record 'aa_random_poison' from mods: Wares-base.esm, Friends_and_Foes_base.esm, Wares_lists_TD.ESP
 Merged LEVI record: aa_hold_commoner_hold_f
-Resolved conflicts for LEVI record 'aa_hold_commoner_hold_f' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_hold.ESP
+Resolved conflicts for LEVI record 'aa_hold_commoner_hold_f' from mods: Wares-base.esm, Wares_lists_hold.ESP, Wares_lists_OAAB.ESP
 Merged LEVI record: aa_hold_commoner_hold_m
-Resolved conflicts for LEVI record 'aa_hold_commoner_hold_m' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_hold.ESP
+Resolved conflicts for LEVI record 'aa_hold_commoner_hold_m' from mods: Wares-base.esm, Wares_lists_hold.ESP, Wares_lists_OAAB.ESP
 Merged LEVI record: aa_misc_backpack_list
 Resolved conflicts for LEVI record 'aa_misc_backpack_list' from mods: Wares-base.esm, Friends_and_Foes_base.esm, MWSE Satchels and Bags - Wares.ESP
 Merged LEVI record: aa_trader_accessories_vanilla
 Resolved conflicts for LEVI record 'aa_trader_accessories_vanilla' from mods: Wares-base.esm, Wares_lists_TD.ESP, MWSE Satchels and Bags - Wares.ESP
 Merged LEVI record: aa_trader_f_ash
-Resolved conflicts for LEVI record 'aa_trader_f_ash' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP, MWSE Satchels and Bags - Wares.ESP
+Resolved conflicts for LEVI record 'aa_trader_f_ash' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP, MWSE Satchels and Bags - Wares.ESP
 Merged LEVI record: aa_trader_f_telv
-Resolved conflicts for LEVI record 'aa_trader_f_telv' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_trader_f_telv' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_trader_f_6th
-Resolved conflicts for LEVI record 'aa_trader_f_6th' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_trader_f_6th' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_trader_f_dwemer
-Resolved conflicts for LEVI record 'aa_trader_f_dwemer' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_trader_f_dwemer' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_trader_armour_imp
-Resolved conflicts for LEVI record 'aa_trader_armour_imp' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_trader_armour_imp' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_trader_armour_de
-Resolved conflicts for LEVI record 'aa_trader_armour_de' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_trader_armour_de' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_trader_weapons_de
-Resolved conflicts for LEVI record 'aa_trader_weapons_de' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_trader_weapons_de' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_trader_armour_com
-Resolved conflicts for LEVI record 'aa_trader_armour_com' from mods: Wares-base.esm, Wares_lists_TD.ESP, Wares_lists_OAAB.ESP
+Resolved conflicts for LEVI record 'aa_trader_armour_com' from mods: Wares-base.esm, Wares_lists_OAAB.ESP, Wares_lists_TD.ESP
 Merged LEVI record: aa_hold_bard_hold
 Resolved conflicts for LEVI record 'aa_hold_bard_hold' from mods: Wares-base.esm, Friends_and_Foes_base.esm, Wares_lists_hold.ESP
-Merged LEVI record: aa_gear_BER_greaves
-Resolved conflicts for LEVI record 'aa_gear_BER_greaves' from mods: Friends_and_Foes_base.esm, Wares_legacy.esp, Wares_lists_TD.ESP
-Merged LEVI record: aa_gear_BER_boots
-Resolved conflicts for LEVI record 'aa_gear_BER_boots' from mods: Friends_and_Foes_base.esm, Wares_legacy.esp, Wares_lists_TD.ESP
-Merged LEVI record: aa_gear_BER_pauldL
-Resolved conflicts for LEVI record 'aa_gear_BER_pauldL' from mods: Friends_and_Foes_base.esm, Wares_legacy.esp, Wares_lists_TD.ESP
-Merged LEVI record: aa_gear_BER_pauldR
-Resolved conflicts for LEVI record 'aa_gear_BER_pauldR' from mods: Friends_and_Foes_base.esm, Wares_legacy.esp, Wares_lists_TD.ESP
-Merged LEVI record: aa_gear_BER_shield
-Resolved conflicts for LEVI record 'aa_gear_BER_shield' from mods: Friends_and_Foes_base.esm, Wares_legacy.esp, Wares_lists_TD.ESP
-Merged LEVI record: aa_gear_BER_bracerR
-Resolved conflicts for LEVI record 'aa_gear_BER_bracerR' from mods: Friends_and_Foes_base.esm, Wares_legacy.esp, Wares_lists_TD.ESP
-Merged LEVI record: aa_gear_BER_bracerL
-Resolved conflicts for LEVI record 'aa_gear_BER_bracerL' from mods: Friends_and_Foes_base.esm, Wares_legacy.esp, Wares_lists_TD.ESP
-Merged LEVI record: aa_gear_BER_helm
-Resolved conflicts for LEVI record 'aa_gear_BER_helm' from mods: Friends_and_Foes_base.esm, Wares_legacy.esp, Wares_lists_TD.ESP
+Merged LEVI record: aa_o_w40_adam_throw
+Resolved conflicts for LEVI record 'aa_o_w40_adam_throw' from mods: Wares-base.esm, Friends_and_Foes_base.esm, Wares_lists_TD.ESP
+Merged LEVC record: in_tomb_all_lev+0
+Resolved conflicts for LEVC record 'in_tomb_all_lev+0' from mods: Morrowind.esm, Friends_and_Foes_base.esm, RV Necrorobes.ESP
+Merged LEVC record: in_tomb_all_lev+2
+Resolved conflicts for LEVC record 'in_tomb_all_lev+2' from mods: Morrowind.esm, Friends_and_Foes_base.esm, RV Necrorobes.ESP
+Merged LEVC record: in_tomb_all_lev-2
+Resolved conflicts for LEVC record 'in_tomb_all_lev-2' from mods: Morrowind.esm, Friends_and_Foes_base.esm, RV Necrorobes.ESP
 Merged LEVC record: in_dwe_all_lev+0
 Resolved conflicts for LEVC record 'in_dwe_all_lev+0' from mods: Morrowind.esm, Friends_and_Foes_base.esm, OAAB Leveled Creatures.ESP
 Merged LEVC record: in_egg_kwama_mined
@@ -2057,7 +2036,7 @@ Resolved conflicts for LEVC record 'ex_sheogorad_lev-1' from mods: Morrowind.esm
 Merged LEVC record: ex_sheogorad_lev+2
 Resolved conflicts for LEVC record 'ex_sheogorad_lev+2' from mods: Morrowind.esm, MQE_MainQuestEnhancers.esp, OAAB Leveled Creatures.ESP
 Merged LEVC record: bm_ex_berserkers
-Resolved conflicts for LEVC record 'bm_ex_berserkers' from mods: Bloodmoon.esm, Friends_and_Foes_base.esm, Bloodmoon Rebalance.esp
+Resolved conflicts for LEVC record 'bm_ex_berserkers' from mods: Bloodmoon.esm, Friends_and_Foes_base.esm, Bloodmoon Rebalance.ESP
 Merged CELL record: (17,-5)
 Resolved conflicts for CELL record '(17,-5)' from mods: Daedric Intervention.ESP
 Merged CELL record: (8,24)
@@ -2086,14 +2065,16 @@ Merged CELL record: T_Banish
 Resolved conflicts for CELL record 'T_Banish' from mods: Tamriel_Data.esm
 Merged CELL record: T_BanishTemp
 Resolved conflicts for CELL record 'T_BanishTemp' from mods: Tamriel_Data.esm
+Merged CELL record: T_GazeOfVeloth
+Resolved conflicts for CELL record 'T_GazeOfVeloth' from mods: Tamriel_Data.esm
+Merged CELL record: T_Wabbajack
+Resolved conflicts for CELL record 'T_Wabbajack' from mods: Tamriel_Data.esm
 Merged CELL record: Ossuary of Vehk, Hall of the Order
 Resolved conflicts for CELL record 'Ossuary of Vehk, Hall of the Order' from mods: Memento Mori.ESP
 Merged CELL record: Ghostfence, Southern Catacombs
 Resolved conflicts for CELL record 'Ghostfence, Southern Catacombs' from mods: Memento Mori.ESP
 Merged CELL record: Infernal Realm, Gateway Chamber
 Resolved conflicts for CELL record 'Infernal Realm, Gateway Chamber' from mods: Astrologians Guild.esp
-Merged CELL record: Atumes
-Resolved conflicts for CELL record 'Atumes' from mods: Illuminated Order Improved.ESP
 Merged CELL record: Sadrith Mora, Stlestar Dorvlor's House
 Resolved conflicts for CELL record 'Sadrith Mora, Stlestar Dorvlor's House' from mods: GITD_Telvanni_Dormers.ESP
 Merged CELL record: Sadrith Mora, Redras Andrano: Armorer
@@ -2122,6 +2103,12 @@ Merged CELL record: Shrine to Peryite
 Resolved conflicts for CELL record 'Shrine to Peryite' from mods: Daedric Shrine Peryite - Something in the Water.esp
 Merged CELL record: Stormwrack Cove
 Resolved conflicts for CELL record 'Stormwrack Cove' from mods: Lord of Rebirth.ESP
+Merged CELL record: Andothren, Golden Moons Club
+Resolved conflicts for CELL record 'Andothren, Golden Moons Club' from mods: Improved Inns Expanded - TR Addon.esp
+Merged CELL record: A Ship at Sea, Lower Level
+Resolved conflicts for CELL record 'A Ship at Sea, Lower Level' from mods: Vvardenfell Brotherhood.esp
+Merged CELL record: A Ship at Sea, Upper Level
+Resolved conflicts for CELL record 'A Ship at Sea, Upper Level' from mods: Vvardenfell Brotherhood.esp
 Merged CELL record: Suran, Ascadian Ales - Brewery Pub
 Resolved conflicts for CELL record 'Suran, Ascadian Ales - Brewery Pub' from mods: Animated_Morrowind - merged.esp
 Merged SNDG record: BM_werewolf_skaal0006
@@ -2131,4 +2118,4 @@ Resolved conflicts for SNDG record 'BM_werewolf_skaal0005' from mods: Bloodmoon.
 Merged SNDG record: BM_werewolf_skaal0004
 Resolved conflicts for SNDG record 'BM_werewolf_skaal0004' from mods: Bloodmoon.esm, Patch for Purists.esm, Friends_and_Foes_base.esm
 Saving Merged Objects.esp ...
-Wrote 934 merged objects.
+Wrote 931 merged objects.
