@@ -108,6 +108,7 @@ mods/Magicka Based Skill Progression -- MWSE-Lua Edition/MWSE/.luacompleterc
 dump_running_process.bat
 nxmhandler.ini
 splash.png
+ModOrganizer.ini
 
 # Allow
 !mods/Outlander Additional Files/*
@@ -117,4 +118,3 @@ splash.png
 !keybinds.html
 
 # New
-ModOrganizer.ini
