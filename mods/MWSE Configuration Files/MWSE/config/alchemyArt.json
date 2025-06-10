@@ -1,0 +1,11 @@
+{
+  "modEnabled":true,
+  "rebalanceApparatus":true,
+  "hideUngrindedEffects":false,
+  "overhaulIngredients":true,
+  "fixApparatusModels":true,
+  "rebalancePotions":true,
+  "tutorialMode":true,
+  "alchemyTime":1,
+  "experienceGain":6
+}

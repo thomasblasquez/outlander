@@ -1,0 +1,23 @@
+{
+  "fabricantBlood":2,
+  "crustaceanBlood":5,
+  "insectBlood":6,
+  "dwemerBlood":2,
+  "specialBlood":7,
+  "kwamaBlood":6,
+  "elementalBlood":7,
+  "daedraBlood":3,
+  "modEnabled":true,
+  "arcticBlood":5,
+  "vampireBlood":1,
+  "skeletalBlood":1,
+  "ashCreatureBlood":1,
+  "goblinBlood":0,
+  "mammalBlood":0,
+  "fishBlood":0,
+  "netchBlood":5,
+  "corprusBlood":0,
+  "ghostBlood":4,
+  "undeadBlood":0,
+  "reptileBlood":0
+}

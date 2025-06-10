@@ -3,5 +3,5 @@
   },
   "baseDifficulty":69,
   "increasePerLevel":2,
-  "capDifficulty":true
+  "capDifficulty":false
 }

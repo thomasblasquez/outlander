@@ -1,0 +1,6 @@
+{
+  "duration":600,
+  "enabled":true,
+  "log_level":"ERROR",
+  "confPath":"sa_TUD_config"
+}

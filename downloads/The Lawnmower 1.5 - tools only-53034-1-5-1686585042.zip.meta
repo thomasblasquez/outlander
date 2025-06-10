@@ -1,0 +1,19 @@
+[General]
+gameName=Morrowind
+modID=53034
+fileID=1000038528
+url=
+name=The Lawnmower 1.5  - tools only
+description=Grab this file if you want to lawnmower your own files. Does not contain grassmod patches - look below under optional files.
+modName=The LawnMower for Morrowind
+version=1.5.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=15
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=false

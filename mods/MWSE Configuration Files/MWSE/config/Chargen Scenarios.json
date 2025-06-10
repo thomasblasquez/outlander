@@ -1,0 +1,40 @@
+{
+  "itemPackageLimit":3,
+  "registerClutterEnabled":false,
+  "registerLocationsHotKey":{
+    "keyCode":28,
+    "isShiftDown":true,
+    "mouseWheel":false,
+    "mouseButton":false,
+    "isAltDown":false,
+    "isControlDown":false
+  },
+  "startingLocations":{
+    "vanilla":{
+      "orientation":[0,0,340],
+      "position":[61,135,24],
+      "cell":"Imperial Prison Ship"
+    }
+  },
+  "registerClutterHotKey":{
+    "keyCode":18,
+    "isAltDown":true
+  },
+  "exitAfterUnitTests":false,
+  "chargenScenariosMenu_scenarioMenu":true,
+  "registerLocationsEnabled":false,
+  "chargenScenariosMenu_extrasMenu":false,
+  "exitAfterIntegrationTests":false,
+  "doTests":false,
+  "chargenScenariosMenu_characterBackgrounds":true,
+  "registeredClutterGroups":[],
+  "logLevel":"INFO",
+  "chargenScenariosMenu_charaterUpbringing":true,
+  "enabled":true,
+  "startingLocation":{
+    "orientation":[0,0,340],
+    "position":[61,135,24],
+    "cell":"Imperial Prison Ship"
+  },
+  "chargenScenariosMenu_loadoutsMenu":true
+}

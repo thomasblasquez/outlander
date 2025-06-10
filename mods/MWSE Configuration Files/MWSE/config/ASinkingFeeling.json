@@ -1,0 +1,12 @@
+{
+  "caseScenarioNecroMode":true,
+  "multipliers":{
+    "equippedArmour":75,
+    "encumbrancePercentage":75,
+    "allEquipment":75
+  },
+  "playerOnly":false,
+  "debug":false,
+  "enabled":true,
+  "mode":"bestCaseScenario"
+}

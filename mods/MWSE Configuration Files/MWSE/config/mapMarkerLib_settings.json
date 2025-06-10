@@ -1,0 +1,6 @@
+{
+  "updateInterval":100,
+  "enabled":true,
+  "logging":false,
+  "minDelayBetweenUpdates":10
+}

@@ -1,0 +1,9 @@
+{
+  "armorSkill":true,
+  "weaponPrecision":false,
+  "weaponCondition":true,
+  "armorCondition":true,
+  "armorPrecision":false,
+  "weaponStrength":true,
+  "menuArPrecision":false
+}

@@ -1,0 +1,10 @@
+{
+  "MarkerSize":35,
+  "FastTravel":false,
+  "MarkerStyle":0,
+  "ShowAllMarkersMap":false,
+  "Key":{
+    "keyCode":27
+  },
+  "DoubleClick":false
+}

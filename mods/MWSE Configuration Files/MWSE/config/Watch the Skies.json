@@ -1,0 +1,13 @@
+{
+  "interiorTransitions":true,
+  "debugLogOn":false,
+  "particleAmount":true,
+  "cloudSpeedMode":500,
+  "dynamicWeatherChanges":true,
+  "seasonalWeather":true,
+  "particleMesh":false,
+  "cloudSpeed":true,
+  "useVanillaSkyTextures":true,
+  "seasonalDaytime":true,
+  "skyTexture":false
+}

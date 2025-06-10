@@ -1,0 +1,18 @@
+{
+  "giveXP":true,
+  "autoExit":true,
+  "combineMags":false,
+  "enabled":true,
+  "costMod":1,
+  "xpDivisor":7.5,
+  "keycode":{
+    "keyCode":51,
+    "mouseWheel":false,
+    "mouseButton":false
+  },
+  "combineMult":1.5,
+  "allowScript":false,
+  "combine":true,
+  "keepOg":false,
+  "constantCost":400
+}

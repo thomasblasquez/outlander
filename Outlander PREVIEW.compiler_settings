@@ -3,10 +3,10 @@
   "Source": "P:\\Modding\\Modlists\\Outlander",
   "Downloads": "P:\\Modding\\Modlists\\Outlander\\downloads",
   "Game": "Morrowind",
-  "OutputFile": "P:\\Modding\\Modlists\\Outlander PREVIEW 4.1.1.wabbajack",
+  "OutputFile": "P:\\Modding\\Modlists\\Outlander PREVIEW 4.3.2.wabbajack",
   "ModListImage": "P:\\Modding\\Modlists\\Outlander\\Stock Game Folder\\OutlanderBanner.png",
   "UseGamePaths": true,
-  "UseTextureRecompression": false,
+  "UseTextureRecompression": true,
   "OtherGames": [],
   "MaxVerificationTime": "00:01:00",
   "ModListName": "Outlander Preview",
@@ -22,7 +22,19 @@
   "NoMatchInclude": [
     "mods\\Outlander Additional Files",
     "mods\\Take That -- Parrying Dodging Blocking and Spellbatting",
-    "mods\\Take That Beta"
+    "mods\\Take That Beta",
+    "mods\\Distant Land",
+    "mods\\Merged Grass",
+    "mods\\Merged Objects",
+    "mods\\MMC Patches",
+    "mods\\MWSE Configuration Files",
+    "mods\\Ring\u0027s Library",
+    "mods\\Ring\u0027s Patch Repo",
+    "Stock Game Folder\\Data Files\\shaders",
+    "Stock Game Folder\\.tools",
+    "Stock Game Folder\\Data Files\\scripts",
+    "mods\\Ashfall Bushcrafting for Realistic Repair",
+    "mods\\Prologue - Daggerfall-style Expanded Backgrounds"
   ],
   "Include": [
     "Stock Game Folder\\Data Files\\MWSE",
@@ -35,10 +47,12 @@
     "Stock Game Folder\\Data Files\\meshes\\mwse",
     "Stock Game Folder\\Data Files\\textures\\mwse",
     "Stock Game Folder\\OutlanderBanner.png",
-    "mods\\Ashfall Bushcrafting for Realistic Repair"
+    "Stock Game Folder\\Morrowind.ini",
+    "mods\\Warsifier Patch",
+    "Stock Game Folder\\Data Files\\tes3cmd.exe"
   ],
   "Ignore": [
-    "Stock Game Folder\\.tools",
+    "keybinds.html",
     "Stock Game Folder\\mwedit",
     "Stock Game Folder\\Saves",
     "Stock Game Folder\\screenshots",
@@ -49,12 +63,8 @@
     "Stock Game Folder\\MWSE-Update.exe.tmp",
     "mods\\Outlander Perks",
     "mods\\Outlander Perks - Armorer",
-    "Stock Game Folder\\Data Files\\tes3map.exe",
-    "Stock Game Folder\\Data Files\\tes3conv.exe",
     "Stock Game Folder\\csse.toml",
     "Stock Game Folder\\MWSE.log",
-    "Stock Game Folder\\Data Files\\habasi.exe",
-    "Stock Game Folder\\Data Files\\tes3cmd.exe",
     "modlists.json",
     ".git",
     "Outlander Preview.compiler_settings",
@@ -63,9 +73,23 @@
     ".gitignore",
     "Stock Game Folder\\chargenScenariosLocations.txt",
     "Stock Game Folder\\ChargenScenarioClutter.txt",
-    "Stock Game Folder\\csse.log"
+    "Stock Game Folder\\csse.log",
+    "mods\\Merged Load Order",
+    "overwrite",
+    "categories.dat",
+    "Outlander Keybinds.png",
+    "README.md",
+    "Stock Game Folder\\MWSE_MiniDump.dmp",
+    "Stock Game Folder\\Morrowind.Original.exe",
+    "Stock Game Folder\\Morrowind.pdb",
+    "mods\\ReadMes and Docs",
+    "Stock Game Folder\\.tools\\E-Editor",
+    "Stock Game Folder\\.tools\\Enchanted Editor"
   ],
-  "AlwaysEnabled": [],
-  "Version": "4.1.1",
+  "AlwaysEnabled": [
+    "mods\\FGM Grass Plugins",
+    "mods\\Merged Grass"
+  ],
+  "Version": "4.3.2",
   "Description": "A modlist focused on survival and roleplaying.\r\nFeatures Tamriel Rebuilt!"
 }

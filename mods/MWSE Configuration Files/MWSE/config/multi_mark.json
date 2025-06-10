@@ -1,0 +1,21 @@
+{
+  "enableMisCast":true,
+  "dispositionRequired":90,
+  "mysticismAffectsMaxMarks":true,
+  "expMult":"1",
+  "iMCFDTcostMultiplier":1,
+  "teleportCompanions":true,
+  "companionBlacklist":["chargen boat guard 2","guar_white_unique","hlaalu guard","hlaalu guard_outside","Imperial Guard","Imperial Guard_ebonhear","ordinator stationary","ordinator wander","ordinator_high fane","ordinator_mournhold","redoran guard female","redoran guard male","telvanni guard","telvanni sharpshooter","ughash gro-batul","yashnarz gro-ufthamph","ab01bat01","ab01bat02","ab01bee01","ab01bird01","ab01bird02","ab01bird03","ab01bird04","ab01bird05","ab01bird06","ab01bird07","ab01bird10","ab01bird11","ab01bird12","ab01bird13","ab01bird14","ab01bird15","ab01butterfly01","ab01butterfly02","ab01butterfly03","ab01butterfly04","ab01firefly01"],
+  "companionIntervention":false,
+  "multiMarkEnabled":true,
+  "limitedRecallEnabled":false,
+  "limitedRecall":2,
+  "iMCFDTrecallChanceMultiplier":1,
+  "sortMarkList":false,
+  "maxNumberOfMarks":4,
+  "enableEnchantedItemAndPotion":true,
+  "mysticismRequiredForMaxMarks":100,
+  "increasedMagickaCostForDistanceTraveled":true,
+  "useCurrentMysticism":false,
+  "costBetweenUnlinkedAreas":300
+}

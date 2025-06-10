@@ -106,7 +106,7 @@
 -Consistent Enchanting
 -Concept Arts plantations
 -Calendar
--Buying Game Updated
+-Buying Game
 -Brother Juniper's Ashlander Traders - Remastered
 -Box of Horrors - Corprus Weeping
 -Bound fishing pole
@@ -193,7 +193,7 @@
 -Randomised Chargen
 -Pet the Damn Scrib
 -Parkour
--Outlander Additional Files
+-MMC Patches
 -Nine-holes
 -Nimble Armor
 -Next Generation Combat
@@ -252,7 +252,7 @@
 -Tamriel_Data
 -Tamriel Rebuilt
 -Stealth Improved
--Meshes, Textures, and Animations_separator
+-Textures_separator
 -Solstheim - Tomb of the Snow Prince HD
 -Solstheim - Tomb of the Snow Prince
 -Smart Companions
@@ -272,10 +272,10 @@
 -Project Atlas - Patches
 -Project Atlas - Core
 -Pickpocket
--Patches_separator
+-=====PATCHES=====_separator
 -Patch for Purists
 -Passing Time While Reading - MWSE Lua version
--=====Overhauls and Gameplay Changes=====_separator
+-=====GAMEPLAY=====_separator
 -Optimizations and Bug Fixes_separator
 -Onion - Layered Accessories
 -OAAB_Data (HD)
@@ -328,7 +328,7 @@
 -Balancing_separator
 -Bad Weather Matters
 -AURA
--Ashfall - Trees
+-Ashfall - Falling Trees
 -Ashfall - A Camping Survival and Needs Mod
 -Ahead of the Classes
 -82 Ashfall interop

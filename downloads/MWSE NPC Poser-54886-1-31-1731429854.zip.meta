@@ -1,0 +1,19 @@
+[General]
+gameName=Morrowind
+modID=54886
+fileID=1000048233
+url=
+name=MWSE NPC Poser
+description=1.3 Added menumode check\n<br />\n<br />1.2 Added player animation support
+modName=MWSE NPC Poser
+version=1.31.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=21
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=false
