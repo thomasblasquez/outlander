@@ -20,23 +20,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/thomasblasquez/outlander/main/Stock%20Game%20Folder/OutlanderBanner.png",
       "readme": "https://github.com/thomasblasquez/outlander",
-      "download": "https://authored-files.wabbajack.org/Outlander PREVIEW 4.3.1.wabbajack_0a4e2374-cd00-4217-80dd-df5d8c032158",
+      "download": "https://authored-files.wabbajack.org/Outlander PREVIEW 4.3.2.wabbajack_0a4d64e5-6ada-4575-9d7e-021fcd32443a",
       "machineURL": "OutlanderPreview",
       "discordURL": "https://www.discord.gg/9fhSPjnwHh",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "T5hWUp5TEyE=",
-      "Size": 455765089,
-      "NumberOfArchives": 7712,
-      "SizeOfArchives": 19805381729,
-      "NumberOfInstalledFiles": 125896,
-      "SizeOfInstalledFiles": 36056565066,
-      "TotalSize": 55861946795
+      "Hash": "J6cSG3zdzfk=",
+      "Size": 730427857,
+      "NumberOfArchives": 7666,
+      "SizeOfArchives": 16774958047,
+      "NumberOfInstalledFiles": 123652,
+      "SizeOfInstalledFiles": 32623971257,
+      "TotalSize": 49398929304
     },
-    "version": "4.3.1",
+    "version": "4.3.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-06-07T23:38:18.798193Z",
+    "dateUpdated": "2025-06-10T02:32:55.6091276Z",
     "repositoryName": ""
   },
   {
