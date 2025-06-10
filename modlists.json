@@ -18,7 +18,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/thomasblasquez/outlander/main/Stock%20Game%20Folder/OutlanderBanner.png",
+      "image": "https://raw.githubusercontent.com/thomasblasquez/outlander/main/Stock%20Game%20Folder/OutlanderPreviewBanner.png",
       "readme": "https://github.com/thomasblasquez/outlander",
       "download": "https://authored-files.wabbajack.org/Outlander PREVIEW 4.3.2.wabbajack_0a4d64e5-6ada-4575-9d7e-021fcd32443a",
       "machineURL": "OutlanderPreview",
