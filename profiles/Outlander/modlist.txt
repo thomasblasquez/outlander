@@ -17,7 +17,8 @@
 -You are Just a Beggar
 -I've Been Looking for You - Courier Service
 -Morrowind Compendium
-+Outlander Overhaul
+-Spell Research
+-Outlander Overhaul
 +Ring's Patch Repo
 -WIP_separator
 -Fashionwind - MWSE Glasses and Goggles V2

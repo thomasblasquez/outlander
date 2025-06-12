@@ -1,6 +1,11 @@
 {
   "displayRestTargetHour":true,
-  "version":1.6,
+  "keybindShowAdditionalInfo":{
+    "keyCode":42,
+    "isShiftDown":true,
+    "isControlDown":false,
+    "isAltDown":false
+  },
   "mapConfig":{
     "minY":-58,
     "autoMapBounds":true,
@@ -13,15 +18,42 @@
   "transferItemsByDefault":true,
   "useSearchTypes":true,
   "useInventoryTextButtons":true,
+  "version":1.6,
+  "autoFilterToTradable":true,
+  "showHelpText":true,
+  "components":{
+    "serviceSpells":true,
+    "options":true,
+    "dialog":true,
+    "mapPlugin":true,
+    "contents":true,
+    "console":true,
+    "barter":true,
+    "rest":true,
+    "saveLoad":true,
+    "spellmaking":true,
+    "map":true,
+    "magicSelect":true,
+    "quantity":true,
+    "inventorySelect":true,
+    "tooltip":true,
+    "magic":true,
+    "stat":true,
+    "journal":false,
+    "training":true,
+    "textInput":false,
+    "name":true,
+    "inventory":true
+  },
+  "keybindTakeAll":{
+    "keyCode":45,
+    "isShiftDown":false,
+    "isControlDown":false,
+    "isAltDown":false
+  },
   "previousConsoleEntries":[{
       "lua":false,
       "text":""
-    },{
-      "lua":false,
-      "text":"tm"
-    },{
-      "lua":false,
-      "text":"tcl"
     },{
       "lua":false,
       "text":"ori"
@@ -46,40 +78,13 @@
     },{
       "lua":false,
       "text":"ori"
+    },{
+      "lua":false,
+      "text":"journal HH_DisguisedArmor 150"
+    },{
+      "lua":false,
+      "text":"ori"
     }],
-  "autoFilterToTradable":true,
-  "useSearch":true,
-  "components":{
-    "serviceSpells":true,
-    "options":true,
-    "dialog":true,
-    "mapPlugin":true,
-    "quantity":true,
-    "console":true,
-    "barter":true,
-    "rest":true,
-    "saveLoad":true,
-    "spellmaking":true,
-    "inventory":true,
-    "magicSelect":true,
-    "contents":true,
-    "inventorySelect":true,
-    "tooltip":true,
-    "magic":true,
-    "stat":true,
-    "journal":false,
-    "textInput":false,
-    "training":true,
-    "name":true,
-    "map":true
-  },
-  "keybindTakeAll":{
-    "keyCode":45,
-    "isShiftDown":false,
-    "isControlDown":false,
-    "isAltDown":false
-  },
-  "dialogueTopicSeenColor":"journal_finished_quest_color",
   "displayPlayerDialogueChoices":true,
   "keybindMapSwitch":{
     "keyCode":184,
@@ -90,19 +95,14 @@
   "changeMapModeOnCellChange":true,
   "displayWeekday":true,
   "autoSelectInput":"Magic",
-  "selectSpellsOnSearch":true,
+  "displayRatio":true,
   "maxWait":1,
   "alwaysClearFiltersOnOpen":true,
   "takeFilteredItems":true,
-  "consoleHistoryLimit":10,
   "useSearchEffects":true,
-  "displayRatio":true,
-  "keybindShowAdditionalInfo":{
-    "keyCode":42,
-    "isShiftDown":true,
-    "isControlDown":false,
-    "isAltDown":false
-  },
-  "showHelpText":true,
+  "consoleHistoryLimit":10,
+  "selectSpellsOnSearch":true,
+  "dialogueTopicSeenColor":"journal_finished_quest_color",
+  "useSearch":true,
   "dialogueTopicUniqueColor":"link_color"
 }

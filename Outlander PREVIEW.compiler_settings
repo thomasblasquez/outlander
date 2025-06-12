@@ -3,8 +3,8 @@
   "Source": "P:\\Modding\\Modlists\\Outlander",
   "Downloads": "P:\\Modding\\Modlists\\Outlander\\downloads",
   "Game": "Morrowind",
-  "OutputFile": "P:\\Modding\\Modlists\\Outlander PREVIEW 4.3.2.wabbajack",
-  "ModListImage": "P:\\Modding\\Modlists\\Outlander\\Stock Game Folder\\OutlanderBanner.png",
+  "OutputFile": "P:\\Modding\\Modlists\\Outlander PREVIEW 4.3.3.wabbajack",
+  "ModListImage": "P:\\Modding\\Modlists\\outlander\\Stock Game Folder\\OutlanderPreviewBanner.png",
   "UseGamePaths": true,
   "UseTextureRecompression": true,
   "OtherGames": [],
@@ -46,7 +46,6 @@
     "Stock Game Folder\\mcpatch\\installed",
     "Stock Game Folder\\Data Files\\meshes\\mwse",
     "Stock Game Folder\\Data Files\\textures\\mwse",
-    "Stock Game Folder\\OutlanderBanner.png",
     "Stock Game Folder\\Morrowind.ini",
     "mods\\Warsifier Patch",
     "Stock Game Folder\\Data Files\\tes3cmd.exe"
@@ -84,12 +83,14 @@
     "Stock Game Folder\\Morrowind.pdb",
     "mods\\ReadMes and Docs",
     "Stock Game Folder\\.tools\\E-Editor",
-    "Stock Game Folder\\.tools\\Enchanted Editor"
+    "Stock Game Folder\\.tools\\Enchanted Editor",
+    "Stock Game Folder\\OutlanderPreviewBanner.png",
+    "Stock Game Folder\\OutlanderBanner.png"
   ],
   "AlwaysEnabled": [
     "mods\\FGM Grass Plugins",
     "mods\\Merged Grass"
   ],
-  "Version": "4.3.2",
+  "Version": "4.3.3",
   "Description": "A modlist focused on survival and roleplaying.\r\nFeatures Tamriel Rebuilt!"
 }

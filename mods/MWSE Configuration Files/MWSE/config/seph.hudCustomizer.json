@@ -72,45 +72,6 @@
       "x":500
     }
   },
-  "magicBar":{
-    "width":158,
-    "position":{
-      "y":980,
-      "x":0
-    },
-    "color":{
-      "r":21,
-      "b":62,
-      "g":27
-    },
-    "visible":false,
-    "showValues":true,
-    "height":18
-  },
-  "equippedWeapon":{
-    "visible":false,
-    "position":{
-      "y":1000,
-      "x":89
-    }
-  },
-  "fatigueBar":{
-    "width":158,
-    "position":{
-      "y":1000,
-      "x":0
-    },
-    "color":{
-      "r":0,
-      "b":24,
-      "g":59
-    },
-    "visible":false,
-    "showValues":true,
-    "height":18
-  },
-  "enabled":true,
-  "logLevel":"INFO",
   "mods":{
     "MenuMulti_ControlledConsumption_frame":{
       "width":32,
@@ -228,7 +189,60 @@
       "positionX":210,
       "height":0,
       "positionY":26
+    },
+    "CompanionHealthBars:Menu":{
+      "width":0,
+      "options":{
+        "position":true,
+        "visibility":true
+      },
+      "visible":true,
+      "valid":true,
+      "defaults":{
+        "width":0,
+        "visible":true,
+        "positionX":0,
+        "height":0,
+        "positionY":0
+      },
+      "name":"Companion HealthBars",
+      "positionX":0,
+      "height":0,
+      "positionY":0
     }
+  },
+  "highlight":{
+    "visible":true,
+    "color":{
+      "r":0,
+      "b":0,
+      "g":100
+    },
+    "alpha":30
+  },
+  "equippedWeapon":{
+    "visible":false,
+    "position":{
+      "y":1000,
+      "x":89
+    }
+  },
+  "deleteInvalidModConfigs":true,
+  "logLevel":"INFO",
+  "magicBar":{
+    "width":158,
+    "position":{
+      "y":980,
+      "x":0
+    },
+    "color":{
+      "r":21,
+      "b":62,
+      "g":27
+    },
+    "visible":false,
+    "showValues":true,
+    "height":18
   },
   "activeMagicEffects":{
     "visible":true,
@@ -238,22 +252,28 @@
       "x":79
     }
   },
-  "deleteInvalidModConfigs":true,
-  "highlight":{
-    "visible":true,
-    "alpha":30,
+  "enabled":true,
+  "fatigueBar":{
+    "width":158,
+    "position":{
+      "y":1000,
+      "x":0
+    },
     "color":{
       "r":0,
-      "b":0,
-      "g":100
-    }
+      "b":24,
+      "g":59
+    },
+    "visible":false,
+    "showValues":true,
+    "height":18
   },
   "map":{
     "visible":true,
     "width":90,
-    "height":69,
+    "height":72,
     "position":{
-      "y":24,
+      "y":21,
       "x":19
     }
   }

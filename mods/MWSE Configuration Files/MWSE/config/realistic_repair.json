@@ -1,6 +1,6 @@
 {
   "minCondition":0,
-  "enableLootDamage":true,
+  "enableRealisticRepair":true,
   "maxCondition":50,
-  "enableRealisticRepair":true
+  "enableLootDamage":true
 }

@@ -1,6 +1,6 @@
 {
   "NPCfootstepVolume":75,
-  "altArmor":false,
+  "altArmor":true,
   "PCarmorVolume":65,
   "itemVolume":75,
   "armorSounds":true,
@@ -18,13 +18,13 @@
   "NPCmagicVolume":70,
   "debugMode":false,
   "weaponSounds":true,
-  "PCfootstepVolume":50,
-  "magicSounds":true,
-  "spellNoise":true,
+  "PCfootstepVolume":14,
+  "itemSounds":true,
   "expandedMagicSounds":true,
   "deathRattle":true,
+  "spellNoise":true,
   "PCmagicVolume":60,
   "footstepSounds":true,
   "NPCweaponVolume":85,
-  "itemSounds":true
+  "magicSounds":true
 }
