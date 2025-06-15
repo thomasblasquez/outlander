@@ -18,7 +18,7 @@
 -I've Been Looking for You - Courier Service
 -Morrowind Compendium
 -Spell Research
--Outlander Overhaul
++Outlander Overhaul
 +Ring's Patch Repo
 -WIP_separator
 -Fashionwind - MWSE Glasses and Goggles V2
@@ -459,28 +459,27 @@
 +Reincarnate - Races of Morrowind
 +Dynamic Difficulty
 -Balancing_separator
-+Sepulchral Curses
-+Passing Time While Reading - MWSE Lua version
 +Go Fletch
++Realistic Repair - Add-on
++Realistic Repair
 +Packrat Skill
 +MWSE Satchels and Bags
-+Bound fishing pole
-+Bodily Injuries
-+Immersive Alcohol
 +Protective Helmets
++Sepulchral Curses
 +Infectious Places - Tombs
 +Infectious Places - Swamps
 +Infectious Places - Sixth House
 +Infectious Places - Gutters
 +Infectious Places - Egg Mines
 +Deadly Diseases
-+Realistic Repair - Add-on
-+Realistic Repair
-+Improved Inns Expanded
++The Blight
 +Watch the Skies
 +Bad Weather Matters
-+The Blight
++Immersive Alcohol
++Bound fishing pole
 +Ultimate Fishing
++Improved Inns Expanded
++Passing Time While Reading - MWSE Lua version
 +Time Consumer
 +Dynamic Timescale
 +Ashfall - A Camping Survival and Needs Mod
@@ -530,6 +529,7 @@
 +MWSE Strategic Magicka Regen
 +Invisible Spell Effect Library
 -Magic_separator
++Bodily Injuries
 +Double CHIM
 +Grip of Death
 +Take That -- Parrying Dodging Blocking and Spellbatting
@@ -548,6 +548,7 @@
 +MWSE State-Based Health
 +MULE - Mort's Ultimate Leveling Experience
 -Leveling_separator
++Main Quest Bounty Hunters
 +Honorable Dagoth - Courtesy of the First Blow
 +MWSE NPC Poser
 +Prologue - Daggerfall-style Expanded Backgrounds

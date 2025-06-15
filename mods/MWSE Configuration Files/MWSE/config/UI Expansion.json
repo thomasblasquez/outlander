@@ -1,11 +1,6 @@
 {
   "displayRestTargetHour":true,
-  "keybindShowAdditionalInfo":{
-    "keyCode":42,
-    "isShiftDown":true,
-    "isControlDown":false,
-    "isAltDown":false
-  },
+  "version":1.6,
   "mapConfig":{
     "minY":-58,
     "autoMapBounds":true,
@@ -18,39 +13,6 @@
   "transferItemsByDefault":true,
   "useSearchTypes":true,
   "useInventoryTextButtons":true,
-  "version":1.6,
-  "autoFilterToTradable":true,
-  "showHelpText":true,
-  "components":{
-    "serviceSpells":true,
-    "options":true,
-    "dialog":true,
-    "mapPlugin":true,
-    "contents":true,
-    "console":true,
-    "barter":true,
-    "rest":true,
-    "saveLoad":true,
-    "spellmaking":true,
-    "map":true,
-    "magicSelect":true,
-    "quantity":true,
-    "inventorySelect":true,
-    "tooltip":true,
-    "magic":true,
-    "stat":true,
-    "journal":false,
-    "training":true,
-    "textInput":false,
-    "name":true,
-    "inventory":true
-  },
-  "keybindTakeAll":{
-    "keyCode":45,
-    "isShiftDown":false,
-    "isControlDown":false,
-    "isAltDown":false
-  },
   "previousConsoleEntries":[{
       "lua":false,
       "text":""
@@ -85,6 +47,39 @@
       "lua":false,
       "text":"ori"
     }],
+  "autoFilterToTradable":true,
+  "useSearch":true,
+  "components":{
+    "serviceSpells":true,
+    "options":true,
+    "dialog":true,
+    "mapPlugin":true,
+    "quantity":true,
+    "console":true,
+    "barter":true,
+    "rest":true,
+    "saveLoad":true,
+    "spellmaking":true,
+    "inventory":true,
+    "magicSelect":true,
+    "contents":true,
+    "inventorySelect":true,
+    "tooltip":true,
+    "magic":true,
+    "stat":true,
+    "journal":false,
+    "textInput":false,
+    "training":true,
+    "name":true,
+    "map":true
+  },
+  "keybindTakeAll":{
+    "keyCode":45,
+    "isShiftDown":false,
+    "isControlDown":false,
+    "isAltDown":false
+  },
+  "dialogueTopicSeenColor":"journal_finished_quest_color",
   "displayPlayerDialogueChoices":true,
   "keybindMapSwitch":{
     "keyCode":184,
@@ -95,14 +90,19 @@
   "changeMapModeOnCellChange":true,
   "displayWeekday":true,
   "autoSelectInput":"Magic",
-  "displayRatio":true,
+  "selectSpellsOnSearch":true,
   "maxWait":1,
   "alwaysClearFiltersOnOpen":true,
   "takeFilteredItems":true,
-  "useSearchEffects":true,
   "consoleHistoryLimit":10,
-  "selectSpellsOnSearch":true,
-  "dialogueTopicSeenColor":"journal_finished_quest_color",
-  "useSearch":true,
+  "useSearchEffects":true,
+  "displayRatio":true,
+  "keybindShowAdditionalInfo":{
+    "keyCode":42,
+    "isShiftDown":true,
+    "isControlDown":false,
+    "isAltDown":false
+  },
+  "showHelpText":true,
   "dialogueTopicUniqueColor":"link_color"
 }

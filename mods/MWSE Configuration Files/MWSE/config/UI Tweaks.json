@@ -1,29 +1,29 @@
 {
   "hitChance":{
     "enable":true,
+    "posY":0.65,
+    "posX":0.35,
     "color":{
       "r":0,
       "b":0,
       "a":0.8,
       "g":0
     },
-    "posX":0.35,
-    "posY":0.65,
     "updateRate":0.25
   },
   "DEBUG":false,
   "dialog":{
     "enable":true,
-    "showClass":false,
+    "showClass":true,
     "showKey":false
   },
   "effects":{
     "enable":false,
     "durationThreshold":2,
     "menuModeAlpha":0.5,
-    "updateRate":0.2,
+    "pinnedAlpha":0,
     "borderMode":3,
-    "pinnedAlpha":0
+    "updateRate":0.2
   },
   "embed_travel":{
     "enable":true,
@@ -32,9 +32,11 @@
   "embed_spells":{
     "enable":true
   },
-  "enchant":{
-    "enable":true,
-    "showGold":true
+  "enchantedGear":{
+    "enable":false,
+    "showVanillaOnHide":true,
+    "highlightNew":true,
+    "hideVanilla":true
   },
   "take":{
     "enable":true
@@ -51,17 +53,24 @@
     "showDisposition":true,
     "showNpcStats":false,
     "maxSell":30,
-    "chanceColor":true,
-    "hold":true,
     "enableJunk":false,
+    "hold":true,
+    "chanceColor":true,
     "showChance":true
   },
-  "embed":{
-    "enable":false,
-    "notify":true
+  "spellmaking":{
+    "enable":true,
+    "showGold":true,
+    "serviceOnly":true
   },
-  "multi":{
-    "enable":true
+  "tooltip":{
+    "enable":true,
+    "junk":false,
+    "totalValue":true,
+    "showDur":true,
+    "charge":true,
+    "durationDigits":0,
+    "totalWeight":true
   },
   "spellBarter":{
     "enable":true,
@@ -73,20 +82,13 @@
     "holdBribe":false,
     "instantFight":false
   },
-  "embed_repair":{
-    "enable":true
+  "travel":{
+    "enable":true,
+    "showKey":true
   },
   "escape":{
     "enable":true,
     "keybind":18,
-    "blacklist":{
-      "MenuSetValues":true,
-      "MenuStatReview":true,
-      "MenuRaceSex":true,
-      "MenuBirthSign":true,
-      "MenuName":true,
-      "MenuCreateClass":true
-    },
     "menus":{
       "MenuScroll":true,
       "MenuEnchantment":true,
@@ -101,15 +103,23 @@
       "bsTransferEnchant":true,
       "MenuServiceTravel":true,
       "MenuRestWait":true,
+      "MenuSpellmaking":true,
       "bsItemSelect":true,
-      "MenuPrefs":true,
       "MenuServiceRepair":true,
       "MenuBarter":true,
       "MenuRepair":true,
       "MenuDialog":true,
       "MenuInventory":true,
       "MenuJournal":true,
-      "MenuSpellmaking":true
+      "MenuPrefs":true
+    },
+    "blacklist":{
+      "MenuSetValues":true,
+      "MenuStatReview":true,
+      "MenuRaceSex":true,
+      "MenuBirthSign":true,
+      "MenuName":true,
+      "MenuCreateClass":true
     }
   },
   "keybind":{
@@ -149,8 +159,8 @@
       "isAltDown":false,
       "isControlDown":false
     },
-    "spellmaking":{
-      "keyCode":47,
+    "barterDown100":{
+      "keyCode":203,
       "isShiftDown":false,
       "configPath":"UI Tweaks",
       "isAltDown":false,
@@ -198,22 +208,22 @@
       "isAltDown":false,
       "isControlDown":false
     },
-    "taunt":{
-      "keyCode":20,
+    "markJunk":{
+      "keyCode":56,
       "isShiftDown":false,
       "configPath":"UI Tweaks",
       "isAltDown":false,
       "isControlDown":false
     },
-    "bribe1000":{
-      "keyCode":81,
+    "spellmaking":{
+      "keyCode":47,
       "isShiftDown":false,
       "configPath":"UI Tweaks",
       "isAltDown":false,
       "isControlDown":false
     },
-    "admire":{
-      "keyCode":30,
+    "wait":{
+      "keyCode":17,
       "isShiftDown":false,
       "configPath":"UI Tweaks",
       "isAltDown":false,
@@ -240,8 +250,8 @@
       "isAltDown":false,
       "isControlDown":false
     },
-    "bribe10":{
-      "keyCode":79,
+    "barterUp100":{
+      "keyCode":205,
       "isShiftDown":false,
       "configPath":"UI Tweaks",
       "isAltDown":false,
@@ -268,8 +278,8 @@
       "isAltDown":false,
       "isControlDown":false
     },
-    "barterUp100":{
-      "keyCode":205,
+    "bribe10":{
+      "keyCode":79,
       "isShiftDown":false,
       "configPath":"UI Tweaks",
       "isAltDown":false,
@@ -282,29 +292,37 @@
       "isAltDown":false,
       "isControlDown":false
     },
-    "wait":{
-      "keyCode":17,
+    "admire":{
+      "keyCode":30,
       "isShiftDown":false,
       "configPath":"UI Tweaks",
       "isAltDown":false,
       "isControlDown":false
     },
-    "markJunk":{
-      "keyCode":56,
+    "taunt":{
+      "keyCode":20,
       "isShiftDown":false,
       "configPath":"UI Tweaks",
       "isAltDown":false,
       "isControlDown":false
     },
-    "barterDown100":{
-      "keyCode":203,
+    "bribe1000":{
+      "keyCode":81,
       "isShiftDown":false,
       "configPath":"UI Tweaks",
       "isAltDown":false,
       "isControlDown":false
     }
   },
-  "embed_train":{
+  "enchant":{
+    "enable":true,
+    "showGold":true
+  },
+  "inv":{
+    "enable":true,
+    "potionHighlight":true
+  },
+  "embed_repair":{
     "enable":true
   },
   "magic":{
@@ -317,19 +335,6 @@
       "g":0.941
     }
   },
-  "tooltip":{
-    "enable":true,
-    "junk":false,
-    "totalValue":true,
-    "showDur":true,
-    "charge":true,
-    "durationDigits":0,
-    "totalWeight":true
-  },
-  "travel":{
-    "enable":true,
-    "showKey":true
-  },
   "persuade":{
     "enable":true,
     "delay":0.5,
@@ -337,9 +342,9 @@
     "holdBribe":false,
     "showKey":false
   },
-  "inv":{
+  "embed":{
     "enable":true,
-    "potionHighlight":true
+    "notify":true
   },
   "repair":{
     "enable":true,
@@ -349,17 +354,12 @@
   },
   "wait":{
     "enable":true,
-    "fullRest":true
+    "fullRest":false
   },
-  "spellmaking":{
-    "enable":true,
-    "showGold":true,
-    "serviceOnly":true
+  "embed_train":{
+    "enable":true
   },
-  "enchantedGear":{
-    "enable":true,
-    "highlightNew":true,
-    "showVanillaOnHide":true,
-    "hideVanilla":true
+  "multi":{
+    "enable":true
   }
 }

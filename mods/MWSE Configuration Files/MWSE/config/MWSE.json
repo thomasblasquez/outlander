@@ -1,18 +1,18 @@
 {
   "LetterboxMovies":false,
   "UseGlobalAudio":false,
-  "ReplaceDialogueFiltering":false,
-  "BuildNumber":4501,
-  "EnableLegacyLuaMods":true,
+  "LogWarningsWithLuaStack":true,
   "EnableLogColors":false,
-  "ReplaceLightSorting":true,
+  "EnableLegacyLuaMods":true,
+  "BuildNumber":4501,
+  "SuppressUselessWarnings":true,
   "RunInBackground":true,
   "PatchNiFlipController":true,
-  "EnableDependencyChecks":true,
+  "UseSkinnedAccurateActivationRaytests":true,
   "EnableLogLineNumbers":false,
   "EnableLuaErrorNotifications":false,
-  "UseSkinnedAccurateActivationRaytests":true,
-  "SuppressUselessWarnings":true,
+  "EnableDependencyChecks":true,
+  "ReplaceDialogueFiltering":false,
   "KeepAllNetImmerseObjectsAlive":false,
-  "LogWarningsWithLuaStack":true
+  "ReplaceLightSorting":true
 }
