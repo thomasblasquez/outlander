@@ -5,14 +5,14 @@
   "EnableLogColors":false,
   "EnableLegacyLuaMods":true,
   "BuildNumber":4501,
-  "SuppressUselessWarnings":true,
+  "EnableLogLineNumbers":false,
   "RunInBackground":true,
   "PatchNiFlipController":true,
   "UseSkinnedAccurateActivationRaytests":true,
-  "EnableLogLineNumbers":false,
+  "SuppressUselessWarnings":true,
   "EnableLuaErrorNotifications":false,
   "EnableDependencyChecks":true,
-  "ReplaceDialogueFiltering":false,
+  "ReplaceLightSorting":true,
   "KeepAllNetImmerseObjectsAlive":false,
-  "ReplaceLightSorting":true
+  "ReplaceDialogueFiltering":false
 }

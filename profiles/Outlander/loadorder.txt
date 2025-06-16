@@ -12,17 +12,17 @@ Solstheim Tomb of The Snow Prince.esm
 Rise of House Telvanni.esm
 Friends_and_Foes_base.esm
 Westly Prim & Proper Core.esm
-Wares_lists_hold.ESP
-Wares_lists_OAAB.ESP
-Wares_lists_TD.ESP
-Wares_TR_containers.esp
-Wares_TR_npcs.esp
-Wares_TR_traders.esp
-Wares_containers.ESP
-Wares_Legacy.esp
-Wares_npcs.ESP
-Wares_traders.ESP
 Wares_vanilla_random_lists.ESP
+Wares_traders.ESP
+Wares_npcs.ESP
+Wares_Legacy.esp
+Wares_containers.ESP
+Wares_TR_traders.esp
+Wares_TR_npcs.esp
+Wares_TR_containers.esp
+Wares_lists_TD.ESP
+Wares_lists_OAAB.ESP
+Wares_lists_hold.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
 Ashfall.esp
 Bad Weather Matters.ESP
@@ -223,6 +223,7 @@ UL_-_Daedric_Shrine_Overhaul_Molag_Bal_Patch.esp
 UL_-_Daedric_Shrine_Overhaul_Sheogorath.esp
 Waterfalls Tweaks.esp
 BCOM_Decorated_Cantons.ESP
+Main Quest Bounty Hunters.ESP
 TLAD Full - Still - Necro Colors.esp
 OAAB - Tombs and Towers.ESP
 Beautiful cities of morrowind.esp

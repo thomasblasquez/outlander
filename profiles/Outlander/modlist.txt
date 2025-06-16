@@ -12,13 +12,13 @@
 -Radiant Quests
 -Privileges And Services for MWSE
 -Outlander Patrons
--Outlander BCOM Patches
 -Dwemer Engineering
 -You are Just a Beggar
 -I've Been Looking for You - Courier Service
+-Outlander BCOM Patches
 -Morrowind Compendium
 -Spell Research
-+Outlander Overhaul
+-Outlander Overhaul
 +Ring's Patch Repo
 -WIP_separator
 -Fashionwind - MWSE Glasses and Goggles V2

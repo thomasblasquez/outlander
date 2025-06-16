@@ -1,14 +1,14 @@
 {
   "hitChance":{
     "enable":true,
-    "posY":0.65,
-    "posX":0.35,
     "color":{
       "r":0,
       "b":0,
       "a":0.8,
       "g":0
     },
+    "posX":0.35,
+    "posY":0.65,
     "updateRate":0.25
   },
   "DEBUG":false,
@@ -21,9 +21,9 @@
     "enable":false,
     "durationThreshold":2,
     "menuModeAlpha":0.5,
-    "pinnedAlpha":0,
+    "updateRate":0.2,
     "borderMode":3,
-    "updateRate":0.2
+    "pinnedAlpha":0
   },
   "embed_travel":{
     "enable":true,
@@ -32,11 +32,8 @@
   "embed_spells":{
     "enable":true
   },
-  "enchantedGear":{
-    "enable":false,
-    "showVanillaOnHide":true,
-    "highlightNew":true,
-    "hideVanilla":true
+  "multi":{
+    "enable":true
   },
   "take":{
     "enable":true
@@ -44,7 +41,7 @@
   "contents":{
     "enable":true,
     "totalValue":false,
-    "showOwner":false
+    "showOwner":true
   },
   "manualAdd":"",
   "barter":{
@@ -53,42 +50,48 @@
     "showDisposition":true,
     "showNpcStats":false,
     "maxSell":30,
-    "enableJunk":false,
-    "hold":true,
     "chanceColor":true,
+    "hold":true,
+    "enableJunk":false,
     "showChance":true
   },
-  "spellmaking":{
-    "enable":true,
-    "showGold":true,
-    "serviceOnly":true
+  "embed_train":{
+    "enable":true
   },
-  "tooltip":{
-    "enable":true,
-    "junk":false,
-    "totalValue":true,
-    "showDur":true,
-    "charge":true,
-    "durationDigits":0,
-    "totalWeight":true
+  "embed_repair":{
+    "enable":true
   },
   "spellBarter":{
     "enable":true,
     "showCantCast":true
   },
   "embed_persuade":{
-    "enable":true,
+    "enable":false,
     "hold":true,
     "holdBribe":false,
     "instantFight":false
   },
-  "travel":{
+  "magic":{
     "enable":true,
-    "showKey":true
+    "highlightNew":true,
+    "highlightColor":{
+      "r":0.38,
+      "b":0.525,
+      "a":1,
+      "g":0.941
+    }
   },
   "escape":{
     "enable":true,
     "keybind":18,
+    "blacklist":{
+      "MenuSetValues":true,
+      "MenuStatReview":true,
+      "MenuRaceSex":true,
+      "MenuBirthSign":true,
+      "MenuName":true,
+      "MenuCreateClass":true
+    },
     "menus":{
       "MenuScroll":true,
       "MenuEnchantment":true,
@@ -103,7 +106,7 @@
       "bsTransferEnchant":true,
       "MenuServiceTravel":true,
       "MenuRestWait":true,
-      "MenuSpellmaking":true,
+      "MenuPrefs":true,
       "bsItemSelect":true,
       "MenuServiceRepair":true,
       "MenuBarter":true,
@@ -111,15 +114,7 @@
       "MenuDialog":true,
       "MenuInventory":true,
       "MenuJournal":true,
-      "MenuPrefs":true
-    },
-    "blacklist":{
-      "MenuSetValues":true,
-      "MenuStatReview":true,
-      "MenuRaceSex":true,
-      "MenuBirthSign":true,
-      "MenuName":true,
-      "MenuCreateClass":true
+      "MenuSpellmaking":true
     }
   },
   "keybind":{
@@ -159,8 +154,8 @@
       "isAltDown":false,
       "isControlDown":false
     },
-    "barterDown100":{
-      "keyCode":203,
+    "bribe1000":{
+      "keyCode":81,
       "isShiftDown":false,
       "configPath":"UI Tweaks",
       "isAltDown":false,
@@ -194,8 +189,8 @@
       "isAltDown":false,
       "isControlDown":false
     },
-    "intimidate":{
-      "keyCode":23,
+    "markJunk":{
+      "keyCode":56,
       "isShiftDown":false,
       "configPath":"UI Tweaks",
       "isAltDown":false,
@@ -208,8 +203,8 @@
       "isAltDown":false,
       "isControlDown":false
     },
-    "markJunk":{
-      "keyCode":56,
+    "taunt":{
+      "keyCode":20,
       "isShiftDown":false,
       "configPath":"UI Tweaks",
       "isAltDown":false,
@@ -222,8 +217,8 @@
       "isAltDown":false,
       "isControlDown":false
     },
-    "wait":{
-      "keyCode":17,
+    "admire":{
+      "keyCode":30,
       "isShiftDown":false,
       "configPath":"UI Tweaks",
       "isAltDown":false,
@@ -250,8 +245,8 @@
       "isAltDown":false,
       "isControlDown":false
     },
-    "barterUp100":{
-      "keyCode":205,
+    "bribe10":{
+      "keyCode":79,
       "isShiftDown":false,
       "configPath":"UI Tweaks",
       "isAltDown":false,
@@ -278,8 +273,8 @@
       "isAltDown":false,
       "isControlDown":false
     },
-    "bribe10":{
-      "keyCode":79,
+    "barterUp100":{
+      "keyCode":205,
       "isShiftDown":false,
       "configPath":"UI Tweaks",
       "isAltDown":false,
@@ -292,22 +287,22 @@
       "isAltDown":false,
       "isControlDown":false
     },
-    "admire":{
-      "keyCode":30,
+    "wait":{
+      "keyCode":17,
       "isShiftDown":false,
       "configPath":"UI Tweaks",
       "isAltDown":false,
       "isControlDown":false
     },
-    "taunt":{
-      "keyCode":20,
+    "intimidate":{
+      "keyCode":23,
       "isShiftDown":false,
       "configPath":"UI Tweaks",
       "isAltDown":false,
       "isControlDown":false
     },
-    "bribe1000":{
-      "keyCode":81,
+    "barterDown100":{
+      "keyCode":203,
       "isShiftDown":false,
       "configPath":"UI Tweaks",
       "isAltDown":false,
@@ -318,22 +313,22 @@
     "enable":true,
     "showGold":true
   },
-  "inv":{
+  "embed":{
     "enable":true,
-    "potionHighlight":true
+    "notify":true
   },
-  "embed_repair":{
-    "enable":true
-  },
-  "magic":{
+  "tooltip":{
     "enable":true,
-    "highlightNew":true,
-    "highlightColor":{
-      "r":0.38,
-      "b":0.525,
-      "a":1,
-      "g":0.941
-    }
+    "junk":false,
+    "totalValue":true,
+    "showDur":true,
+    "charge":true,
+    "durationDigits":0,
+    "totalWeight":true
+  },
+  "travel":{
+    "enable":true,
+    "showKey":true
   },
   "persuade":{
     "enable":true,
@@ -342,9 +337,9 @@
     "holdBribe":false,
     "showKey":false
   },
-  "embed":{
+  "inv":{
     "enable":true,
-    "notify":true
+    "potionHighlight":true
   },
   "repair":{
     "enable":true,
@@ -356,10 +351,15 @@
     "enable":true,
     "fullRest":false
   },
-  "embed_train":{
-    "enable":true
+  "enchantedGear":{
+    "enable":false,
+    "highlightNew":true,
+    "showVanillaOnHide":true,
+    "hideVanilla":true
   },
-  "multi":{
-    "enable":true
+  "spellmaking":{
+    "enable":true,
+    "showGold":true,
+    "serviceOnly":true
   }
 }
