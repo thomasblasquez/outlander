@@ -16,7 +16,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/thomasblasquez/outlander/main/Stock%20Game%20Folder/OutlanderPreviewBanner.png",
       "readme": "https://github.com/thomasblasquez/outlander",
